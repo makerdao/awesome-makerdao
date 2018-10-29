@@ -68,6 +68,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ### Lighter
    - [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e): Medium post by MakerDao
    - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
+   - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
+   
 ### Heavier
    - [Reserve's Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Hackernoon Post by Nevin Freeman
    - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
