@@ -188,6 +188,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Dai | MakerDAO Mentions
  - 09/23/2018: [Twelve reasons I’m bullish about Ethereum today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2): Post by Lane Rettig
  - 09/17/2018: [Ethereum Projects Start Using DAI as a Bank](https://www.trustnodes.com/2018/09/17/ethereum-projects-start-using-dai-as-a-bank): Article by Trustnodes(.com)
+ - 09/10/2018: [MakerDAO - Shitcoin Review](http://doiownashitcoin.com/blog/post/MakerDAO-Shitcoin-Review/)
  - 08/25/2018: [DAI (MakerDao) is Ethereum’s Crown Jewel](http://funnyking.io/?p=1630&lang=en): Post by Paolo Rebuffo
  - 08/15/2018: [Amid Chaos, DAI Stays Stable](https://www.trustnodes.com/2018/08/15/amid-chaos-dai-stays-stable): Article by Trustnodes(.com)
  - 08/07/2018: [Mapping The Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335): Post by Max Bronstein
