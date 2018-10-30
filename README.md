@@ -19,7 +19,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Main Links
  - [MakerDAO Website](https://makerdao.com/)
  - [Whitepaper](https://makerdao.com/whitepaper/) 
- - [Dai Dashboard](https://dai.makerdao.com/)
+ - [New CDP Portal](https://cdp.makerdao.com/)
+ - [Old Dai Dashboard](https://dai.makerdao.com/)
  - [Governance Dashboard](https://vote.makerdao.com/)
  - [Platform Data](https://mkr.tools/)
  - [Oasis.direct](https://oasis.direct/) | [Oasisdex.com](https://oasisdex.com)
