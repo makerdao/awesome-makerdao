@@ -372,6 +372,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 00/00/0000: [Stablecoins: Everything You Need to Know](https://cryptoinsider.21mil.com/stablecoins-everything-need-know/#decentralised-stablecoins): Post by Conor O'Higgins
 
 ## Tools, Trackers, and other Analytics
+ - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
  - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider 
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
  - [**Loanscan**](https://loanscan.io/): financial information and analytics for debt issued on the Ethereum blockchain
