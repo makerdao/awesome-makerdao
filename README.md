@@ -19,7 +19,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Main Links
  - [MakerDAO Website](https://makerdao.com/)
  - [Whitepaper](https://makerdao.com/whitepaper/) 
- - [New CDP Portal](https://cdp.makerdao.com/)
+ - [CDP Portal](https://cdp.makerdao.com/)
  - [Old Dai Dashboard](https://dai.makerdao.com/)
  - [Governance Dashboard](https://vote.makerdao.com/)
  - [Platform Data](https://mkr.tools/)
@@ -95,6 +95,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDao
 
 ## Major Milestones
+ - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
  - 10/24/2018: [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
  - 09/15/2018: [Foundation Proposal Approved](https://medium.com/makerdao/foundation-proposal-approved-54d0d4ac4122)
  - 09/11/2018: [Introducing the Governance Voting UI v1](https://medium.com/makerdao/introducing-the-governance-voting-ui-for-the-maker-foundational-vote-3fa669551ce1)
