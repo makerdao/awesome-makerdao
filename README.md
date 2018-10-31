@@ -8,7 +8,7 @@ The fact that Maker is a DAO means that it is possible for anyone, anywhere to b
 
 MKR holders are the highest authority in the Maker system---they help govern the system and are benefitted when they govern it well, but they also have to foot the bill if things are mismanaged---as a group they need strong social cooperation and a vigilant attitude towards governance.
 
-The most crucial part of the Dai Stable coin System is the CDP platform. CDPs are smart contracts that hold the collateral assets that guarantee the value of outstanding Dai, while simultaneously serving as a platform for decentralized margin trading; with lower costs and higher security than what is possible with current margin trading solutions.
+The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are smart contracts that hold the collateral assets that guarantee the value of outstanding Dai, while simultaneously serving as a platform for decentralized margin trading; with lower costs and higher security than what is possible with current margin trading solutions.
 
 The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from  decentralized finance.
 
