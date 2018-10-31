@@ -350,6 +350,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**MCD_JOIN_REP**: REP adapter responsible for joining and exiting REP collateral](https://kovan.etherscan.io/address/0x5df073feb82b95af2b3c90ae458201b997512ff7)
  - [**MCD_OSM_REP**: oracle security module feeding the REP.USD price](https://kovan.etherscan.io/address/0xf88bbdc1e2718f8857f30a180076ec38d53cf296)
  - [**MCD_FLIP_REP**: REP flip auction contract](https://kovan.etherscan.io/address/0xC0851F73CC8DD5c0765E71980eC7E7Fd1EF74434)
+ 
+ ### Audit Contracts
+ - [MakerDao Sai Contract Audit: See page for contributors](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf)
+ - [MakerDao Sai Contract Audit: Trail of Bits](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf)
+ - [MakerDAO Sai Contract Audit: Bok Consulting](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit)
+ - [Dapphub: Trail of Bits](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf)
 
 ---
 
