@@ -94,6 +94,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Dai Reward Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf): Medium post by MakerDao
  - [Foundation Proposal v2](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDao
  - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDao
+ - [The Importance of Debt Ceilings within MakerDao’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 
 ## Major Milestones
  - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
