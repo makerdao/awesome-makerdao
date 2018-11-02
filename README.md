@@ -122,6 +122,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
  - 09/24/2018: [**a16z crypto** purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO](https://medium.com/makerdao/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393) | [**a16z** injects Maker with $15MM for 3 more years of runway](https://a16zcrypto.com/2018/09/maker/)
  - 09/19/2018: [**Airbus Foundation** to Accept Tokenized Donations with DAI, Plasma, and Ethereum's Full Stack](https://www.trustnodes.com/2018/09/19/airbus-foundation-to-accept-tokenized-donations-with-dai-plasma-and-ethereums-full-stack)
  - 09/11/2018: [**CanYa** releases ‘hedged escrow’ to protect platform users from price volatility](https://medium.com/canyacoin/canya-releases-hedged-escrow-to-protect-platform-users-from-price-volatility-7fca7a0aad32)
@@ -168,6 +169,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ### By and With MakerDao Team Members
  - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
  - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
+ - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4 (starts at **4:34:10**)](https://slideslive.com/38911452/devcon4-day2)
  - Conference Presentation: [Dai Stablecoin Presentation with **Andy Milenius** @ Devcon 3](https://www.youtube.com/watch?v=L1erp9Gkesk&feature=youtu.be)
  - Conference Presentation: [Introduction to Dai @ World Crypto Economic Forum with **Andy Milenius**](https://www.youtube.com/watch?v=vJurxzk1Z6Q&feature=youtu.be)
  - Conference Presentation: [What’s to Come with **Matt Richard** at Dappcon 2018](https://www.youtube.com/watch?v=cNMaz3Q4S5U)
