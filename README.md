@@ -112,6 +112,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 12/17/2017: [Dai v1 Audited](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 
 ## AMAs | Interviews
+- 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
 - 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
 - 08/17/2018: [Interview: **MakerDAO CEO Rune Christensen** Talks Stablecoins](https://www.ccn.com/interview-makerdao-ceo-rune-christensen-talks-stablecoins/)
 - 08/16/2018: [We're **Rune Christensen (CEO, MakerDAO) and Michael Dunworth (CEO, Wyre)** - we just announced a great partnership. AMA (AUA)](https://www.reddit.com/r/ethtrader/comments/97ue60/were_rune_christensen_ceo_makerdao_and_michael/)
