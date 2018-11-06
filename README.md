@@ -110,6 +110,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 12/22/2017: [Sai Globally Settled](https://www.reddit.com/r/MakerDAO/comments/7lhbmx/psa_sai_now_globally_settled/)
  - 12/18/2017: [Dai v1 Launched](https://medium.com/makerdao/dai-is-now-live-ad87e34fc826)
  - 12/17/2017: [Dai v1 Audited](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
+ - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## AMAs | Interviews
 - 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
