@@ -379,7 +379,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 04/16/2018: [The Case for Central Bank Electronic Money and the Non-case for Central Bank Cryptocurrencies](https://research.stlouisfed.org/publications/review/2018/02/13/the-case-for-central-bank-electronic-money-and-the-non-case-for-central-bank-cryptocurrencies): Post by Aleksander Berentsen and Fabian Schar of The Federal Reserve Bank of St. Louis
  - 04/08/2018: [The Rise of Stablecoins](https://coinjournal.net/the-rise-of-stablecoins/): Post by Alex T
  - 04/05/2018: [Blockchain After the Gold Rush](https://hackernoon.com/blockchain-after-the-gold-rush-e1c6d3044dae): Hackernoon post by Abram Symons
- - 04/01/2018: [*Satire* Announcing World Trade Francs: The Official Ethereum Stablecoin](https://blog.ethereum.org/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin/): Post by Vitlik Buterin
+ - 04/01/2018: [*Satire* Announcing World Trade Francs: The Official Ethereum Stablecoin](https://blog.ethereum.org/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin/): Post by Vitalik Buterin
  - 02/21/2018: [Race for Stable Cryptos Heats Up as Volatility and Demand Surge](https://www.bloomberg.com/news/articles/2018-02-21/race-for-stable-cryptos-heats-up-as-volatility-and-demand-surge?): Post by Camila Russo
  - 02/19/2018: [Stablecoins: Designing a Price-Stable Cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5): Hackernoon post by Haseeb Qureshi
  - 02/08/2018: [Stablecoins 101: Why the Crypto Market Needs Fiat Stability](https://cryptoslate.com/stablecoins-101-crypto-market-needs-fiat-stability/): Post by Reuben Jackson
@@ -397,11 +397,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
  - [TrueUSD](https://www.trusttoken.com/trueusd/): USD Backed
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
+ - [Paxos Dolar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
- - [Havven](https://havven.io/): Seigniorage shares
  - [Basis](https://www.basis.io/): Seigniorage shares
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](StableUnit): Hybrid
  - [Reserve](https://www.reserve.org/): Unknown Category
  - [Fragments](https://www.fragments.org/): Unknown Category
+ - [Havven](https://havven.io/): Unknown
