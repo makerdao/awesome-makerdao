@@ -12,7 +12,7 @@ The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are
 
 The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from  decentralized finance.
 
-Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcments, AMAs, podcasts, 3rd party apps, and much more. 
+Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more. 
 
 ---
 
