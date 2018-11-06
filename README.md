@@ -405,4 +405,4 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Stableunit](StableUnit): Hybrid
  - [Reserve](https://www.reserve.org/): Unknown Category
  - [Fragments](https://www.fragments.org/): Unknown Category
- - [Havven](https://havven.io/): Unknown
+ - [Havven](https://havven.io/): Unknown (Seigniorage shares?)
