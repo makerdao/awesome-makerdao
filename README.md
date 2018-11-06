@@ -263,6 +263,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**KyberSwap**](https://kyber.network/swap)
  - [**Bancor**](https://www.bancor.network/)
  - [**Airswap**](https://airswap.io/trade)
+ - [**Uniswap**](https://uniswap.exchange/swap)
 
 #### Noncustodial Exchanges
  - [**OasisDex**](https://oasisdex.com/trade/W-ETH/DAI)
