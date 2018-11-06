@@ -399,10 +399,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
  - [Paxos Dolar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
+ - [Havven](https://havven.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](StableUnit): Hybrid
  - [Reserve](https://www.reserve.org/): Unknown Category
  - [Fragments](https://www.fragments.org/): Unknown Category
- - [Havven](https://havven.io/): Unknown (Seigniorage shares?)
