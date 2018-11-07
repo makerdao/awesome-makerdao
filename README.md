@@ -30,6 +30,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Reddit](https://www.reddit.com/r/MakerDAO)
  - [Medium](https://medium.com/@MakerDAO)
  - [RocketChat](https://chat.makerdao.com/)
+ - [Telegram](https://t.me/makerdaoofficial)
  - [YouTube](https://www.youtube.com/MakerDAO)
  - [Soundcloud](https://soundcloud.com/makerdao)
 
