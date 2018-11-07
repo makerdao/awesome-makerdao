@@ -233,25 +233,25 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Hold your Dai
  - ### Hardware Wallets
-    - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
-    - [**Trezor**](https://trezor.io/)
+   - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
+   - [**Trezor**](https://trezor.io/)
  - ### Mobile Wallets
- 	- [**Coinbase Wallet**](https://wallet.coinbase.com/)
-  - [**Coinomi**](https://www.coinomi.com/)
- 	- [**Edge**](https://edge.app/)
- 	- [**Jaxx**](https://jaxx.io/)
- 	- [**BRD**](https://brd.com/)	
+ 	 - [**Coinbase Wallet**](https://wallet.coinbase.com/)
+   - [**Coinomi**](https://www.coinomi.com/)
+ 	 - [**Edge**](https://edge.app/)
+ 	 - [**Jaxx**](https://jaxx.io/)
+ 	 - [**BRD**](https://brd.com/)	
  - ### Mobile Dapp & Browser Wallets
- 	- [**Trust Wallet**](https://trustwalletapp.com/)
- 	- [**Status.im**](https://status.im/)
- 	- [**imToken**](https://token.im/)
+ 	 - [**Trust Wallet**](https://trustwalletapp.com/)
+ 	 - [**Status.im**](https://status.im/)
+ 	 - [**imToken**](https://token.im/)
  - ### Web Wallets
- 	- [**MyCrypto**](https://mycrypto.com)
- 	- [**MyEtherWallet**](https://www.myetherwallet.com/)
+ 	 - [**MyCrypto**](https://mycrypto.com)
+ 	 - [**MyEtherWallet**](https://www.myetherwallet.com/)
  - ### Extension Wallets
-    - [**MetaMask**](https://metamask.io/)
+   - [**MetaMask**](https://metamask.io/)
  - ### Paper Wallets
- 	-  [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
+ 	 -  [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
 
 ## Trade Your Dai
 
