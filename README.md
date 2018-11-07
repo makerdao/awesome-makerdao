@@ -236,7 +236,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
     - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
     - [**Trezor**](https://trezor.io/)
  - ### Mobile Wallets
- 	- [**Coinomi**](https://www.coinomi.com/)
+ 	- [**Coinbase Wallet**](https://wallet.coinbase.com/)
+  - [**Coinomi**](https://www.coinomi.com/)
  	- [**Edge**](https://edge.app/)
  	- [**Jaxx**](https://jaxx.io/)
  	- [**BRD**](https://brd.com/)	
