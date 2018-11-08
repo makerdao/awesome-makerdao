@@ -82,6 +82,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [Collateralized Debt Obligations for Issuer-Backed Tokens](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525): Research post by Vbuterin
 
 ## Grilling Dai
+- [Reserve’s Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Blog post by Nevin Freeman
 - [MakerDao and the Dai](https://blog.havven.io/makerdao-and-the-dai-f21a4d5571a1): Blog post by Havven
 - [Cryptoasset Collateral Concerns](https://blog.havven.io/cryptoasset-collateral-concerns-25e2c2d74f30?_branch_match_id=565372563598051656): Blog post by Havven
 - [Why Should We Trust the MakerDAO Oracle System?](https://www.reddit.com/r/MakerDAO/comments/7zitlv/why_should_we_trust_the_makerdao_oracle_system/dup6j2t/): Reddit post by u/griggah
