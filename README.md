@@ -12,13 +12,13 @@ The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are
 
 The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from  decentralized finance.
 
-Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more. 
+Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
 ---
 
 ## Main Links
  - [MakerDAO Website](https://makerdao.com/)
- - [Whitepaper](https://makerdao.com/whitepaper/) 
+ - [Whitepaper](https://makerdao.com/whitepaper/)
  - [CDP Portal](https://cdp.makerdao.com/)
  - [Old Dai Dashboard](https://dai.makerdao.com/)
  - [Governance Dashboard](https://vote.makerdao.com/)
@@ -56,7 +56,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Tutorials
 - [Managing CDPs directly in MyEtherWallet (for hardware wallets)](https://www.reddit.com/r/MakerDAO/comments/8a1fmw/managing_cdps_directly_in_myetherwallet_for/): Reddit post by u/zarigis
-- [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu 
+- [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 
 ## FAQs
@@ -72,7 +72,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
    - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
    - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
-   
+
 ### Heavier
    - [Reserve's Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Hackernoon Post by Nevin Freeman
    - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
@@ -204,7 +204,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 08/15/2018: [Amid Chaos, DAI Stays Stable](https://www.trustnodes.com/2018/08/15/amid-chaos-dai-stays-stable): Article by Trustnodes(.com)
  - 08/07/2018: [Mapping The Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335): Post by Max Bronstein
  - 07/18/2018: [Vitalik Buterin on Cryptoeconomics and Markets in Everything by Conversations with Tyler](https://soundcloud.com/conversationswithtyler/vitalik-buterin-tyler-cowen-cryptoeconomics): Podcast by Tyler Cowen
- - 07/18/2018 [How Does MakerDao’s Proposed 20% Charitable Giving Principle Make Sense?](https://medium.com/@davidutrobin/how-does-makerdaos-20-charitable-giving-principle-make-sense-79ded5455e41): Post by David Utrobin 
+ - 07/18/2018 [How Does MakerDao’s Proposed 20% Charitable Giving Principle Make Sense?](https://medium.com/@davidutrobin/how-does-makerdaos-20-charitable-giving-principle-make-sense-79ded5455e41): Post by David Utrobin
  - 06/13/218: [The Four Major Things Missing in The Blockchain Industry](https://blockchainatberkeley.blog/4-things-missing-in-the-blockchain-industry-50f97bec098c?source=linkShare-680ab8fdfbf8-1532215291): Post by Wesley Graham and Robert Greenfield | Blockchain at Berkeley
  - 04/11/2018: [Is It Time For Crypto Exchanges to Replace the Dollar?](https://www.trustnodes.com/2018/04/11/time-crypto-exchanges-replace-dollar): Article by Trustnodes(.com)
  - 02/07/2018: [Dai CDP User Stories](https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda): Post by MakerDao
@@ -243,7 +243,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Coinomi**](https://www.coinomi.com/)
  - [**Edge**](https://edge.app/)
  - [**Jaxx**](https://jaxx.io/)
- - [**BRD**](https://brd.com/)	
+ - [**BRD**](https://brd.com/)
 ### Mobile Dapp & Browser Wallets
  - [**Trust Wallet**](https://trustwalletapp.com/)
  - [**Status.im**](https://status.im/)
@@ -313,7 +313,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ### APIs
  - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
- 
+
 ### Libraries and Tools
  - [**Node-Dai**](https://github.com/Kaisle/node-dai)
  - [**DappHub**: decentralized tool suite](https://dapphub.com/)
@@ -379,7 +379,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 07/02/2018: [A brief history of Stablecoins (Part 1)](https://blog.bitmex.com/a-brief-history-of-stablecoins-part-1/): Post by BITMEX RESEARCH
  - 05/17/2018: [Stablecoins: A Deep Dive, Featuring Basis, Carbon, and Fragments](https://nulltx.com/stablecoins-a-deep-dive-featuring-basis-carbon-and-fragments/): Post by Leslie Ankney
  - 05/03/2018: [The Instability of Stablecoins](https://hackernoon.com/the-instability-of-stablecoins-69e2c8e1729e): Hackernoon post by Anthony Xie
- - 04/29/2018: [Introduction to Stable Coins](https://medium.com/@blockspace.info/introduction-to-stable-coins-f8553d3a0feb): Medium post by By Victor Hogrefe & Aviv Milner of Blockspace Solutions Inc. 
+ - 04/29/2018: [Introduction to Stable Coins](https://medium.com/@blockspace.info/introduction-to-stable-coins-f8553d3a0feb): Medium post by By Victor Hogrefe & Aviv Milner of Blockspace Solutions Inc.
  - 04/16/2018: [The Case for Central Bank Electronic Money and the Non-case for Central Bank Cryptocurrencies](https://research.stlouisfed.org/publications/review/2018/02/13/the-case-for-central-bank-electronic-money-and-the-non-case-for-central-bank-cryptocurrencies): Post by Aleksander Berentsen and Fabian Schar of The Federal Reserve Bank of St. Louis
  - 04/08/2018: [The Rise of Stablecoins](https://coinjournal.net/the-rise-of-stablecoins/): Post by Alex T
  - 04/05/2018: [Blockchain After the Gold Rush](https://hackernoon.com/blockchain-after-the-gold-rush-e1c6d3044dae): Hackernoon post by Abram Symons
@@ -393,7 +393,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Tools, Trackers, and other Analytics
  - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
- - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider 
+ - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
  - [**Loanscan**](https://loanscan.io/): financial information and analytics for debt issued on the Ethereum blockchain
 
