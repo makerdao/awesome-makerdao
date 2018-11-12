@@ -1,6 +1,6 @@
 # Overview of MakerDao | Dai ⬙
 
-[Maker](https://makerdao.com/) is a Decentralized Autonomous Organization (DAO) that manages the Dai Stablecoin System on the Ethereum blockchain.
+[Maker](https://makerdao.com/) is a Decentralized Autonomous Organization(DAO) that manages the Dai Stablecoin System on the Ethereum blockchain.
 
 A decentralized stablecoin is the required component necessary to unlock the next phase of the digital financial revolution. Maker has taken the best parts of earlier stablecoin designs and combined them into the ultimate decentralized currency: Dai (unicode symbol: ⬙)
 
