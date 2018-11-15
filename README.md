@@ -402,7 +402,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
  - [TrueUSD](https://www.trusttoken.com/trueusd/): USD Backed
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
- - [Paxos Dolar](https://www.paxos.com/)
+ - [Paxos Dollar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
  - [Havven](https://havven.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares
