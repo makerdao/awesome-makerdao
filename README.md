@@ -39,7 +39,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Beginner Guides
 
  - [A Primer on Stablecoins by MakerDao: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f): Articles by MakerDao
- - [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/makerdao/maker-for-dummies-part-2-30bb11db168a): Articles by Gregory DiPrisco
+ - [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/@greg_10160/maker-for-dummies-part-2-3b364f86bbfd): Articles by Gregory DiPrisco
  - [TL:DR; A Snappy Guide to Makerdao and Dai](https://medium.com/@shaunsauve/tl-dr-guide-to-makerdao-and-dai-tokens-228a11fab6a2): Article by Shaunsuave
  - [A Stable Coin to Kill Traditional Scured Loans: Meet Maker Dai](https://medium.com/@chelinho1397/a-stable-coin-to-kill-traditional-secured-loans-ladies-and-gents-meet-dai-d17774a39f2e): Article by Chelo Cavazzoli
  -  [How to Use the DAI Platform](https://medium.com/ethex-market/using-the-dai-platform-ac7c54df7a1e): Article by Jordan Randolph
@@ -234,6 +234,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
  - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
  - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKR
+ - [**DevPost Page**](https://devpost.com/software/cdp-liquidator)
 
 ## Hold your Dai
 ### Hardware Wallets
