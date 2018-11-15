@@ -130,6 +130,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Partnerships
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
+ - 10/04/2018: [**TheBigCoin** announces partnershup with MakerDAO(https://www.thebigcoin.io/blog/partnership-with-makerdao)
  - 09/24/2018: [**a16z crypto** purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO](https://medium.com/makerdao/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393) | [**a16z** Maker by	Jesse Walden and Katie Haun](https://a16zcrypto.com/2018/09/maker/)
  - 09/19/2018: [**Airbus Foundation** to Accept Tokenized Donations with DAI, Plasma, and Ethereum's Full Stack](https://www.trustnodes.com/2018/09/19/airbus-foundation-to-accept-tokenized-donations-with-dai-plasma-and-ethereums-full-stack)
  - 09/11/2018: [**CanYa** releases ‘hedged escrow’ to protect platform users from price volatility](https://medium.com/canyacoin/canya-releases-hedged-escrow-to-protect-platform-users-from-price-volatility-7fca7a0aad32)
