@@ -39,7 +39,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Beginner Guides
 
  - [A Primer on Stablecoins by MakerDao: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f): Articles by MakerDao
- - [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/makerdao/maker-for-dummies-part-2-30bb11db168a): Articles by Gregory DiPrisco
+ - [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/@greg_10160/maker-for-dummies-part-2-3b364f86bbfd): Articles by Gregory DiPrisco
  - [TL:DR; A Snappy Guide to Makerdao and Dai](https://medium.com/@shaunsauve/tl-dr-guide-to-makerdao-and-dai-tokens-228a11fab6a2): Article by Shaunsuave
  - [A Stable Coin to Kill Traditional Scured Loans: Meet Maker Dai](https://medium.com/@chelinho1397/a-stable-coin-to-kill-traditional-secured-loans-ladies-and-gents-meet-dai-d17774a39f2e): Article by Chelo Cavazzoli
  -  [How to Use the DAI Platform](https://medium.com/ethex-market/using-the-dai-platform-ac7c54df7a1e): Article by Jordan Randolph
@@ -177,7 +177,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ### By and With MakerDao Team Members
  - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
  - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
- - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4 (starts at **4:34:10**)](https://slideslive.com/38911452/devcon4-day2)
+ - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
  - Conference Presentation: [Dai Stablecoin Presentation with **Andy Milenius** @ Devcon 3](https://www.youtube.com/watch?v=L1erp9Gkesk&feature=youtu.be)
  - Conference Presentation: [Introduction to Dai @ World Crypto Economic Forum with **Andy Milenius**](https://www.youtube.com/watch?v=vJurxzk1Z6Q&feature=youtu.be)
  - Conference Presentation: [What’s to Come with **Matt Richard** at Dappcon 2018](https://www.youtube.com/watch?v=cNMaz3Q4S5U)
@@ -218,7 +218,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
  - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
  - [**SilverWire**](https://silverwire.io/): Reversible payments
- - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/): Safely unwind your CDP to avoid liquidation
+ - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
  - [**AutoCDP**](http://autocdp.com/): Automate leveraging your CDP
  - [**CDPer**](https://www.reddit.com/r/MakerDAO/comments/8d5q9w/have_you_wanted_to_open_a_cdp_but_found_the/):  A contract to automate some CDP actions
  - [**QuickLine Market**](https://quickline.market/): Lend or Borrow Dai on Dharma
@@ -269,6 +269,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Bancor**](https://www.bancor.network/)
  - [**Airswap**](https://airswap.io/trade)
  - [**Uniswap**](https://uniswap.exchange/swap)
+ - [**Swap.online**](https://swap.online/dai)
 
 #### Noncustodial Exchanges
  - [**OasisDex**](https://oasisdex.com/trade/W-ETH/DAI)
