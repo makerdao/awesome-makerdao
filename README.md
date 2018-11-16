@@ -74,6 +74,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
 
 ### Heavier
+   - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
    - [Reserve's Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Hackernoon Post by Nevin Freeman
    - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
    - [Single collateral Dai— 9 months in review](https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab): Medium post by Mike McDonald
