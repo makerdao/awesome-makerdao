@@ -53,6 +53,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/): Article by Londonletter(.org)
  - [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): video by Maker说
  - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
+ - [Ivan on Tech: What is MakerDao? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 
 ## Tutorials
 - [Managing CDPs directly in MyEtherWallet (for hardware wallets)](https://www.reddit.com/r/MakerDAO/comments/8a1fmw/managing_cdps_directly_in_myetherwallet_for/): Reddit post by u/zarigis
@@ -103,6 +104,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [The Importance of Debt Ceilings within MakerDao’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 
 ## Major Milestones
+ - 11/13/2018: [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
  - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
  - 10/24/2018: [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
  - 09/15/2018: [Foundation Proposal Approved](https://medium.com/makerdao/foundation-proposal-approved-54d0d4ac4122)
@@ -130,6 +132,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
  - 10/04/2018: [**TheBigCoin** announces partnership with MakerDAO](https://www.thebigcoin.io/blog/partnership-with-makerdao)
  - 09/24/2018: [**a16z crypto** purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO](https://medium.com/makerdao/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393) | [**a16z** Maker by	Jesse Walden and Katie Haun](https://a16zcrypto.com/2018/09/maker/)
@@ -305,7 +308,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Ink Protocol**](https://paywithink.com/)
 
 ## On/Off Ramps
- - [**Wyre**: Withdraw your crypto to Fiat](https://sendwyre.com)
+ - [**Wyre**: Withdraw your crypto to Fiat](https://sendwyre.com): US/Australia/EU(soon™)/UK(soon™)
+     - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
+ - [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico 
 
 ---
 
