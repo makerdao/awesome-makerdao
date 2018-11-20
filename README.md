@@ -311,6 +311,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Wyre**: Withdraw your crypto to Fiat](https://sendwyre.com): US/Australia/EU(soon™)/UK(soon™)
      - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
  - [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico 
+ - [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
+ - [**Orionx**](www.orionx.com): Mexico and Chile
 
 ---
 
