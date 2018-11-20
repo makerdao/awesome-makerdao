@@ -132,6 +132,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
  - 10/04/2018: [**TheBigCoin** announces partnership with MakerDAO](https://www.thebigcoin.io/blog/partnership-with-makerdao)
@@ -385,7 +386,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Stablecoins in General
 ## Media
- - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins) by Cyrus Younessi of Scalar Capital
+ - 11/16/2018: [Stablecoin overview: A condensed version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/): Post by the CoinMarketCap Blog
+ - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins) Post by Cyrus Younessi of Scalar Capital
  - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hckernoon post by Abram Symons
  - 07/02/2018: [A brief history of Stablecoins (Part 1)](https://blog.bitmex.com/a-brief-history-of-stablecoins-part-1/): Post by BITMEX RESEARCH
  - 05/17/2018: [Stablecoins: A Deep Dive, Featuring Basis, Carbon, and Fragments](https://nulltx.com/stablecoins-a-deep-dive-featuring-basis-carbon-and-fragments/): Post by Leslie Ankney
