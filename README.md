@@ -295,6 +295,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com)
  - [**Yobit**](https://yobit.net/en/trade/DAI/USD)
  - [**Changelly**](https://changelly.com/)
+ - [**Panda**](https://panda.exchange/en-IC/): Latin America
 
 ## Spend Your Dai
  - [**NeedsList**: purchase items that are critically needed & help with disaster preparedness](https://needslist.co/donate)
