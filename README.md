@@ -135,6 +135,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
+ - 10/18/2018: [**POA Network** partners with MakerDAO on xDai Chain](https://medium.com/poa-network/poa-network-partners-with-makerdao-on-xdai-chain-the-first-ever-usd-stable-blockchain-65a078c41e6a)
  - 10/04/2018: [**TheBigCoin** announces partnership with MakerDAO](https://www.thebigcoin.io/blog/partnership-with-makerdao)
  - 09/24/2018: [**a16z crypto** purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO](https://medium.com/makerdao/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393) | [**a16z** Maker by	Jesse Walden and Katie Haun](https://a16zcrypto.com/2018/09/maker/)
  - 09/19/2018: [**Airbus Foundation** to Accept Tokenized Donations with DAI, Plasma, and Ethereum's Full Stack](https://www.trustnodes.com/2018/09/19/airbus-foundation-to-accept-tokenized-donations-with-dai-plasma-and-ethereums-full-stack)
