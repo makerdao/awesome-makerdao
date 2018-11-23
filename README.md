@@ -59,6 +59,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Managing CDPs directly in MyEtherWallet (for hardware wallets)](https://www.reddit.com/r/MakerDAO/comments/8a1fmw/managing_cdps_directly_in_myetherwallet_for/): Reddit post by u/zarigis
 - [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
+- [MakerDAO Tutorial - How To Create A Loan CPD](https://www.youtube.com/watch?v=sLRDWTtNC04): Youtube Video by Nuggets News
 
 ## FAQs
   - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
@@ -119,6 +120,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## AMAs | Interviews
+- 11/19/2018: [MakerDao—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
 - 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
 - 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
 - 08/17/2018: [Interview: **MakerDAO CEO Rune Christensen** Talks Stablecoins](https://www.ccn.com/interview-makerdao-ceo-rune-christensen-talks-stablecoins/)
@@ -204,6 +206,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - Youtube Video by Maker说 [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+ - 11/21/2018: [DAI Moved Nearly $200 Million worth of decentralized tokenized dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars): Article by Trustnodes(.com)
  - 09/23/2018: [Twelve reasons I’m bullish about Ethereum today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2): Post by Lane Rettig
  - 09/17/2018: [Ethereum Projects Start Using DAI as a Bank](https://www.trustnodes.com/2018/09/17/ethereum-projects-start-using-dai-as-a-bank): Article by Trustnodes(.com)
  - 09/10/2018: [MakerDAO - Shitcoin Review](http://doiownashitcoin.com/blog/post/MakerDAO-Shitcoin-Review/)
