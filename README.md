@@ -329,6 +329,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ### APIs
  - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
+ - [**kovan Graphql**](https://kovan-data.makerdao.com/)
 
 ### Libraries and Tools
  - [**Node-Dai**](https://github.com/Kaisle/node-dai)
