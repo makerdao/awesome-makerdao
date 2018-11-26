@@ -134,7 +134,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
- - 
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
  - 10/18/2018: [**POA Network** partners with MakerDAO on xDai Chain](https://medium.com/poa-network/poa-network-partners-with-makerdao-on-xdai-chain-the-first-ever-usd-stable-blockchain-65a078c41e6a)
@@ -167,7 +166,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 02/17/2018: [Introducing The Stable Fund, in partnership with **L4 Ventures**](https://medium.com/@stablefund/introducing-the-stable-fund-45-million-for-the-makerdao-ecosystem-def79afc4b2a)
  - 01/31/2018: [MakerDAO and **Digix**: DGX gold tokens to play a crucial role in the DAI stablecoin](https://medium.com/@Digix/partnership-announcement-makerdao-and-digix-dgx-gold-tokens-to-play-a-crucial-role-in-the-dai-8ed4c05b622c)
  - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
-
 
 ## Podcasts
 - 10/25/2018: [Boost VC S3 EP31: Solving for Volatility in Crypto with a Decentralized Stablecoin—with **Steven Becker** of MakerDAO](https://www.breaker.audio/the-boost-vc-podcast/e/39268463)
