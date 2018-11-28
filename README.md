@@ -134,6 +134,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 11/28/2018: [**Cryptocup** integrates DAI and Kyber Network to launch a stable prize pool game](https://medium.com/@cryptocup/cryptocup-integrates-dai-and-kyber-network-to-launch-a-stable-prize-pool-game-6ddd8121163c)
  - 11/19/2018: [**OpenSea** Buy and sell crypto collectibles with Dai](https://medium.com/opensea/buy-and-sell-crypto-collectibles-with-dai-abbc9b1811b5)
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
