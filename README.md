@@ -134,6 +134,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 11/19/2018: [**OpenSea** Buy and sell crypto collectibles with Dai](https://medium.com/opensea/buy-and-sell-crypto-collectibles-with-dai-abbc9b1811b5)
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
  - 10/26/2018: [**MedX** Partners with MakerDAO](https://medium.com/medxprotocol/medx-partners-with-makerdao-d5fa5aaab8b6)
  - 10/18/2018: [**POA Network** partners with MakerDAO on xDai Chain](https://medium.com/poa-network/poa-network-partners-with-makerdao-on-xdai-chain-the-first-ever-usd-stable-blockchain-65a078c41e6a)
@@ -306,6 +307,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**RequestNetworkTipBot**: Tip with Dai on Reddit through /u/RequestNetworkTipBot](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/)
  - [**Ethichub**: Provide p2p Loans to Communities Around the Globe](https://ethichub.com/)
  - [**Dharma**: Loan out your Crypto, including Dai](https://plex.dharma.io/)
+ - [**TheBigCoin**: Spend Dai Anywhere](https://www.thebigcoin.io/pay-with-dai)
 
 ### Merchant Solutions
  - [**Paybear**](https://paybear.io)
