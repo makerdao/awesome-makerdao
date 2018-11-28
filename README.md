@@ -18,7 +18,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Main Links
  - [MakerDAO Website](https://makerdao.com/)
- - [Whitepaper](https://makerdao.com/whitepaper/): 9 Languages 
+ - [Whitepaper: _9 Languages_](https://makerdao.com/whitepaper/) 
  - [CDP Portal](https://cdp.makerdao.com/)
  - [Old Dai Dashboard](https://dai.makerdao.com/)
  - [Governance Dashboard](https://vote.makerdao.com/)
