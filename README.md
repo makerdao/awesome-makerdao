@@ -216,7 +216,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 06/13/218: [The Four Major Things Missing in The Blockchain Industry](https://blockchainatberkeley.blog/4-things-missing-in-the-blockchain-industry-50f97bec098c?source=linkShare-680ab8fdfbf8-1532215291): Post by Wesley Graham and Robert Greenfield | Blockchain at Berkeley
  - 04/11/2018: [Is It Time For Crypto Exchanges to Replace the Dollar?](https://www.trustnodes.com/2018/04/11/time-crypto-exchanges-replace-dollar): Article by Trustnodes(.com)
  - 02/07/2018: [Dai CDP User Stories](https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda): Post by MakerDao
- - 01/24/2018: [MakerDAO and More: The Quest for a Stable Stablecoin Continues - CoinDesk](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/)
+ - 01/24/2018: [MakerDAO and More: The Quest for a Stable Stablecoin Continues - CoinDesk](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/): Article by Coindesk
+ - 08/05/2017: [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66): Post by Ryan Zurrer of Polychain Capital
 
 ---
 # Playing with Dai⬙
