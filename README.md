@@ -235,6 +235,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
  - [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
  - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
+ - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
 
 ## Tools and Statistics
  - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
