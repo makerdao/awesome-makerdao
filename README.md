@@ -31,6 +31,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Medium](https://medium.com/@MakerDAO)
  - [RocketChat](https://chat.makerdao.com/)
  - [Telegram](https://t.me/makerdaoofficial)
+ - [WeChat: makershequ](https://web.wechat.com/)
  - [YouTube](https://www.youtube.com/MakerDAO)
  - [Soundcloud](https://soundcloud.com/makerdao)
 
