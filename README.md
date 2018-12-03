@@ -120,6 +120,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## AMAs | Interviews
+- 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
 - 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
 - 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
 - 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
@@ -134,6 +135,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 11/30/2018: [Dai is now available on **Compound.Finance**](https://medium.com/compound-finance/compound-adds-dai-437d66190588)
  - 11/28/2018: [**Cryptocup** integrates DAI and Kyber Network to launch a stable prize pool game](https://medium.com/@cryptocup/cryptocup-integrates-dai-and-kyber-network-to-launch-a-stable-prize-pool-game-6ddd8121163c)
  - 11/19/2018: [**OpenSea** Buy and sell crypto collectibles with Dai](https://medium.com/opensea/buy-and-sell-crypto-collectibles-with-dai-abbc9b1811b5)
  - 11/15/2018: [MakerDAO partners with **Ripio** to bring Dai to South America via fiat on/off ramp](https://medium.com/makerdao/makerdao-partners-with-ripio-to-bring-dai-to-south-america-via-fiat-on-off-ramp-e22ac71a210d)
@@ -170,6 +172,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## Podcasts
+- 12/02/2018: [POV Crypto — Episode 14: Bitcoin Vs. MakerDAO](https://medium.com/pov-crypto/pov-crypto-episode-14-bitcoin-vs-makerdao-2d5689f3fbb1)
 - 10/25/2018: [Boost VC S3 EP31: Solving for Volatility in Crypto with a Decentralized Stablecoin—with **Steven Becker** of MakerDAO](https://www.breaker.audio/the-boost-vc-podcast/e/39268463)
 - 10/17/2018: [51percent: Ep 5: MakerDAO Founder and CEO **Rune Christensen**](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
 - 09/28/2018: [Unconfirmed: **Rune Christensen** of MakerDao on Its $15 Million From Andreessen Horowitz - Ep.039](https://soundcloud.com/unconfirmedpodcast/rune-christensen-of-makerdao)
@@ -236,6 +239,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
  - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
  - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
+ - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 
 ## Tools and Statistics
  - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
