@@ -241,6 +241,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
  - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
  - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+ - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 
 ## Tools and Statistics
  - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
@@ -261,6 +262,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Edge**](https://edge.app/)
  - [**Jaxx**](https://jaxx.io/)
  - [**BRD**](https://brd.com/)
+ - [**Freewallet**](https://freewallet.org/eth-wallet)
+ - [**Ethex**](https://ethex.market/)
 ### Mobile Dapp & Browser Wallets
  - [**Trust Wallet**](https://trustwalletapp.com/)
  - [**Status.im**](https://status.im/)
@@ -286,6 +289,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Airswap**](https://airswap.io/trade)
  - [**Uniswap**](https://uniswap.exchange/swap)
  - [**Swap.online**](https://swap.online/dai)
+ - [**SimpleSwap**](https://simpleswap.io/)
 
 #### Noncustodial Exchanges
  - [**OasisDex**](https://oasisdex.com/trade/W-ETH/DAI)
