@@ -182,8 +182,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 02/09/2018: [The Cryptoverse - If Tether Crypto Is A Scam, The DAI Token Is An Alternative with **Rune Christensen**](https://player.fm/series/2285829/204315556)
 - 02/27/2018: [Unchained Podcast - Why It's so Hard to Keep Stablecoins Stable with **Rune Christensen**](https://soundcloud.com/unchainedpodcast/why-its-so-hard-to-keep)
 - 07/15/2017: [This Week in Crypto - MakerDAO project CEO **Rune Christensen**](https://soundcloud.com/ccnpodcast/3-this-week-in-crypto-coinbase)
-- 03/30/2017: [EB124 – **Rune Christensen**: MakerDAO Ethereum's Decentralized Central Bank](https://soundcloud.com/epicenterbitcoin/eb-124)
 - 02/02/2017: [BlockChannel Episode 7: Meet Your Maker, Ethereum: **Andy Milenius & Kenny Rowe**](https://soundcloud.com/blockchannelshow/episode-7-meet-your-maker-ethereum)
+- 03/28/2016: [EB124 – **Rune Christensen**: MakerDAO Ethereum's Decentralized Central Bank](https://soundcloud.com/epicenterbitcoin/eb-124)
 
 ## Videos
 ### By and With MakerDAO Team Members
