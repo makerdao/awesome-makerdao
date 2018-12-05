@@ -57,6 +57,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 
 ## Tutorials
+- [Opening a CDP with the New MakerDAO CDP Portal](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd): Medium post by Deepit AG
 - [Managing CDPs directly in MyEtherWallet (for hardware wallets)](https://www.reddit.com/r/MakerDAO/comments/8a1fmw/managing_cdps_directly_in_myetherwallet_for/): Reddit post by u/zarigis
 - [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
@@ -262,7 +263,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Coinbase Wallet**](https://wallet.coinbase.com/)
  - [**Coinomi**](https://www.coinomi.com/)
  - [**Edge**](https://edge.app/)
- - [**Jaxx**](https://jaxx.io/)
  - [**BRD**](https://brd.com/)
  - [**Freewallet**](https://freewallet.org/eth-wallet)
  - [**Ethex**](https://ethex.market/)
