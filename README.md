@@ -137,6 +137,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 
 ## Partnerships
+ - 12/05/2018: [**ZelCore** integrates MakerDAO’s $DAI Stablecoin](https://medium.com/@ZelOfficial/zelcore-integrates-makerdaos-dai-stablecoin-ba1740abdc07)
  - 12/04/2018: [**dYdX** Margin Tokens and DAI](https://medium.com/dydxderivatives/dydx-margin-tokens-and-dai-6f11a44dfeca)
  - 11/30/2018: [Dai is now available on **Compound.Finance**](https://medium.com/compound-finance/compound-adds-dai-437d66190588)
  - 11/28/2018: [**Cryptocup** integrates DAI and Kyber Network to launch a stable prize pool game](https://medium.com/@cryptocup/cryptocup-integrates-dai-and-kyber-network-to-launch-a-stable-prize-pool-game-6ddd8121163c)
