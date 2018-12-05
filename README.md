@@ -264,23 +264,26 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
  - [**Trezor**](https://trezor.io/)
 ### Mobile Wallets
- - [**Coinbase Wallet**](https://wallet.coinbase.com/)
  - [**Coinomi**](https://www.coinomi.com/)
  - [**Edge**](https://edge.app/)
  - [**BRD**](https://brd.com/)
  - [**Freewallet**](https://freewallet.org/eth-wallet)
  - [**Ethex**](https://ethex.market/)
 ### Mobile Dapp & Browser Wallets
+ - [**Coinbase Wallet**](https://wallet.coinbase.com/)
  - [**Trust Wallet**](https://trustwalletapp.com/)
  - [**Status.im**](https://status.im/)
  - [**imToken**](https://token.im/)
+### Hybrid Wallets: Mobile + Desktop
+ - [**Atomic Wallet**](https://atomicwallet.io/)
+ - [**Zelcore**](https://zelcore.io/)
 ### Web Wallets
  - [**MyCrypto**](https://mycrypto.com)
  - [**MyEtherWallet**](https://www.myetherwallet.com/)
 ### Extension Wallets
  - [**MetaMask**](https://metamask.io/)
 ### Paper Wallets
- -  [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
+ - [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
 
 ## Trade Your Dai
 
