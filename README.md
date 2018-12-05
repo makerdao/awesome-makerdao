@@ -244,7 +244,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
  - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
  
- ## 3rd party CDP Portals 
+ ## 3rd Party CDP Portals 
  - [**Easy CDP**](https://easycdp.com/): Easy management tool for CDPs
  - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
  - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
