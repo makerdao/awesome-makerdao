@@ -99,8 +99,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
  - [**Governance & Risk Meetings: Written recaps**](https://github.com/scottrepreneur/maker-minutes): Github repo
  - [**Community Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI): Youtube Playlist
+ - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077): Medium Posts by MakerDAO
  - [Lessons from MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a): Medium post by Nick Tomaino
- - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9): Medium Posts by MakerDAO
  - [Dai Reward Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf): Medium post by MakerDAO
  - [Foundation Proposal v2](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDAO
  - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
