@@ -314,6 +314,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**SharkRelay**](https://app.sharkrelay.com/#/WETH/DAI)
 
 #### Custodial Exchanges
+ - [**KuCoin**](https://www.kucoin.com/#/)
  - [**Gate.io**](https://www.gate.io/trade/DAI_USDT)
  - [**HitBTC**](https://hitbtc.com/ETH-to-DAI)
  - [**Bibox**](https://bibox.com/exchange?coinPair=ETH_DAI)
@@ -445,10 +446,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
  - [Paxos Dollar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
- - [Havven](https://havven.io/): Collateral backed
+ - [Havven/Synthetix](https://havven.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](StableUnit): Hybrid
  - [Reserve](https://www.reserve.org/): Unknown Category
- - [Fragments](https://www.fragments.org/): Unknown Category
+ - [Fragments/Ampleforth](https://www.fragments.org/): Unknown Category
