@@ -254,10 +254,11 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 
 ## Tools and Statistics
- - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
  - [**Mkr.tools**](https://www.mkr.tools): Information statistics
+ - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
  - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
+ - [**State of the dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao)
  - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
  - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
  - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKR
