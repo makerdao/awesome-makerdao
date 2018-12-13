@@ -333,6 +333,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Ethichub**: Provide p2p Loans to Communities Around the Globe](https://ethichub.com/)
  - [**Dharma**: Loan out your Crypto, including Dai](https://plex.dharma.io/)
  - [**TheBigCoin**: Spend Dai Anywhere](https://www.thebigcoin.io/pay-with-dai)
+ -[**Bidali**: Buy gift cards with Dai](https://giftcards.bidali.com/buy-giftcards-with-dai/)
 
 ### Merchant Solutions
  - [**Paybear**](https://paybear.io)
