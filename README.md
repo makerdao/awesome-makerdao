@@ -216,7 +216,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Dai | MakerDAO Mentions
  - 12/10/2018: [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance): Article by Trustnodes(.com)
- - 12/03/2018: [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633): Medium Post by Brian Colwell
+ - 12/03/2018: [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633) | [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3): Medium Post by Brian Colwell
  - 11/21/2018: [DAI Moved Nearly $200 Million worth of decentralized tokenized dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars): Article by Trustnodes(.com)
  - 09/23/2018: [Twelve reasons I’m bullish about Ethereum today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2): Post by Lane Rettig
  - 09/17/2018: [Ethereum Projects Start Using DAI as a Bank](https://www.trustnodes.com/2018/09/17/ethereum-projects-start-using-dai-as-a-bank): Article by Trustnodes(.com)
