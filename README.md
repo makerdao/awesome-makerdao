@@ -235,7 +235,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ---
 # Playing with Dai⬙
 ## 3rd Party Apps and Integrations
- - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
  - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
  - [**SilverWire**](https://silverwire.io/): Reversible payments
  - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
@@ -257,6 +256,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Mkr.tools**](https://www.mkr.tools): Information statistics
  - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
  - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
+ - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
  - [**State of the dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
  - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
