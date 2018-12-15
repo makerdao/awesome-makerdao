@@ -256,11 +256,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Mkr.tools**](https://www.mkr.tools): Information statistics
  - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
  - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
+ - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
  - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
  - [**State of the dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
  - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
- - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
+ - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins 
  - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKR
 
 ## Hold your Dai
