@@ -109,6 +109,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 
 ## Major Milestones
+ - 12/18/2018: [Happy BirthDAI: 1 year since the launch of Dai](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
  - 11/13/2018: [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
  - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
  - 10/24/2018: [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
