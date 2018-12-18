@@ -77,6 +77,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
    - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
    - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
+   - [Cryptoasset Research: Maker (MKR)](https://medium.com/@jackpurdy/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
 
 ### Heavier
    - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
