@@ -457,7 +457,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Paxos Dollar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
  - [Havven/Synthetix](https://havven.io/): Collateral backed
- - [Basis](https://www.basis.io/): Seigniorage shares
+ - [Basis](https://www.basis.io/): Seigniorage shares ([Defunct](https://medium.com/basis-blog/basis-update-ae96e3565b1d))
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](StableUnit): Hybrid
