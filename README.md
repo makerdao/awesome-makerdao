@@ -217,6 +217,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - Youtube Video by Maker说 [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+ - 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
  - 12/12/2018: [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369): Medium Post by David Hoffman
  - 12/10/2018: [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance): Article by Trustnodes(.com)
  - 12/03/2018: [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633) | [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3): Medium Post by Brian Colwell
