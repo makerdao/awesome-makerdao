@@ -209,6 +209,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## Podcasts
+- 12/21/2018: [a16z Podcast: All about Stablecoins, with **Andy Milenius**](https://a16z.com/2018/12/20/stablecoins-why-matter-what-how-daos-maker/)
+- 12/20/2018: [POV Crypto Special Edition: The Role of Ether in Multi-Collateral DAI, with **David Utrobin**](https://medium.com/@TrustlessState/pov-crypto-special-edition-the-role-of-ether-in-multi-collateral-dai-dd90fd15adfc)
 - 12/02/2018: [POV Crypto — Episode 14: Bitcoin Vs. MakerDAO](https://medium.com/pov-crypto/pov-crypto-episode-14-bitcoin-vs-makerdao-2d5689f3fbb1)
 - 10/25/2018: [Boost VC S3 EP31: Solving for Volatility in Crypto with a Decentralized Stablecoin—with **Steven Becker** of MakerDAO](https://www.breaker.audio/the-boost-vc-podcast/e/39268463)
 - 10/17/2018: [51percent: Ep 5: MakerDAO Founder and CEO **Rune Christensen**](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
@@ -294,6 +296,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Mkr.tools**](https://www.mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
+- [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
 - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
