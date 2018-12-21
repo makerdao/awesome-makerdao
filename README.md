@@ -76,19 +76,19 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e): Medium post by MakerDAO
    - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
    - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
-   - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
-   - [Cryptoasset Research: Maker (MKR)](https://medium.com/@jackpurdy/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
 
 ### Heavier
-   - [Cryptoasset Research: Maker (MKR)](https://cryptocurrencyhub.io/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
    - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
    - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
-   - [Reserve's Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Hackernoon Post by Nevin Freeman
-   - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
    - [Single collateral Dai— 9 months in review](https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab): Medium post by Mike McDonald
    - [Maximum Leverage on Maker](https://ian.pw/posts/2018-01-25-maximum-leverage-on-maker.html): Blog post by Ian Macalinao
    - [Measuring Maker-Dai stability](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128): Medium post by Sid Shekhar
    - [Collateralized Debt Obligations for Issuer-Backed Tokens](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525): Research post by Vbuterin
+
+## Speculation
+   - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
+   - [Cryptoasset Research: Maker (MKR)](https://cryptocurrencyhub.io/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
+   - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
 
 ## Grilling Dai
 - [Reserve’s Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Blog post by Nevin Freeman
