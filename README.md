@@ -80,6 +80,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
    - [Cryptoasset Research: Maker (MKR)](https://medium.com/@jackpurdy/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
 
 ### Heavier
+   - [Cryptoasset Research: Maker (MKR)](https://cryptocurrencyhub.io/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
+   - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
    - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
    - [Reserve's Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Hackernoon Post by Nevin Freeman
    - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
@@ -138,7 +140,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 11/11/2017: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
-
 ## Partnerships
  - 12/05/2018: [**ZelCore** integrates MakerDAO’s $DAI Stablecoin](https://medium.com/@ZelOfficial/zelcore-integrates-makerdaos-dai-stablecoin-ba1740abdc07)
  - 12/04/2018: [**dYdX** Margin Tokens and DAI](https://medium.com/dydxderivatives/dydx-margin-tokens-and-dai-6f11a44dfeca)
@@ -194,6 +195,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Videos
 ### By and With MakerDAO Team Members
+ - Bloomberg Panel: [Stable Coins- a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
  - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
  - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
  - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
