@@ -237,6 +237,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Conference Presentation: [Dai Stablecoin Presentation with **Andy Milenius** @ Devcon 3](https://www.youtube.com/watch?v=L1erp9Gkesk&feature=youtu.be)
 - Conference Presentation: [Introduction to Dai @ World Crypto Economic Forum with **Andy Milenius**](https://www.youtube.com/watch?v=vJurxzk1Z6Q&feature=youtu.be)
 - Conference Presentation: [What’s to Come with **Matt Richard** at Dappcon 2018](https://www.youtube.com/watch?v=cNMaz3Q4S5U)
+- Conference Presentation: [MakerDAO: Challenges of asset backed Stablecoins [**Nik and Rune**] | DeFi Summit Prague](https://www.youtube.com/watch?v=JLRDIKG59Mg&t=49s)
 - Meetup Presentation: [MakerDAO and Dai Stablecoin @ Ethereum Shanghai with **Chao Pan**](https://youtu.be/rFVVApu_hYY)
 - Meetup Presentation: [What is MakerDAO? with **Rune Christensen** @ NYC Ethereum](https://www.youtube.com/watch?v=yvfvVlxL-Lw)
 - Meetup Presentations: [Stablecoins with MakerDAO, Formal Verification Research @ Ethereum Madrid Feat. **Denis Erfurt** & Others](https://youtu.be/49S2_FJtJko)
