@@ -360,6 +360,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Swap.online**](https://swap.online/dai)
 - [**SimpleSwap**](https://simpleswap.io/)
 - [**Uniswap**](https://uniswap.exchange/swap)
+- [**StableWire: Stablecoins only**](https://stablewire.com/)
 
 ## Noncustodial Exchanges
 - [**OasisDex**](https://oasisdex.com/trade/W-ETH/DAI)
