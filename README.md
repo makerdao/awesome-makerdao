@@ -68,13 +68,14 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Soundcloud](https://soundcloud.com/makerdao)
 
 ## Beginner Guides
-- [A Primer on Stablecoins by MakerDAO: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f): Articles by MakerDAO
-- [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/@greg_10160/maker-for-dummies-part-2-3b364f86bbfd): Articles by Gregory DiPrisco
-- [TL:DR; A Snappy Guide to MakerDAO and Dai](https://medium.com/@shaunsauve/tl-dr-guide-to-makerdao-and-dai-tokens-228a11fab6a2): Article by Shaunsuave
-- [A Stable Coin to Kill Traditional Scured Loans: Meet Maker Dai](https://medium.com/@chelinho1397/a-stable-coin-to-kill-traditional-secured-loans-ladies-and-gents-meet-dai-d17774a39f2e): Article by Chelo Cavazzoli
--  [How to Use the DAI Platform](https://medium.com/ethex-market/using-the-dai-platform-ac7c54df7a1e): Article by Jordan Randolph
--  [The Dai Stablecoin is a Game Changer](https://medium.com/@james_3093/the-dai-stablecoin-is-a-game-changer-for-ethereum-and-the-entire-cryptocurrency-ecosystem-13fb412d1e75): Article by James Seibel
--  [CDP Creation Guide](https://www.reddit.com/r/MakerDAO/comments/7nv37u/cdp_creation_guide/): Reddit post by u/Blieden
+- [A Primer on Stablecoins by MakerDAO: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f): Medium Series by MakerDAO
+- [MakerDAO for Dummies: Part 1](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) | [Part 2](https://medium.com/@greg_10160/maker-for-dummies-part-2-3b364f86bbfd): Medium Series by Gregory DiPrisco
+- [TL:DR; A Snappy Guide to MakerDAO and Dai](https://medium.com/@shaunsauve/tl-dr-guide-to-makerdao-and-dai-tokens-228a11fab6a2): Medium Post by Shaunsuave
+- [A Stable Coin to Kill Traditional Scured Loans: Meet Maker Dai](https://medium.com/@chelinho1397/a-stable-coin-to-kill-traditional-secured-loans-ladies-and-gents-meet-dai-d17774a39f2e): Medium Post by Chelo Cavazzoli
+- [How to Use the DAI Platform](https://medium.com/ethex-market/using-the-dai-platform-ac7c54df7a1e): Medium Post by Jordan Randolph
+- [The Dai Stablecoin is a Game Changer](https://medium.com/@james_3093/the-dai-stablecoin-is-a-game-changer-for-ethereum-and-the-entire-cryptocurrency-ecosystem-13fb412d1e75): Medium Post by James Seibel
+- [Decentralized recursive ETH leveraged positions on MakerDAO — part 0: Preface and introduction](https://medium.com/@ptr_ujvr/decentralized-recursive-eth-leveraged-positions-on-makerdao-part-0-preface-and-introduction-ced5fc5eb457): Medium Series by Péter Újvári
+- [CDP Creation Guide](https://www.reddit.com/r/MakerDAO/comments/7nv37u/cdp_creation_guide/): Reddit post by u/Blieden
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/): Articles by Blockgeeks(.com)
 - [Beginner's Guide to MakerDAO & Dai](https://blockonomi.com/maker-dao-guide/): Article by Blockonomi(.com)
 - [What is Maker Dai?](https://coincentral.com/maker-dai-beginner-guide/): Article by CoinCentral(.com)
@@ -91,6 +92,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [MakerDAO Tutorial - How To Create A Loan CPD](https://www.youtube.com/watch?v=sLRDWTtNC04): Youtube Video by Nuggets News
+- [Opening a CDP using InstaDapp's CDP portal](https://blog.goodaudience.com/first-loan-355d3c84d0ae): Medium Post by Vishva Dave
 
 ## FAQs
 - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
@@ -112,6 +114,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Maximum Leverage on Maker](https://ian.pw/posts/2018-01-25-maximum-leverage-on-maker.html): Blog post by Ian Macalinao
 - [Measuring Maker-Dai stability](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128): Medium post by Sid Shekhar
 - [Collateralized Debt Obligations for Issuer-Backed Tokens](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525): Research post by Vbuterin
+- [How stable are the top stablecoins? A quantitative analysis](https://medium.com/coinmonks/how-well-do-the-top-stablecoins-perform-a-quantitative-analysis-c56d022719b): Medium post by Wes Levitt
 
 ## Speculation
 - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
@@ -286,6 +289,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
+- [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
+- [**Telegram CDP Alerts**](https://maker.bitpager.io/): Telegram notifications when new DAI is issued or CDP debt is repaid by Bitpager
 
 ## 3rd Party CDP Portals
 
@@ -338,7 +343,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MetaMask**](https://metamask.io/)
 
 ## Paper Wallets
-- [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
+- [**MyEtherWallet**](https://www.myetherwallet.com/#generate-wallet)
 
 # Trade Your Dai
 
