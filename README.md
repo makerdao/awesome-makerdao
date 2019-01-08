@@ -122,6 +122,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
 
 ## Critiques
+- [Maker Dai: Stable, but not scalable: A lesson in stablecoin arbitrage](https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6) | [Reddit Thread](https://www.reddit.com/r/MakerDAO/comments/adp7ur/maker_dai_stable_but_not_scalable_medium_article/): Medium Post by Hasu
 - [Reserve’s Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Blog post by Nevin Freeman
 - [MakerDAO and the Dai](https://blog.havven.io/makerdao-and-the-dai-f21a4d5571a1): Blog post by Havven
 - [Cryptoasset Collateral Concerns](https://blog.havven.io/cryptoasset-collateral-concerns-25e2c2d74f30?_branch_match_id=565372563598051656): Blog post by Havven
