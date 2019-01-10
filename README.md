@@ -299,6 +299,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
+- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
 
 # Watch your Dai
 
