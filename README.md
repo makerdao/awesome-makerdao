@@ -517,6 +517,3 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Stableunit](StableUnit): Hybrid
  - [Reserve](https://www.reserve.org/): Unknown Category
  - [Fragments/Ampleforth](https://www.fragments.org/): Unknown Category
-
-
-lol
