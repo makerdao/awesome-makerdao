@@ -106,9 +106,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e): Medium post by MakerDAO
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
+- [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
 
 ### Heavier
-- [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
+- [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd): Medium Post by Jack Purdy
 - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
 - [Single collateral Dai— 9 months in review](https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab): Medium post by Mike McDonald
 - [Maximum Leverage on Maker](https://ian.pw/posts/2018-01-25-maximum-leverage-on-maker.html): Blog post by Ian Macalinao
@@ -258,6 +259,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说 [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 - 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
 - 12/12/2018: [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369): Medium Post by David Hoffman
 - 12/10/2018: [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance): Article by Trustnodes(.com)
@@ -294,12 +296,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
 - [**Telegram CDP Alerts**](https://maker.bitpager.io/): Telegram notifications when new DAI is issued or CDP debt is repaid by Bitpager
+- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
 
 ## 3rd Party CDP Portals
 
 - [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
-- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
 
 # Watch your Dai
 
