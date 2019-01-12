@@ -35,6 +35,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Dai | MakerDAO Mentions](#dai--makerdao-mentions)
+- [Audits and Security](#audits-and-security)
 - [Use Your Dai](#use-your-dai)
 - [Watch your Dai](#watch-your-dai)
 - [Hold your Dai](#hold-your-dai)
@@ -279,6 +280,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 01/24/2018: [MakerDAO and More: The Quest for a Stable Stablecoin Continues - CoinDesk](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/): Article by Coindesk
 - 08/05/2017: [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66): Post by Ryan Zurrer of Polychain Capital
 
+# Audits and Security
+- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): Whitehat, et al.
+- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
+- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
+- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) Trail of Bits
+
 # Use Your Dai
 
 ## 3rd Party Apps and Integrations
@@ -432,12 +439,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MakerDAO**](https://github.com/makerdao)
 - [**DappHub**](https://github.com/dapphub)
 - [**OasisDEX**](https://github.com/OasisDEX)
-
-## Audit Contracts
-- [**MakerDAO Sai Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): See page for contributors
-- [**MakerDAO Sai Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
-- [**MakerDAO Sai Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
-- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) Trail of Bits
 
 ## All the Contracts
 
