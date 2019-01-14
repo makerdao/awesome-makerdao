@@ -234,6 +234,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Videos
 
 ### By and With MakerDAO Team Members
+- Conference Panel: [The Great Stablecoin Debate: with Reserve, USDC, and MakerDAO(**Steven Becker**) | MultiCoin Summit](https://www.youtube.com/watch?v=WAiuZuQg3kg)
 - Bloomberg Panel: [Stable Coins- a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
