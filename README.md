@@ -177,6 +177,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 01/14/2018: [**VANTA** to Accept Dai Stablecoin in Presale](https://medium.com/vantanetwork/vanta-to-accept-dai-stablecoin-in-presale-16cf44eb97a1)
 - 12/05/2018: [**ZelCore** integrates MakerDAO’s $DAI Stablecoin](https://medium.com/@ZelOfficial/zelcore-integrates-makerdaos-dai-stablecoin-ba1740abdc07)
 - 12/04/2018: [**dYdX** Margin Tokens and DAI](https://medium.com/dydxderivatives/dydx-margin-tokens-and-dai-6f11a44dfeca)
 - 11/30/2018: [Dai is now available on **Compound.Finance**](https://medium.com/compound-finance/compound-adds-dai-437d66190588)
