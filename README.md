@@ -83,7 +83,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [What is MakerDAO?](https://www.tokendaily.co/blog/a-deep-dive-into-makerdao): Article by TokenDaily(.co)
 - [What is Maker? A Complete Guide](https://www.cryptocurrencyguide.org/what-is-maker-mkr-complete-guide/): Article by cryptocurrencyguide(.org)
 - [Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/): Article by Londonletter(.org)
-- [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): video by Maker说
+- [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): Video by Maker说
 - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
 - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 
@@ -172,7 +172,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 08/16/2018: [We're **Rune Christensen (CEO, MakerDAO) and Michael Dunworth (CEO, Wyre)** - we just announced a great partnership. AMA (AUA)](https://www.reddit.com/r/ethtrader/comments/97ue60/were_rune_christensen_ceo_makerdao_and_michael/)
 - 08/09/2018: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
 - 06/25/2018: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ) (VIDEO)
-- 04/22/2018 [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
+- 04/22/2018: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
 - 01/31/2018: [**Andy Milenius** Of MakerDAO: Crypto Price Volatility Will Hinder Real Economy onto the Blockchain | UNITALKS](https://unitimes.media/unitalks/3912/)
 - 11/11/2017: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
@@ -257,10 +257,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Mena Summit 2018 Panel, Charles Noyes mentions MakerDAO: [Navigating Investments from Cryptocurrencies to Blockchain](https://www.youtube.com/watch?time_continue=718&v=lp5Yx34SO58)
 - Youtube Video by Blockhead Media: [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&)
 - Youtube Clip by CryptosRUs: [Tether 2.0 – A Look at Dai and Maker Coins ](https://youtu.be/DAz6RtkoTM4?t=14m36s)
-- Youtube Clip by Coin Mastery [The Psychology Of "Doing Nothing" in Crypto - Weiss Ratings, Korean Exchange, StableCoins - Ep 130 ](https://youtu.be/ZxoWlzmh0VE?t=11m4s)
-- Youtube Video by CRYPTO [Dai: The Stablecoin From MakerDAO on CRYPTO: Whitepaper Wednesdays](https://www.youtube.com/watch?v=9y700ytqejI)
+- Youtube Clip by Coin Mastery: [The Psychology Of "Doing Nothing" in Crypto - Weiss Ratings, Korean Exchange, StableCoins - Ep 130 ](https://youtu.be/ZxoWlzmh0VE?t=11m4s)
+- Youtube Video by CRYPTO: [Dai: The Stablecoin From MakerDAO on CRYPTO: Whitepaper Wednesdays](https://www.youtube.com/watch?v=9y700ytqejI)
 - Youtube Video by Jackson Palmer: [What are Stablecoins?](https://www.youtube.com/watch?v=EB7Bs-8WjQ4)
-- Youtube Video by Maker说 [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
+- Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
 - 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
@@ -287,7 +287,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): Whitehat, et al.
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
-- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) Trail of Bits
+- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
 
 # Use Your Dai
 
@@ -401,7 +401,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Panda**](https://panda.exchange/en-IC/): Latin America
 
 # Spend Your Dai
-- [**NeedsList**](https://needslist.co/donate): purchase items that are critically needed & help with disaster preparedness
+- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
 - [**RequestNetworkTipBot**](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/): Tip with Dai on Reddit through /u/RequestNetworkTipBot
 - [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [**Dharma**](https://plex.dharma.io/): Loan out your Crypto, including Dai
@@ -489,8 +489,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Media
  - 11/16/2018: [Stablecoin overview: A condensed version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/): Post by the CoinMarketCap Blog
- - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins) Post by Cyrus Younessi of Scalar Capital
- - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hckernoon post by Abram Symons
+ - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins): Post by Cyrus Younessi of Scalar Capital
+ - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hackernoon post by Abram Symons
+ - 07/04/2018: [Stablecoins: Everything You Need to Know](https://cryptoinsider.21mil.com/stablecoins-everything-need-know/#decentralised-stablecoins): Post by Conor O'Higgins
  - 07/02/2018: [A brief history of Stablecoins (Part 1)](https://blog.bitmex.com/a-brief-history-of-stablecoins-part-1/): Post by BITMEX RESEARCH
  - 05/17/2018: [Stablecoins: A Deep Dive, Featuring Basis, Carbon, and Fragments](https://nulltx.com/stablecoins-a-deep-dive-featuring-basis-carbon-and-fragments/): Post by Leslie Ankney
  - 05/03/2018: [The Instability of Stablecoins](https://hackernoon.com/the-instability-of-stablecoins-69e2c8e1729e): Hackernoon post by Anthony Xie
@@ -504,13 +505,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 02/08/2018: [Stablecoins 101: Why the Crypto Market Needs Fiat Stability](https://cryptoslate.com/stablecoins-101-crypto-market-needs-fiat-stability/): Post by Reuben Jackson
  - 01/17/2018: [An Overview of Stablecoins - Multicoin Capital](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/): Post by Myles Snider of MultiCoin Capital
  - 10/23/2017: [Can a Blockchain Help Charities?](https://www.viget.com/articles/can-a-blockchain-help-charities/): Post by Leo Bauza
- - 00/00/0000: [Stablecoins: Everything You Need to Know](https://cryptoinsider.21mil.com/stablecoins-everything-need-know/#decentralised-stablecoins): Post by Conor O'Higgins
 
 ## Tools, Trackers, and Analytics
  - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
  - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
- - [**Loanscan**](https://loanscan.io/): financial information and analytics for debt issued on the Ethereum blockchain
+ - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 
 ## Other Stablecoin Projects
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
