@@ -524,5 +524,5 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](https://stableunit.org/): Hybrid
- - [Reserve](https://www.reserve.org/): Algorithmic
+ - [Reserve](https://www.reserve.org/): Hybrid
  - [Fragments/Ampleforth](https://www.ampleforth.org): Algorithmic
