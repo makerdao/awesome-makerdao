@@ -4,13 +4,13 @@
 
 A decentralized stablecoin is the required component necessary to unlock the next phase of the digital financial revolution. Maker has taken the best parts of earlier stablecoin designs and combined them into the ultimate decentralized currency: Dai (unicode symbol: ⬙)
 
-The fact that Maker is a DAO means that it is possible for anyone, anywhere to become a part of Maker and help build the backbone of a new  economy.
+The fact that Maker is a DAO means that it is possible for anyone, anywhere to become a part of Maker and help build the backbone of a new economy.
 
 MKR holders are the highest authority in the Maker system---they help govern the system and are benefited when they govern it well, but they also have to foot the bill if things are mismanaged---as a group they need strong social cooperation and a vigilant attitude towards governance.
 
 The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are smart contracts that hold the collateral assets that guarantee the value of outstanding Dai, while simultaneously serving as a platform for decentralized margin trading; with lower costs and higher security than what is possible with current margin trading solutions.
 
-The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from  decentralized finance.
+The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from decentralized finance.
 
 Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
@@ -83,7 +83,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [What is MakerDAO?](https://www.tokendaily.co/blog/a-deep-dive-into-makerdao): Article by TokenDaily(.co)
 - [What is Maker? A Complete Guide](https://www.cryptocurrencyguide.org/what-is-maker-mkr-complete-guide/): Article by cryptocurrencyguide(.org)
 - [Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/): Article by Londonletter(.org)
-- [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): video by Maker说
+- [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): Video by Maker说
 - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
 - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 
@@ -129,8 +129,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [MakerDAO and the Dai](https://blog.havven.io/makerdao-and-the-dai-f21a4d5571a1): Blog post by Havven
 - [Cryptoasset Collateral Concerns](https://blog.havven.io/cryptoasset-collateral-concerns-25e2c2d74f30?_branch_match_id=565372563598051656): Blog post by Havven
 - [Why Should We Trust the MakerDAO Oracle System?](https://www.reddit.com/r/MakerDAO/comments/7zitlv/why_should_we_trust_the_makerdao_oracle_system/dup6j2t/): Reddit post by u/griggah
--  [4 questions to DAI and the future of stable cryptocurrency](https://bootstrapping.dk/4-questions-to-dai-and-the-future-of-stable-cryptocurrency/): Article by Esben Vest
--  [Can the powers that be shut down MakerDAO and Dai?](https://www.reddit.com/r/MakerDAO/comments/8e5cnv/can_the_powers_at_be_shut_down_makerdao_and_dai/dxsswx6/): Reddit post by u/18idlwk1920dc
+- [4 questions to DAI and the future of stable cryptocurrency](https://bootstrapping.dk/4-questions-to-dai-and-the-future-of-stable-cryptocurrency/): Article by Esben Vest
+- [Can the powers that be shut down MakerDAO and Dai?](https://www.reddit.com/r/MakerDAO/comments/8e5cnv/can_the_powers_at_be_shut_down_makerdao_and_dai/dxsswx6/): Reddit post by u/18idlwk1920dc
 
 ## Governance
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
@@ -147,6 +147,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Major Milestones
 - 12/18/2018: [Happy BirthDAI: 1 year since the launch of Dai](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
+- 12/14/2018: [Decreasing the Stability Fee](https://medium.com/makerdao/decreasing-the-stability-fee-1f9fe50cf582)
 - 11/13/2018: [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
 - 10/24/2018: [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
@@ -171,7 +172,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 08/16/2018: [We're **Rune Christensen (CEO, MakerDAO) and Michael Dunworth (CEO, Wyre)** - we just announced a great partnership. AMA (AUA)](https://www.reddit.com/r/ethtrader/comments/97ue60/were_rune_christensen_ceo_makerdao_and_michael/)
 - 08/09/2018: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
 - 06/25/2018: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ) (VIDEO)
-- 04/22/2018 [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
+- 04/22/2018: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
 - 01/31/2018: [**Andy Milenius** Of MakerDAO: Crypto Price Volatility Will Hinder Real Economy onto the Blockchain | UNITALKS](https://unitimes.media/unitalks/3912/)
 - 11/11/2017: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
@@ -256,10 +257,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Mena Summit 2018 Panel, Charles Noyes mentions MakerDAO: [Navigating Investments from Cryptocurrencies to Blockchain](https://www.youtube.com/watch?time_continue=718&v=lp5Yx34SO58)
 - Youtube Video by Blockhead Media: [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&)
 - Youtube Clip by CryptosRUs: [Tether 2.0 – A Look at Dai and Maker Coins ](https://youtu.be/DAz6RtkoTM4?t=14m36s)
-- Youtube Clip by Coin Mastery [The Psychology Of "Doing Nothing" in Crypto - Weiss Ratings, Korean Exchange, StableCoins - Ep 130 ](https://youtu.be/ZxoWlzmh0VE?t=11m4s)
-- Youtube Video by CRYPTO [Dai: The Stablecoin From MakerDAO on CRYPTO: Whitepaper Wednesdays](https://www.youtube.com/watch?v=9y700ytqejI)
+- Youtube Clip by Coin Mastery: [The Psychology Of "Doing Nothing" in Crypto - Weiss Ratings, Korean Exchange, StableCoins - Ep 130 ](https://youtu.be/ZxoWlzmh0VE?t=11m4s)
+- Youtube Video by CRYPTO: [Dai: The Stablecoin From MakerDAO on CRYPTO: Whitepaper Wednesdays](https://www.youtube.com/watch?v=9y700ytqejI)
 - Youtube Video by Jackson Palmer: [What are Stablecoins?](https://www.youtube.com/watch?v=EB7Bs-8WjQ4)
-- Youtube Video by Maker说 [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
+- Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
 - 01/17/2019: [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c): MakerDAO Guest Medium Post by @ProgrammableTX
@@ -287,7 +288,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): Whitehat, et al.
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
-- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) Trail of Bits
+- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
 
 # Use Your Dai
 
@@ -296,9 +297,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
 - [**SilverWire**](https://silverwire.io/): Reversible payments
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**AutoCDP**](http://autocdp.com/): Automate leveraging your CDP
-- [**CDPer**](https://www.reddit.com/r/MakerDAO/comments/8d5q9w/have_you_wanted_to_open_a_cdp_but_found_the/):  A contract to automate some CDP actions
-- [**QuickLine Market**](https://quickline.market/): Lend or Borrow Dai on Dharma
+- [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
 - [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
@@ -398,10 +397,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com)
 - [**Yobit**](https://yobit.net/en/trade/DAI/USD)
 - [**Changelly**](https://changelly.com/)
+- [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC)
+- [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH)
 - [**Panda**](https://panda.exchange/en-IC/): Latin America
 
 # Spend Your Dai
-- [**NeedsList**](https://needslist.co/donate): purchase items that are critically needed & help with disaster preparedness
+- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
 - [**RequestNetworkTipBot**](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/): Tip with Dai on Reddit through /u/RequestNetworkTipBot
 - [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [**Dharma**](https://plex.dharma.io/): Loan out your Crypto, including Dai
@@ -414,7 +415,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Ink Protocol**](https://paywithink.com/)
 
 ## On/Off Ramps
-- [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat  US/Australia/EU(soon™)/UK(soon™)
+- [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
   - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
 - [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
 - [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
@@ -427,7 +428,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Glossary**](https://github.com/makerdao/dss/wiki/Glossary): of terms in code
 - [**MCD Core CDP Engine Architecture**](https://github.com/makerdao/dss/wiki): Diagram
 - [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
-- [**k-dss formal specification and verification of Multi-Collateral  Dai**](https://github.com/dapphub/k-dss)
+- [**k-dss formal specification and verification of Multi-Collateral Dai**](https://github.com/dapphub/k-dss)
 
 ## APIs
 - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
@@ -489,8 +490,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Media
  - 11/16/2018: [Stablecoin overview: A condensed version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/): Post by the CoinMarketCap Blog
- - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins) Post by Cyrus Younessi of Scalar Capital
- - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hckernoon post by Abram Symons
+ - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins): Post by Cyrus Younessi of Scalar Capital
+ - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hackernoon post by Abram Symons
+ - 07/04/2018: [Stablecoins: Everything You Need to Know](https://cryptoinsider.21mil.com/stablecoins-everything-need-know/#decentralised-stablecoins): Post by Conor O'Higgins
  - 07/02/2018: [A brief history of Stablecoins (Part 1)](https://blog.bitmex.com/a-brief-history-of-stablecoins-part-1/): Post by BITMEX RESEARCH
  - 05/17/2018: [Stablecoins: A Deep Dive, Featuring Basis, Carbon, and Fragments](https://nulltx.com/stablecoins-a-deep-dive-featuring-basis-carbon-and-fragments/): Post by Leslie Ankney
  - 05/03/2018: [The Instability of Stablecoins](https://hackernoon.com/the-instability-of-stablecoins-69e2c8e1729e): Hackernoon post by Anthony Xie
@@ -502,15 +504,14 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 02/21/2018: [Race for Stable Cryptos Heats Up as Volatility and Demand Surge](https://www.bloomberg.com/news/articles/2018-02-21/race-for-stable-cryptos-heats-up-as-volatility-and-demand-surge?): Post by Camila Russo
  - 02/19/2018: [Stablecoins: Designing a Price-Stable Cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5): Hackernoon post by Haseeb Qureshi
  - 02/08/2018: [Stablecoins 101: Why the Crypto Market Needs Fiat Stability](https://cryptoslate.com/stablecoins-101-crypto-market-needs-fiat-stability/): Post by Reuben Jackson
- - 01/17/2018: [An Overview of Stablecoins - Multicoin Capital](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/): Post by  Myles Snider of MultiCoin Capital
+ - 01/17/2018: [An Overview of Stablecoins - Multicoin Capital](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/): Post by Myles Snider of MultiCoin Capital
  - 10/23/2017: [Can a Blockchain Help Charities?](https://www.viget.com/articles/can-a-blockchain-help-charities/): Post by Leo Bauza
- - 00/00/0000: [Stablecoins: Everything You Need to Know](https://cryptoinsider.21mil.com/stablecoins-everything-need-know/#decentralised-stablecoins): Post by Conor O'Higgins
 
 ## Tools, Trackers, and Analytics
  - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
  - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider
  - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
- - [**Loanscan**](https://loanscan.io/): financial information and analytics for debt issued on the Ethereum blockchain
+ - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 
 ## Other Stablecoin Projects
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
@@ -518,10 +519,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
  - [Paxos Dollar](https://www.paxos.com/)
  - [Tether](https://tether.to/): USD Backed
- - [Havven/Synthetix](https://havven.io/): Collateral backed
+ - [Havven/Synthetix](https://www.synthetix.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares ([Defunct](https://medium.com/basis-blog/basis-update-ae96e3565b1d))
  - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
- - [Stableunit](StableUnit): Hybrid
- - [Reserve](https://www.reserve.org/): Unknown Category
- - [Fragments/Ampleforth](https://www.fragments.org/): Unknown Category
+ - [Stableunit](https://stableunit.org/): Hybrid
+ - [Reserve](https://www.reserve.org/): Algorithmic
+ - [Fragments/Ampleforth](https://www.ampleforth.org): Algorithmic
