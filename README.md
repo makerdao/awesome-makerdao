@@ -403,6 +403,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC)
 - [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH)
 - [**Panda**](https://panda.exchange/en-IC/): Latin America
+- [**Probit**](https://www.probit.com/en-us)
 
 # Spend Your Dai
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
