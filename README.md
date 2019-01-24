@@ -265,7 +265,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
-- 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
+- 01/24/2019: [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf): Guest post by Brian D. Colwell on MakerDAO's medium
+- 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis): Post by Chris Burniske and Joel Monegro
 - 01/17/2019: [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c): MakerDAO Guest Medium Post by @ProgrammableTX
 - 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 - 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
