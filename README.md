@@ -243,6 +243,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
 - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
+- Conference Presentation: [ETHBerlin - **Mariano Conti** - Price Oracles + Signed Messages On & Off-Chain](https://view.ly/v/Rt275OYzLCI1)
 - Conference Presentation: [Dai Stablecoin Presentation with **Andy Milenius** @ Devcon 3](https://www.youtube.com/watch?v=L1erp9Gkesk&feature=youtu.be)
 - Conference Presentation: [Introduction to Dai @ World Crypto Economic Forum with **Andy Milenius**](https://www.youtube.com/watch?v=vJurxzk1Z6Q&feature=youtu.be)
 - Conference Presentation: [What’s to Come with **Matt Richard** at Dappcon 2018](https://www.youtube.com/watch?v=cNMaz3Q4S5U)
