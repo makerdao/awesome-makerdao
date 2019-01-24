@@ -178,7 +178,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
-- 01/14/2018: [**VANTA** to Accept Dai Stablecoin in Presale](https://medium.com/vantanetwork/vanta-to-accept-dai-stablecoin-in-presale-16cf44eb97a1)
+- 01/21/2019: [Introducing Decentralized Bank: **InstaDapp**](https://medium.com/instadapp/decentralize-bank-afc337a20f58)
+- 01/14/2019: [**VANTA** to Accept Dai Stablecoin in Presale](https://medium.com/vantanetwork/vanta-to-accept-dai-stablecoin-in-presale-16cf44eb97a1)
 - 12/05/2018: [**ZelCore** integrates MakerDAO’s $DAI Stablecoin](https://medium.com/@ZelOfficial/zelcore-integrates-makerdaos-dai-stablecoin-ba1740abdc07)
 - 12/04/2018: [**dYdX** Margin Tokens and DAI](https://medium.com/dydxderivatives/dydx-margin-tokens-and-dai-6f11a44dfeca)
 - 11/30/2018: [Dai is now available on **Compound.Finance**](https://medium.com/compound-finance/compound-adds-dai-437d66190588)
@@ -219,6 +220,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## Podcasts
+- 01/22/2018: [Ep 19, MakerDAO, Novel Paradigms for Risk Management with **Steven Becker**, President and COO](https://simplecast.com/s/e32e5290)
 - 12/21/2018: [a16z Podcast: All about Stablecoins, with **Andy Milenius**](https://a16z.com/2018/12/20/stablecoins-why-matter-what-how-daos-maker/)
 - 12/20/2018: [POV Crypto Special Edition: The Role of Ether in Multi-Collateral DAI, with **David Utrobin**](https://medium.com/@TrustlessState/pov-crypto-special-edition-the-role-of-ether-in-multi-collateral-dai-dd90fd15adfc)
 - 12/02/2018: [POV Crypto — Episode 14: Bitcoin Vs. MakerDAO](https://medium.com/pov-crypto/pov-crypto-episode-14-bitcoin-vs-makerdao-2d5689f3fbb1)
@@ -263,6 +265,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 - 01/17/2019: [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c): MakerDAO Guest Medium Post by @ProgrammableTX
 - 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 - 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
