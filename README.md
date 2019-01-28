@@ -178,6 +178,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 01/22/2019: [**Share & Charge platform** Decentralized Electric Vehicle Charging](https://medium.com/share-charge/share-charge-platform-phase-1-a65c7f8fc27f) 
 - 01/21/2019: [Introducing Decentralized Bank: **InstaDapp**](https://medium.com/instadapp/decentralize-bank-afc337a20f58)
 - 01/14/2019: [**VANTA** to Accept Dai Stablecoin in Presale](https://medium.com/vantanetwork/vanta-to-accept-dai-stablecoin-in-presale-16cf44eb97a1)
 - 12/05/2018: [**ZelCore** integrates MakerDAO’s $DAI Stablecoin](https://medium.com/@ZelOfficial/zelcore-integrates-makerdaos-dai-stablecoin-ba1740abdc07)
