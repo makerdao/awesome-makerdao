@@ -344,6 +344,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**BRD**](https://brd.com/)
 - [**Freewallet**](https://freewallet.org/eth-wallet)
 - [**Ethex**](https://ethex.market/)
+- [**Ethos Universal Wallet**](https://www.ethos.io/universal-wallet/)
 
 ## Mobile Dapp & Browser Wallets
 - [**Coinbase Wallet**](https://wallet.coinbase.com/)
