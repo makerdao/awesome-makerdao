@@ -422,6 +422,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**8x Protocol**](https://8xprotocol.com/)
 - [**Ink Protocol**](https://paywithink.com/)
 
+## Open-Source payment processors 
+- [**Daipay**](https://github.com/codevet/daipay/)
+
 ## On/Off Ramps
 - [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
   - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
