@@ -146,6 +146,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 
 ## Major Milestones
+- 01/21/2019: [2,000,000 ETH Locked in the CDP Engine](https://twitter.com/nanexcool/status/1090833187918528517)
 - 12/18/2018: [Happy BirthDAI: 1 year since the launch of Dai](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
 - 12/14/2018: [Decreasing the Stability Fee](https://medium.com/makerdao/decreasing-the-stability-fee-1f9fe50cf582)
 - 11/13/2018: [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
@@ -448,10 +449,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**kovan Graphql**](https://kovan-data.makerdao.com/)
 
 ## Libraries and Tools
+- [**Dai.js JavaScript library Documentation**](https://makerdao.com/documentation/)
 - [**Node-Dai**](https://github.com/Kaisle/node-dai)
 - [**DappHub**](https://dapphub.com/): decentralized tool suite
 - [**Klab**](https://github.com/dapphub/klab): generating and debugging K-framework reachability proofs
-- [**Dai.js JavaScript library Documentation**](https://makerdao.com/documentation/)
 
 ## Source Code
 - [**MakerDAO**](https://github.com/makerdao)
