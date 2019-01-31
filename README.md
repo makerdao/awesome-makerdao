@@ -298,20 +298,25 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Use Your Dai
 
-## 3rd Party Apps and Integrations
+## 3rd Party Apps, Integrations, and Tools
 
-- [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
-- [**SilverWire**](https://silverwire.io/): Reversible payments
+- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
+- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
-- [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
-- [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
-- [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
+- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+- [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
+- [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
+- [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
+- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
+- [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
+- [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
+- [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
+- [**SilverWire**](https://silverwire.io/): Reversible payments
 - [**Telegram CDP Alerts**](https://maker.bitpager.io/): Telegram notifications when new DAI is issued or CDP debt is repaid by Bitpager
-- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
+- [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
 
 ## 3rd Party CDP Portals
 
@@ -321,17 +326,14 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Watch your Dai
 
 - [**Mkr.tools**](https://www.mkr.tools): MakerDAO System Explorer and Informational Statistics
-- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
 - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
-- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
 - [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
-- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
-- [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKR
+- [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 
 # Hold your Dai
 
@@ -449,6 +451,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Node-Dai**](https://github.com/Kaisle/node-dai)
 - [**DappHub**](https://dapphub.com/): decentralized tool suite
 - [**Klab**](https://github.com/dapphub/klab): generating and debugging K-framework reachability proofs
+- [**Dai.js JavaScript library Documentation**](https://makerdao.com/documentation/)
 
 ## Source Code
 - [**MakerDAO**](https://github.com/makerdao)
@@ -464,7 +467,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Liquidator**](https://etherscan.io/address/0xbda109309f9fafa6dd6a9cb9f1df4085b27ee8ef)
 - [**Target Price Feed**](https://etherscan.io/address/0x9b0f70df76165442ca6092939132bbaea77f2d7a)
 - [**Dai Documentation**](https://developer.makerdao.com/dai/1/)
-- [**Dai.js JavaScript library Documentation**](https://makerdao.com/documentation/)
+- [**dss-proxy-actions**](https://github.com/makerdao/dss-proxy-actions)
 
 ### Dai v1 Kovan
 - [**Dai Token Tracker**](https://kovan.etherscan.io/token/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
@@ -517,12 +520,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 02/08/2018: [Stablecoins 101: Why the Crypto Market Needs Fiat Stability](https://cryptoslate.com/stablecoins-101-crypto-market-needs-fiat-stability/): Post by Reuben Jackson
  - 01/17/2018: [An Overview of Stablecoins - Multicoin Capital](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/): Post by Myles Snider of MultiCoin Capital
  - 10/23/2017: [Can a Blockchain Help Charities?](https://www.viget.com/articles/can-a-blockchain-help-charities/): Post by Leo Bauza
-
-## Tools, Trackers, and Analytics
- - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
- - [**Stablecoin Index**](https://stablecoinindex.com/): Price tracking site Created by Myles Snider
- - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
- - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 
 ## Other Stablecoin Projects
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
