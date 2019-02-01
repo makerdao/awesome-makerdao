@@ -326,7 +326,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Watch your Dai
 
-- [**Mkr.tools**](https://www.mkr.tools): MakerDAO System Explorer and Informational Statistics
+- [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
 - [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
