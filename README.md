@@ -268,18 +268,19 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 01/31/2019: [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590): Medium Post by Cyrus Younessi 
 - 01/24/2019: [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf): Guest post by Brian D. Colwell on MakerDAO's medium
 - 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis): Post by Chris Burniske and Joel Monegro
 - 01/17/2019: [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c): MakerDAO Guest Medium Post by @ProgrammableTX
-- 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
-- 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
+- 01/11/2019: [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d): Medium Post by Andy Tudhope
+- 12/19/2018: [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5): Medium Post by Max Bronstein
 - 12/12/2018: [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369): Medium Post by David Hoffman
 - 12/10/2018: [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance): Article by Trustnodes(.com)
 - 12/03/2018: [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633) | [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3): Medium Post by Brian Colwell
 - 11/21/2018: [DAI Moved Nearly $200 Million worth of decentralized tokenized dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars): Article by Trustnodes(.com)
 - 09/23/2018: [Twelve reasons I’m bullish about Ethereum today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2): Post by Lane Rettig
 - 09/17/2018: [Ethereum Projects Start Using DAI as a Bank](https://www.trustnodes.com/2018/09/17/ethereum-projects-start-using-dai-as-a-bank): Article by Trustnodes(.com)
-- 09/10/2018: [MakerDAO - Shitcoin Review](http://doiownashitcoin.com/blog/post/MakerDAO-Shitcoin-Review/)
+- 09/10/2018: [MakerDAO - Shitcoin Review](http://doiownashitcoin.com/blog/post/MakerDAO-Shitcoin-Review/): Post by Mike and Aaron
 - 08/25/2018: [DAI (MakerDAO) is Ethereum’s Crown Jewel](http://funnyking.io/?p=1630&lang=en): Post by Paolo Rebuffo
 - 08/15/2018: [Amid Chaos, DAI Stays Stable](https://www.trustnodes.com/2018/08/15/amid-chaos-dai-stays-stable): Article by Trustnodes(.com)
 - 08/07/2018: [Mapping The Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335): Post by Max Bronstein
