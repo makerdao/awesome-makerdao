@@ -55,7 +55,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Old Dai Dashboard](https://dai.makerdao.com/)
 - [Governance Dashboard](https://vote.makerdao.com/)
 - [Platform Data](https://mkr.tools/)
-- [Oasis.direct](https://oasis.direct/) | [Oasisdex.com](https://oasisdex.com)
+- ~~[Oasis.direct](https://oasis.direct/)~~ | ~~[Oasisdex.com](https://oasisdex.com)~~ | [Eth2Dai](https://eth2dai.com)
 
 ## Official Channels
 - [Twitter](https://twitter.com/MakerDAO)
