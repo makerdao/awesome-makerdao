@@ -440,7 +440,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Developer Resources
 
 ## Technical Info
-- [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation
+- [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
 - [**Glossary**](https://github.com/makerdao/dss/wiki/Glossary): of terms in code
 - [**MCD Core CDP Engine Architecture**](https://github.com/makerdao/dss/wiki): Diagram
 - [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
@@ -463,7 +463,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## All the Contracts
 
-### Dai v1
+### Single Collateral DaI (SCD) 
 - [**Dai Token Tracker**](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)
 - [**Global Settlement Mechanism**](https://etherscan.io/address/0x9b0ccf7c8994e19f39b2b4cf708e0a7df65fa8a3)
 - [**CDP Engine**](https://etherscan.io/address/0x448a5065aebb8e423f0896e6c5d525c040f59af3)
