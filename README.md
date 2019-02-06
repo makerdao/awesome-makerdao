@@ -226,6 +226,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## Podcasts
+- 02/05/2019: [Unchained: **Rune Christensen** of MakerDAO Part 2: How Dai Stayed at $1 While ETH Crashed From $1,400 to $85 - Ep.105](https://overcast.fm/+LNqexSQnI)
+- 01/29/2019: [Unchained: **Rune Christensen** of MakerDAO Part 1: How to Keep a Crypto-Collateralized Stablecoin Afloat - Ep.104](https://overcast.fm/+LNqfe3mfk)
 - 01/22/2018: [Ep 19, MakerDAO, Novel Paradigms for Risk Management with **Steven Becker**, President and COO](https://simplecast.com/s/e32e5290)
 - 12/21/2018: [a16z Podcast: All about Stablecoins, with **Andy Milenius**](https://a16z.com/2018/12/20/stablecoins-why-matter-what-how-daos-maker/)
 - 12/20/2018: [POV Crypto Special Edition: The Role of Ether in Multi-Collateral DAI, with **David Utrobin**](https://medium.com/@TrustlessState/pov-crypto-special-edition-the-role-of-ether-in-multi-collateral-dai-dd90fd15adfc)
