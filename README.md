@@ -120,6 +120,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How stable are the top stablecoins? A quantitative analysis](https://medium.com/coinmonks/how-well-do-the-top-stablecoins-perform-a-quantitative-analysis-c56d022719b): Medium post by Wes Levitt
 
 ## Speculation
+- [A MakerDAO Case Study](https://medium.com/@visionhill_/a-makerdao-case-study-47a31d858be5): Vision Hill Advisors
 - [Thoughts on how the amount of Dai issued affects the valuation of MKR](https://www.reddit.com/r/MakerDAO/comments/86p081/maker_token_valuation/): Reddit post by u/davidutro
 - [Cryptoasset Research: Maker (MKR)](https://cryptocurrencyhub.io/cryptoasset-research-maker-mkr-a0e89fccb985): Medium post by Jack Purdy
 - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
