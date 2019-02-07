@@ -86,6 +86,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [中文 | Tutorial in Chinese: How to Use the Dai Platform](https://www.youtube.com/watch?v=HCMBf4Yq1ZA): Video by Maker说
 - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
 - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
+- [What is DAI, and how does it work?](https://medium.com/mycrypto/what-is-dai-and-how-does-it-work-742d09ba25d6): Medium Post by Sharon Manrique
 
 ## Tutorials
 - [MakerDAO CDP Tutorial - What is it and why is it awesome?](https://youtu.be/fr0mgjDwZ5c): Youtube Video by Crypto Bobby 
@@ -111,6 +112,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
 
 ### Heavier
+- [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a): Medium Post by MakerDAO
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd): Medium Post by Jack Purdy
 - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
 - [Single collateral Dai— 9 months in review](https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab): Medium post by Mike McDonald
