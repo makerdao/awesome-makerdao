@@ -29,6 +29,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Speculation](#speculation)
 - [Critiques](#critiques)
 - [Governance](#governance)
+- [Voting](#voting)
 - [Major Milestones](#major-milestones)
 - [AMAs | Interviews](#amas--interviews)
 - [Partnerships](#partnerships)
@@ -148,6 +149,14 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Foundation Proposal v2](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDAO
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
+
+## Voting
+- [Governance Portal](https://vote.makerdao.com/)
+- [Maker Governance voting setup for Ledger Nano S](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
+- [Maker Governance voting setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
+- [Maker Governance voting setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
+- [Maker Governance voting setup for paper wallets using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
+- [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones
 - 01/21/2019: [2,000,000 ETH Locked in the CDP Engine](https://twitter.com/nanexcool/status/1090833187918528517)
