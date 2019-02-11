@@ -458,11 +458,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Developer Resources
 
 ## Technical Info
-- [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
+- [**Developer Guides**](https://github.com/makerdao/developerguides)
 - [**Glossary**](https://github.com/makerdao/dss/wiki/Glossary): of terms in code
 - [**MCD Core CDP Engine Architecture**](https://github.com/makerdao/dss/wiki): Diagram
 - [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
 - [**k-dss formal specification and verification of Multi-Collateral Dai**](https://github.com/dapphub/k-dss)
+- [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
 
 ## APIs
 - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
