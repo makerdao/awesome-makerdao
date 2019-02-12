@@ -194,6 +194,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 02/12/2019: [**Meridio** <3 Maker: Real Estate on the Blockchain](https://blog.makerdao.com/meridio-maker/)
 - 02/06/2019: [Borrow Against Dai with **EthLend**](https://medium.com/aave/ethlend-baiji-release-has-arrived-on-the-mainnet-9efb6236aa1b)
 - 02/05/2019: [Load Dai onto your **WireX** Card](https://wirexapp.com/a-token-to-dai-for/)
 - 01/22/2019: [**Share & Charge platform** Decentralized Electric Vehicle Charging](https://medium.com/share-charge/share-charge-platform-phase-1-a65c7f8fc27f) 
@@ -239,6 +240,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## Podcasts
+- 02/11/2019: [How Maker Became Ethereum's Biggest Project - **Rune Christensen** (Founder, MakerDao)](https://blockcrunch.libsyn.com/how-maker-became-ethereums-biggest-project-rune-christensen-founder-makerdao)
 - 02/05/2019: [Unchained: **Rune Christensen** of MakerDAO Part 2: How Dai Stayed at $1 While ETH Crashed From $1,400 to $85 - Ep.105](https://overcast.fm/+LNqexSQnI)
 - 01/29/2019: [Unchained: **Rune Christensen** of MakerDAO Part 1: How to Keep a Crypto-Collateralized Stablecoin Afloat - Ep.104](https://overcast.fm/+LNqfe3mfk)
 - 01/22/2018: [Ep 19, MakerDAO, Novel Paradigms for Risk Management with **Steven Becker**, President and COO](https://simplecast.com/s/e32e5290)
