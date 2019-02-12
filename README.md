@@ -260,7 +260,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ### By and With MakerDAO Team Members
 - Conference Panel: [The Great Stablecoin Debate: with Reserve, USDC, and MakerDAO(**Steven Becker**) | MultiCoin Summit](https://www.youtube.com/watch?v=WAiuZuQg3kg)
-- Bloomberg Panel: [Stable Coins- a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
+- Bloomberg Panel: [Stable Coins: a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
 - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
@@ -400,14 +400,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Airswap**](https://airswap.io/trade)
 - [**Bancor**](https://www.bancor.network/)
 - [**KyberSwap**](https://kyber.network/swap)
-- [**Oasis.Direct**](https://oasis.direct/)
 - [**Swap.online**](https://swap.online/dai)
 - [**SimpleSwap**](https://simpleswap.io/)
 - [**Uniswap**](https://uniswap.exchange/swap)
 - [**StableWire: Stablecoins only**](https://stablewire.com/)
 
 ## Noncustodial Exchanges
-- [**OasisDex**](https://oasisdex.com/trade/W-ETH/DAI)
+- [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
 - [**Radar Relay**](https://app.radarrelay.com/WETH/DAI)
 - [**ERC dEX**](https://app.ercdex.com/#/WETH/DAI/)
 - [**Totle**](https://app.totle.com)
