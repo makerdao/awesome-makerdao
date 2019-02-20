@@ -194,6 +194,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 02/14/2019: [Introducing **Dexpay** and MakerDAO Grant Announcement](https://medium.com/dexlab-io/introducing-dexpay-and-makerdao-grant-announcement-f437f2e87da3)
 - 02/12/2019: [**Meridio** <3 Maker: Real Estate on the Blockchain](https://blog.makerdao.com/meridio-maker/)
 - 02/06/2019: [Borrow Against Dai with **EthLend**](https://medium.com/aave/ethlend-baiji-release-has-arrived-on-the-mainnet-9efb6236aa1b)
 - 02/05/2019: [Load Dai onto your **WireX** Card](https://wirexapp.com/a-token-to-dai-for/)
