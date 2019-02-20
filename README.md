@@ -262,9 +262,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ### By and With MakerDAO Team Members
 - Conference Panel: [The Great Stablecoin Debate: with Reserve, USDC, and MakerDAO(**Steven Becker**) | MultiCoin Summit](https://www.youtube.com/watch?v=WAiuZuQg3kg)
+- Conference Panel: [**Mariano Conti** ~ Panel on Oracles @EthDenver](https://www.youtube.com/watch?v=rY_jcyqjubs)
 - Bloomberg Panel: [Stable Coins: a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [**Andy Milenius** of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
+- Conference Presentation: [**Ashleigh Schap** ~ Biz Dev & Crypto: Breaking Out of the Bubble MakerDAO @EthDenver](https://www.youtube.com/watch?v=gdfIVD7pgdI&feature=youtu.be)
+- Conference Presentation: [**Mariano Conti** ~ CDPs and MCD: A Look Back with Maker @EthDenver](https://www.youtube.com/watch?v=R5vA7u9WFfU)
 - Conference Presentation: [**Andy Milenius** Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
 - Conference Presentation: [ETHBerlin - **Mariano Conti** - Price Oracles + Signed Messages On & Off-Chain](https://view.ly/v/Rt275OYzLCI1)
 - Conference Presentation: [Dai Stablecoin Presentation with **Andy Milenius** @ Devcon 3](https://www.youtube.com/watch?v=L1erp9Gkesk&feature=youtu.be)
