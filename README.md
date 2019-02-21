@@ -113,6 +113,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
 
 ### Heavier
+- [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium Post by Marc-André Dumas 
 - [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a): Medium Post by MakerDAO
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd): Medium Post by Jack Purdy
 - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
