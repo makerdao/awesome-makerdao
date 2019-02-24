@@ -446,6 +446,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Dharma**](https://plex.dharma.io/): Loan out your Crypto, including Dai
 - [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
+- [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 
 ## Merchant Solutions
 - [**Paybear**](https://paybear.io)
