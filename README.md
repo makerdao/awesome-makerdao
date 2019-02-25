@@ -305,7 +305,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
-- 02/25/2019: [Becoming a MakerDAO Community Development Grantee, by **Ching!**](https://medium.com/ching/becoming-a-makerdao-community-development-grantee-9fccff8dae6e)
+- 02/25/2019: [How to loan yourself money with MakerDAO](https://decryptmedia.com/5344/be-your-own-bank-with-makerdao): Decrypt post by Ben Munster
+- 02/25/2019: [Becoming a MakerDAO Community Development Grantee, by **Ching!**](https://medium.com/ching/becoming-a-makerdao-community-development-grantee-9fccff8dae6e): Medium Post by Aaron Lyn Anderson 
 - 01/31/2019: [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590): Medium Post by Cyrus Younessi 
 - 01/24/2019: [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf): Guest post by Brian D. Colwell on MakerDAO's medium
 - 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis): Post by Chris Burniske and Joel Monegro
