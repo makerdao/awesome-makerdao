@@ -22,6 +22,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 - [Official Properties](#official-properties)
 - [Official Channels](#official-channels)
+- [Official Meetings](#official-meetings)
 - [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
 - [FAQs](#faqs)
@@ -51,12 +52,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Official Properties
 - [MakerDAO Website](https://makerdao.com/)
-- [Whitepaper: _9 Languages_](https://makerdao.com/whitepaper/)
+- [Whitepaper: 9 Languages](https://makerdao.com/whitepaper/)
 - [CDP Portal](https://cdp.makerdao.com/)
 - [Old Dai Dashboard](https://dai.makerdao.com/)
 - [Governance Dashboard](https://vote.makerdao.com/)
 - [Platform Data](https://mkr.tools/)
-- ~~[Oasis.direct](https://oasis.direct/)~~ | ~~[Oasisdex.com](https://oasisdex.com)~~ | [Eth2Dai](https://eth2dai.com)
+- [Eth2Dai](https://eth2dai.com)
 
 ## Official Channels
 - [Twitter](https://twitter.com/MakerDAO)
@@ -68,6 +69,11 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Kakaotalk](https://open.kakao.com/o/giWg6J2)
 - [YouTube](https://www.youtube.com/MakerDAO)
 - [Soundcloud](https://soundcloud.com/makerdao)
+
+## Official Meetings
+- General Community Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
+- Scientific Governance and Risk Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk)
+- [Weekly Meetings Schedule](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/)
 
 ## Beginner Guides
 - [A Primer on Stablecoins by MakerDAO: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f): Medium Series by MakerDAO
