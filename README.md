@@ -167,6 +167,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 02/23/2019: [Stability Fee Increase to %1.5](https://blog.makerdao.com/stability-fee-increase-february-22nd/)
+- 02/20/2019: [Updated SCD WhitePaper](https://www.reddit.com/r/MakerDAO/comments/ascw7p/check_out_the_updated_whitepaper/)
 - 02/09/2019: [Stability Fee increase to %1](https://twitter.com/nanexcool/status/1094368944461398016)
 - 02/08/2019: [Oasis Contract Upgrade](https://www.reddit.com/r/MakerDAO/comments/aoimcy/announcement_the_oasis_team_is_performing_an/)
 - 01/21/2019: [2,000,000 ETH Locked in the CDP Engine](https://twitter.com/nanexcool/status/1090833187918528517)
@@ -202,6 +204,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 02/20/2019: [FACTOR-805: Introducing Dai into Security Tokens, **Fluidity Factora**](https://medium.com/fluidity/factor-805-introducing-dai-into-security-tokens-a02a98f69cd9)
 - 02/14/2019: [Introducing **Dexpay** and MakerDAO Grant Announcement](https://medium.com/dexlab-io/introducing-dexpay-and-makerdao-grant-announcement-f437f2e87da3)
 - 02/12/2019: [**Meridio** <3 Maker: Real Estate on the Blockchain](https://blog.makerdao.com/meridio-maker/)
 - 02/06/2019: [Borrow Against Dai with **EthLend**](https://medium.com/aave/ethlend-baiji-release-has-arrived-on-the-mainnet-9efb6236aa1b)
