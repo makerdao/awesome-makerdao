@@ -117,9 +117,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
-- [Evaluating MKR: The Buyback and Burn model changes EVERYthing](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd): Medium post by David Hoffman
 
 ### Heavier
+- [MakerDAO Stability Fee Benchmarking](https://medium.com/@primoz.kordez/makerdao-stability-fee-benchmarking-1c440b69de6b): Medium Post by Primoz Kordez
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd): Medium Post by David Hoffman
 - [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium Post by Marc-André Dumas 
 - [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a): Medium Post by MakerDAO
@@ -306,7 +306,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Dai | MakerDAO Mentions
 - 02/25/2019: [How to loan yourself money with MakerDAO](https://decryptmedia.com/5344/be-your-own-bank-with-makerdao): Decrypt post by Ben Munster
-- 02/25/2019: [Becoming a MakerDAO Community Development Grantee, by **Ching!**](https://medium.com/ching/becoming-a-makerdao-community-development-grantee-9fccff8dae6e): Medium Post by Aaron Lyn Anderson 
 - 01/31/2019: [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590): Medium Post by Cyrus Younessi 
 - 01/24/2019: [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf): Guest post by Brian D. Colwell on MakerDAO's medium
 - 01/23/2019: [Placeholder VC: Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis): Post by Chris Burniske and Joel Monegro
