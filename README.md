@@ -375,6 +375,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
 - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
+- [**DaiStats**](https://daistats.com/)
+- [**DefiPulse**](https://defipulse.com/)
 
 # Hold your Dai
 
