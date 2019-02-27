@@ -382,7 +382,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Trezor**](https://trezor.io/)
 
 ## Mobile Wallets
-- [**Coinomi**](https://www.coinomi.com/)
+- ~[**Coinomi**](https://www.coinomi.com/)~: [**SECURITY VULNURABILITY**](https://twitter.com/lukechilds/status/1100613365850767360)
 - [**Edge**](https://edge.app/)
 - [**BRD**](https://brd.com/)
 - [**Freewallet**](https://freewallet.org/eth-wallet)
