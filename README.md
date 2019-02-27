@@ -190,6 +190,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## AMAs | Interviews
+- 02/18/2019: [Towards a second-generation tokenization, Interview with **Rune Chistensen**](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
 - 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - **Mariano Conti**](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
 - 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
 - 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
