@@ -376,8 +376,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
 - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
-- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general. 
-- [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics)
+- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
+- [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 
 # Hold your Dai
 
