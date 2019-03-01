@@ -119,6 +119,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
 
 ### Heavier
+- [Maker Network Overview: Placeholder VC](https://www.placeholder.vc/blog/2019/3/1/maker-network-report): Report by Placeholder VC
 - [MakerDAO Stability Fee Benchmarking](https://medium.com/@primoz.kordez/makerdao-stability-fee-benchmarking-1c440b69de6b): Medium Post by Primoz Kordez
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd): Medium Post by David Hoffman
 - [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium Post by Marc-André Dumas 
@@ -173,7 +174,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 02/23/2019: [Stability Fee Increase to %1.5](https://blog.makerdao.com/stability-fee-increase-february-22nd/)
 - 02/20/2019: [Updated SCD WhitePaper](https://www.reddit.com/r/MakerDAO/comments/ascw7p/check_out_the_updated_whitepaper/)
 - 02/09/2019: [Stability Fee increase to %1](https://twitter.com/nanexcool/status/1094368944461398016)
-- 02/08/2019: [Oasis Contract Upgrade](https://www.reddit.com/r/MakerDAO/comments/aoimcy/announcement_the_oasis_team_is_performing_an/)
+- 02/08/2019: [Oasis Contract Upgrade](https://www.reddit.com/r/MakerDAO/comments/aoimcy/announcement_the_oasis_team_is_performing_an/) | [Postmortem: Oasis Contract Upgrade](https://blog.makerdao.com/postmortem-oasis-contract-upgrade/)
 - 01/21/2019: [2,000,000 ETH Locked in the CDP Engine](https://twitter.com/nanexcool/status/1090833187918528517)
 - 12/18/2018: [Happy BirthDAI: 1 year since the launch of Dai](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
 - 12/14/2018: [Decreasing the Stability Fee to 0.5%](https://medium.com/makerdao/decreasing-the-stability-fee-1f9fe50cf582)
@@ -550,6 +551,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Stablecoins in General
 
 ## Media
+ - 03/01/2018: [Stablecoins in 2019: Reliable, Proliferating, Liquid, and Global](https://media.consensys.net/stablecoins-in-2019-reliable-proliferating-liquid-and-global-6ec443586bf5): Medium Post by ConsenSys
  - 11/16/2018: [Stablecoin overview: A condensed version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/): Post by the CoinMarketCap Blog
  - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins): Post by Cyrus Younessi of Scalar Capital
  - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hackernoon post by Abram Symons
