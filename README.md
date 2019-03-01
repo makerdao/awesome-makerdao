@@ -149,7 +149,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Governance
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
 - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
-- [**Governance & Risk Meetings: Written recaps**](https://github.com/scottrepreneur/maker-minutes): Github repo
+- [**Governance & Risk Meetings: Written recaps**](https://github.com/atleastaverage/MakerDAO_minutes/blob/master/README.md): Github repo
+- [**Governance & Risk Meetings: Written recaps (old)**](https://github.com/scottrepreneur/maker-minutes): Github repo
 - [**Community Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI): Youtube Playlist
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077): Medium Posts by MakerDAO
 - [Lessons from MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a): Medium post by Nick Tomaino
@@ -158,6 +159,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Foundation Proposal v2](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDAO
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
+- [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
 
 ## Voting
 - [Governance Portal](https://vote.makerdao.com/)
