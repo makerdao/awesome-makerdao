@@ -310,6 +310,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 03/06/2019: [Open Finance: Loan Origination Snapshot for January and February 2019](https://medium.com/bloqboard/open-finance-loan-origination-snapshot-for-january-and-february-2019-5562ab811286): Medium Post by Bloqboard
 - 02/25/2019: [How to loan yourself money with MakerDAO](https://decryptmedia.com/5344/be-your-own-bank-with-makerdao): Decrypt post by Ben Munster
 - 01/31/2019: [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590): Medium Post by Cyrus Younessi 
 - 01/24/2019: [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf): Guest post by Brian D. Colwell on MakerDAO's medium
