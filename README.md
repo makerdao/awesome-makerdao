@@ -209,6 +209,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 02/27/2019: [**Celsius** integrates stablecoin Dai into its interest-earning wallet](https://medium.com/@CelsiusNetwork/celsius-integrates-stablecoin-dai-into-its-interest-earning-wallet-b892340325bc)
 - 02/20/2019: [FACTOR-805: Introducing Dai into Security Tokens, **Fluidity Factora**](https://medium.com/fluidity/factor-805-introducing-dai-into-security-tokens-a02a98f69cd9)
 - 02/14/2019: [Introducing **Dexpay** and MakerDAO Grant Announcement](https://medium.com/dexlab-io/introducing-dexpay-and-makerdao-grant-announcement-f437f2e87da3)
 - 02/12/2019: [**Meridio** <3 Maker: Real Estate on the Blockchain](https://blog.makerdao.com/meridio-maker/)
@@ -389,12 +390,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Trezor**](https://trezor.io/)
 
 ## Mobile Wallets
-- ~[**Coinomi**](https://www.coinomi.com/)~: [**PSA: SECURITY VULNERABILITY**](https://twitter.com/lukechilds/status/1100613365850767360)
 - [**Edge**](https://edge.app/)
 - [**BRD**](https://brd.com/)
 - [**Freewallet**](https://freewallet.org/eth-wallet)
 - [**Ethex**](https://ethex.market/)
 - [**Ethos Universal Wallet**](https://www.ethos.io/universal-wallet/)
+- [**Celcius**](https://celsius.network/)
 
 ## Mobile Dapp & Browser Wallets
 - [**Coinbase Wallet**](https://wallet.coinbase.com/)
@@ -443,6 +444,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**BarterDex**](https://komodoplatform.com/decentralized-exchange/)
 - [**Paradex**](https://paradex.io/market/weth-dai)
 - [**SharkRelay**](https://app.sharkrelay.com/#/WETH/DAI)
+- [**coinected**](https://coinected.io)
 
 ## Custodial Exchanges
 - [**KuCoin**](https://www.kucoin.com/#/)
