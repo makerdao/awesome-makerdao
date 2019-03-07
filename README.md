@@ -94,6 +94,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
 - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 - [What is DAI, and how does it work?](https://medium.com/mycrypto/what-is-dai-and-how-does-it-work-742d09ba25d6): Medium Post by Sharon Manrique
+- [Elementarz MakerDAO: Primer on MakerDAO in Polish](https://medium.com/@enofaza/elementarz-makerdao-ee20a6b8a9f8): Medium Post by Marcin Jagodziński
 
 ## Tutorials
 - [MakerDAO CDP Tutorial - What is it and why is it awesome?](https://youtu.be/fr0mgjDwZ5c): Youtube Video by Crypto Bobby 
