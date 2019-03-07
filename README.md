@@ -103,6 +103,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [MakerDAO Tutorial - How To Create A Loan CPD](https://www.youtube.com/watch?v=sLRDWTtNC04): Youtube Video by Nuggets News
 - [Opening a CDP using InstaDapp's CDP portal](https://blog.goodaudience.com/first-loan-355d3c84d0ae): Medium Post by Vishva Dave
+- [Polish Tutorial on using the CDP Portal: MakerDAO krok po kroku](https://youtu.be/eKbmSoNF2rc): Youtube video by reuptake1
 
 ## FAQs
 - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
