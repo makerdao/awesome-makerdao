@@ -350,9 +350,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## 3rd Party Apps, Integrations, and Tools
 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
-- [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
+- [**CDP.Auction** (Kovan Only)](http://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**CDP Saver**](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
+- [**CDP Saver** (Kovan Only)](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
