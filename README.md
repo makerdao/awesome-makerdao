@@ -173,6 +173,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 03/08/2019: [Stability Fee Increase to %3.5](https://blog.makerdao.com/raise-the-stability-fee-3-5/)
 - 02/23/2019: [Stability Fee Increase to %1.5](https://blog.makerdao.com/stability-fee-increase-february-22nd/)
 - 02/20/2019: [Updated SCD WhitePaper](https://www.reddit.com/r/MakerDAO/comments/ascw7p/check_out_the_updated_whitepaper/)
 - 02/09/2019: [Stability Fee increase to %1](https://twitter.com/nanexcool/status/1094368944461398016)
@@ -351,6 +352,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.Auction**](http://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
+- [**CDP Saver**](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
