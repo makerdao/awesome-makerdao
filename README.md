@@ -94,7 +94,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [What I Learned by Getting a Loan From a Robot (Ethereum, MakerDAO, Stablecoins)](https://youtube.com/watch?v=wwHqPjg8P9s&): Video by Blockhead Media
 - [Ivan on Tech: What is MakerDAO? Understanding The Essential Mechanism](https://www.youtube.com/watch?v=50_htPDkZ4U): Video by Ivan-on-Tech
 - [What is DAI, and how does it work?](https://medium.com/mycrypto/what-is-dai-and-how-does-it-work-742d09ba25d6): Medium Post by Sharon Manrique
-- [Elementarz MakerDAO: Primer on MakerDAO in Polish](https://medium.com/@enofaza/elementarz-makerdao-ee20a6b8a9f8): Medium Post by Marcin Jagodziński
+- [Elementarz MakerDAO: Primer on MakerDAO in Polish](https://medium.com/@reuptake/elementarz-makerdao-ee20a6b8a9f8): Medium Post by Marcin Jagodziński
 
 ## Tutorials
 - [MakerDAO CDP Tutorial - What is it and why is it awesome?](https://youtu.be/fr0mgjDwZ5c): Youtube Video by Crypto Bobby 
@@ -104,7 +104,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [MakerDAO Tutorial - How To Create A Loan CPD](https://www.youtube.com/watch?v=sLRDWTtNC04): Youtube Video by Nuggets News
 - [Opening a CDP using InstaDapp's CDP portal](https://blog.goodaudience.com/first-loan-355d3c84d0ae): Medium Post by Vishva Dave
-- [Polish Tutorial on using the CDP Portal: MakerDAO krok po kroku](https://youtu.be/eKbmSoNF2rc): Youtube video by reuptake1
+- [Polish Tutorial on using the CDP Portal: MakerDAO krok po kroku](https://youtu.be/eKbmSoNF2rc): Youtube video by Marcin Jagodziński
 
 ## FAQs
 - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
