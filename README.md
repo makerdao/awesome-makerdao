@@ -388,6 +388,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
+- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
 
 # Hold your Dai
 
