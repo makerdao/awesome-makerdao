@@ -213,6 +213,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Partnerships
+- 03/12/2019: [Introducing the Dai Card: by **Connext**](https://medium.com/connext/introducing-the-dai-card-fc46520078d3)
 - 03/08/2019: [MakerDAO Focuses on Korea: **12 Partners**](https://blog.makerdao.com/makerdao-focuses-on-korea/)
 - 02/27/2019: [**Celsius** integrates stablecoin Dai into its interest-earning wallet](https://medium.com/@CelsiusNetwork/celsius-integrates-stablecoin-dai-into-its-interest-earning-wallet-b892340325bc)
 - 02/20/2019: [FACTOR-805: Introducing Dai into Security Tokens, **Fluidity Factora**](https://medium.com/fluidity/factor-805-introducing-dai-into-security-tokens-a02a98f69cd9)
