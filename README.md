@@ -32,8 +32,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Governance](#governance)
 - [Voting](#voting)
 - [Major Milestones | Events](#major-milestones)
-- [AMAs | Interviews](#amas--interviews)
 - [Partnerships](#partnerships)
+- [AMAs | Interviews](#amas--interviews)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Dai | MakerDAO Mentions](#dai--makerdao-mentions)
@@ -197,22 +197,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 12/17/2017: [Dai v1 Audited](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
-## AMAs | Interviews
-- 02/18/2019: [Towards a second-generation tokenization, Interview with **Rune Chistensen**](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
-- 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - **Mariano Conti**](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
-- 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
-- 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
-- 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
-- 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
-- 08/17/2018: [Interview: **MakerDAO CEO Rune Christensen** Talks Stablecoins](https://www.ccn.com/interview-makerdao-ceo-rune-christensen-talks-stablecoins/)
-- 08/16/2018: [We're **Rune Christensen (CEO, MakerDAO) and Michael Dunworth (CEO, Wyre)** - we just announced a great partnership. AMA (AUA)](https://www.reddit.com/r/ethtrader/comments/97ue60/were_rune_christensen_ceo_makerdao_and_michael/)
-- 08/09/2018: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
-- 06/25/2018: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ) (VIDEO)
-- 04/22/2018: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
-- 01/31/2018: [**Andy Milenius** Of MakerDAO: Crypto Price Volatility Will Hinder Real Economy onto the Blockchain | UNITALKS](https://unitimes.media/unitalks/3912/)
-- 11/11/2017: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
-- 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
-
 ## Partnerships
 - 03/14/2019: [**Ether Capital** Invests in MakerDAO](https://www.ethcap.co/pr0304181419)
 - 03/12/2019: [Introducing the Dai Card: by **Connext**](https://medium.com/connext/introducing-the-dai-card-fc46520078d3)
@@ -265,7 +249,24 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 01/31/2018: [MakerDAO and **Digix**: DGX gold tokens to play a crucial role in the DAI stablecoin](https://medium.com/@Digix/partnership-announcement-makerdao-and-digix-dgx-gold-tokens-to-play-a-crucial-role-in-the-dai-8ed4c05b622c)
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
+## AMAs | Interviews
+- 02/18/2019: [Towards a second-generation tokenization, Interview with **Rune Chistensen**](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
+- 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - **Mariano Conti**](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
+- 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
+- 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
+- 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
+- 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
+- 08/17/2018: [Interview: **MakerDAO CEO Rune Christensen** Talks Stablecoins](https://www.ccn.com/interview-makerdao-ceo-rune-christensen-talks-stablecoins/)
+- 08/16/2018: [We're **Rune Christensen (CEO, MakerDAO) and Michael Dunworth (CEO, Wyre)** - we just announced a great partnership. AMA (AUA)](https://www.reddit.com/r/ethtrader/comments/97ue60/were_rune_christensen_ceo_makerdao_and_michael/)
+- 08/09/2018: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
+- 06/25/2018: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ) (VIDEO)
+- 04/22/2018: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
+- 01/31/2018: [**Andy Milenius** Of MakerDAO: Crypto Price Volatility Will Hinder Real Economy onto the Blockchain | UNITALKS](https://unitimes.media/unitalks/3912/)
+- 11/11/2017: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
+- 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
+
 ## Podcasts
+- 03/18/2019: [MakerDAO/DAI 101 w/ **Rune Christensen**](https://soundcloud.com/matthew-aaron-690749808/makerdaodai-101-w-rune-christensen)
 - 02/11/2019: [How Maker Became Ethereum's Biggest Project - **Rune Christensen** (Founder, MakerDao)](https://blockcrunch.libsyn.com/how-maker-became-ethereums-biggest-project-rune-christensen-founder-makerdao)
 - 02/05/2019: [Unchained: **Rune Christensen** of MakerDAO Part 2: How Dai Stayed at $1 While ETH Crashed From $1,400 to $85 - Ep.105](https://overcast.fm/+LNqexSQnI)
 - 01/29/2019: [Unchained: **Rune Christensen** of MakerDAO Part 1: How to Keep a Crypto-Collateralized Stablecoin Afloat - Ep.104](https://overcast.fm/+LNqfe3mfk)
