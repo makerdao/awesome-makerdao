@@ -199,6 +199,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 03/21/2019: [Swap Euros to Dai with **Elastum**: supports 33 SEPA Zone countries](https://twitter.com/elastumio/status/1108451544658333698)
+- 03/21/2019: [**Airwallet** integrates CDP system](https://twitter.com/MakerDAO/status/1108591475145609216)
+- 03/21/2019: [$DAI now added as a native payment option on **Travala.com**](https://twitter.com/travalacom/status/1108592663391924224)
 - 03/14/2019: [**Ether Capital** Invests in MakerDAO](https://www.ethcap.co/pr0304181419)
 - 03/12/2019: [Introducing the Dai Card: by **Connext**](https://medium.com/connext/introducing-the-dai-card-fc46520078d3)
 - 03/08/2019: [MakerDAO Focuses on Korea: **12 Partners**](https://blog.makerdao.com/makerdao-focuses-on-korea/)
@@ -492,6 +495,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## On/Off Ramps
 - [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
   - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
+- [**Elastum**](https://elastum.io/): Convert crypto to Euros
+  - [Supported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
 - [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
 - [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
 - [**Orionx**](www.orionx.com): Mexico and Chile
