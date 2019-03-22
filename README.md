@@ -270,6 +270,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Podcasts
+- 03/21/2019: [Stablecoins and What’s next for MakerDAO with **Ashleigh Schap**](https://limechain.tech/stable-coins-and-whats-next-for-makerdao/?)
 - 03/18/2019: [MakerDAO/DAI 101 w/ **Rune Christensen**](https://soundcloud.com/matthew-aaron-690749808/makerdaodai-101-w-rune-christensen)
 - 02/11/2019: [How Maker Became Ethereum's Biggest Project - **Rune Christensen** (Founder, MakerDao)](https://blockcrunch.libsyn.com/how-maker-became-ethereums-biggest-project-rune-christensen-founder-makerdao)
 - 02/05/2019: [Unchained: **Rune Christensen** of MakerDAO Part 2: How Dai Stayed at $1 While ETH Crashed From $1,400 to $85 - Ep.105](https://overcast.fm/+LNqexSQnI)
@@ -312,6 +313,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Video Interview: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
 - Video Interview: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ)
 - Video Interview: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
+- Video Interview: [Whiteboard Series with NEAR | Ep: 10 David Utrobin from MakerDAO](https://www.youtube.com/watch?time_continue=58&v=lhPdUDy1z1s)
 
 ### By Others ❤
 - Mena Summit 2018 Panel, Charles Noyes mentions MakerDAO: [Navigating Investments from Cryptocurrencies to Blockchain](https://www.youtube.com/watch?time_continue=718&v=lp5Yx34SO58)
@@ -442,11 +444,12 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Token Swaps
 - [**Airswap**](https://airswap.io/trade)
 - [**Bancor**](https://www.bancor.network/)
+- [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
 - [**KyberSwap**](https://kyber.network/swap)
-- [**Swap.online**](https://swap.online/dai)
 - [**SimpleSwap**](https://simpleswap.io/)
-- [**Uniswap**](https://uniswap.exchange/swap)
 - [**StableWire: Stablecoins only**](https://stablewire.com/)
+- [**Swap.online**](https://swap.online/dai)
+- [**Uniswap**](https://uniswap.exchange/swap)
 
 ## Noncustodial Exchanges
 - [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
