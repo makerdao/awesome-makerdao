@@ -326,6 +326,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 03/23/2019: [The Year of the DAO Comeback: Ustanding What’s Leading the Charge](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980): Medium Post by Steven McKie
 - 03/06/2019: [Open Finance: Loan Origination Snapshot for January and February 2019](https://medium.com/bloqboard/open-finance-loan-origination-snapshot-for-january-and-february-2019-5562ab811286): Medium Post by Bloqboard
 - 02/25/2019: [How to loan yourself money with MakerDAO](https://decryptmedia.com/5344/be-your-own-bank-with-makerdao): Decrypt post by Ben Munster
 - 01/31/2019: [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590): Medium Post by Cyrus Younessi 
@@ -373,7 +374,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
-- [**Liquid Close**](https://liquid-long.keydonix.com/): A tool to Emergency-Close your CDP
+- [**Liquid Close**](https://liquid-long.keydonix.com/): A tool to close your CDP without needing to have ETH, DAI, or MKR available.
 - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
 - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
@@ -576,7 +577,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Stablecoins in General
 
 ## Media
- - 03/01/2018: [Stablecoins in 2019: Reliable, Proliferating, Liquid, and Global](https://media.consensys.net/stablecoins-in-2019-reliable-proliferating-liquid-and-global-6ec443586bf5): Medium Post by ConsenSys
+ - 03/01/2019: [Stablecoins in 2019: Reliable, Proliferating, Liquid, and Global](https://media.consensys.net/stablecoins-in-2019-reliable-proliferating-liquid-and-global-6ec443586bf5): Medium Post by ConsenSys
  - 11/16/2018: [Stablecoin overview: A condensed version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/): Post by the CoinMarketCap Blog
  - 10/14/2018: [A Taxonomy of Stablecoins - Token Daily](https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins): Post by Cyrus Younessi of Scalar Capital
  - 07/20/2018: [Stablecoins, The Only Real Threat To Government Money](https://hackernoon.com/stablecoins-the-only-real-threat-to-government-money-306d3d8c7765): Hackernoon post by Abram Symons
