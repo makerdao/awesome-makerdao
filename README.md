@@ -176,6 +176,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 03/22/2019: [Stability Fee Increase to %7.5](https://www.reddit.com/r/MakerDAO/comments/b4c9aa/the_spell_has_been_executed_stability_fee_on_eth/)
 - 03/08/2019: [Stability Fee Increase to %3.5](https://blog.makerdao.com/raise-the-stability-fee-3-5/)
 - 02/23/2019: [Stability Fee Increase to %1.5](https://blog.makerdao.com/stability-fee-increase-february-22nd/)
 - 02/20/2019: [Updated SCD WhitePaper](https://www.reddit.com/r/MakerDAO/comments/ascw7p/check_out_the_updated_whitepaper/)
