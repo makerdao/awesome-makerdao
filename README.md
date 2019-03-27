@@ -467,19 +467,20 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Paradex**](https://paradex.io/market/weth-dai)
 - [**SharkRelay**](https://app.sharkrelay.com/#/WETH/DAI)
 - [**coinected**](https://coinected.io)
+- [**Changelly**](https://changelly.com/)
 
 ## Custodial Exchanges
-- [**KuCoin**](https://www.kucoin.com/#/)
-- [**Gate.io**](https://www.gate.io/trade/DAI_USDT)
-- [**HitBTC**](https://hitbtc.com/ETH-to-DAI)
-- [**Bibox**](https://bibox.com/exchange?coinPair=ETH_DAI)
-- [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com)
-- [**Yobit**](https://yobit.net/en/trade/DAI/USD)
-- [**Changelly**](https://changelly.com/)
-- [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC)
-- [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH)
-- [**Panda**](https://panda.exchange/en-IC/): Latin America
-- [**Probit**](https://www.probit.com/en-us)
+- [**KuCoin**](https://www.kucoin.com/#/): Based in Hong Kong
+- [**Gate.io**](https://www.gate.io/trade/DAI_USDT): Based in USA
+- [**HitBTC**](https://hitbtc.com/ETH-to-DAI): Based in EU
+- [**Bibox**](https://bibox.com/exchange?coinPair=ETH_DAI): Based in China
+- [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com): Based in Hong Kong
+- [**Yobit**](https://yobit.net/en/trade/DAI/USD): Based in Russia
+- [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC): Based in USA
+- [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH): Based in England
+- [**Panda**](https://panda.exchange/en-IC/): Based in Latin America
+- [**Probit**](https://www.probit.com/en-us): Based in Republic of Seychelles
+- [**COSS.IO**](https://coss.io/): Based in Singapore
 
 # Spend Your Dai
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
