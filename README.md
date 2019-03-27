@@ -176,6 +176,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 03/27/2019: [Update: The Road to Multi-Collateral Dai](https://blog.makerdao.com/update-road-to-multi-collateral-dai/)
 - 03/22/2019: [Stability Fee Increase to %7.5](https://blog.makerdao.com/executive-vote-stability-fee-of-7-5/)
 - 03/08/2019: [Stability Fee Increase to %3.5](https://blog.makerdao.com/raise-the-stability-fee-3-5/)
 - 02/23/2019: [Stability Fee Increase to %1.5](https://blog.makerdao.com/stability-fee-increase-february-22nd/)
@@ -200,6 +201,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 03/27/2019: [Announcing US Stock Index Token, Powered by **UMA** and Dai](https://medium.com/uma-project/announcing-us-stock-index-token-powered-by-uma-and-dai-c394586c575a)
 - 03/21/2019: [Swap Euros to Dai with **Elastum**: supports 33 SEPA Zone countries](https://twitter.com/elastumio/status/1108451544658333698)
 - 03/21/2019: [**Airwallet** integrates CDP system](https://twitter.com/MakerDAO/status/1108591475145609216)
 - 03/21/2019: [$DAI now added as a native payment option on **Travala.com**](https://twitter.com/travalacom/status/1108592663391924224)
@@ -314,7 +316,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Video Interview: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
 - Video Interview: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ)
 - Video Interview: [MakerDAO Chat with **Greg Diprisco**](https://youtu.be/QAbrgEtdtKY)
-- Video Interview: [Whiteboard Series with NEAR | Ep: 10 David Utrobin from MakerDAO](https://www.youtube.com/watch?time_continue=58&v=lhPdUDy1z1s)
+- Video Interview: [Whiteboard Series with NEAR | Ep: 10 **David Utrobin** from MakerDAO](https://www.youtube.com/watch?time_continue=58&v=lhPdUDy1z1s)
 
 ### By Others ❤
 - Mena Summit 2018 Panel, Charles Noyes mentions MakerDAO: [Navigating Investments from Cryptocurrencies to Blockchain](https://www.youtube.com/watch?time_continue=718&v=lp5Yx34SO58)
