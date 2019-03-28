@@ -201,6 +201,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 03/26/2019: [Introducing Streaming Payments for **Ujo** with Connext Payment Channels and Dai](https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38)
 - 03/27/2019: [Announcing US Stock Index Token, Powered by **UMA** and Dai](https://medium.com/uma-project/announcing-us-stock-index-token-powered-by-uma-and-dai-c394586c575a)
 - 03/21/2019: [Swap Euros to Dai with **Elastum**: supports 33 SEPA Zone countries](https://twitter.com/elastumio/status/1108451544658333698)
 - 03/21/2019: [**Airwallet** integrates CDP system](https://twitter.com/MakerDAO/status/1108591475145609216)
@@ -328,6 +329,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Youtube Video by Maker说: [MakerDAO是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 
 ## Dai | MakerDAO Mentions
+- 03/28/2019: [Formal verification, Virtual Hardware, and Engineering for Blockchains](https://medium.com/balance-io/formal-verification-virtual-hardware-and-engineering-for-blockchains-51d07abdc934): Medium Post by Richard Burton
 - 03/23/2019: [The Year of the DAO Comeback: Ustanding What’s Leading the Charge](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980): Medium Post by Steven McKie
 - 03/06/2019: [Open Finance: Loan Origination Snapshot for January and February 2019](https://medium.com/bloqboard/open-finance-loan-origination-snapshot-for-january-and-february-2019-5562ab811286): Medium Post by Bloqboard
 - 02/25/2019: [How to loan yourself money with MakerDAO](https://decryptmedia.com/5344/be-your-own-bank-with-makerdao): Decrypt post by Ben Munster
@@ -519,6 +521,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
 - [**k-dss formal specification and verification of Multi-Collateral Dai**](https://github.com/dapphub/k-dss)
 - [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
+- [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
 
 ## APIs
 - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
