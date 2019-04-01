@@ -274,6 +274,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Podcasts
+- 03/27/2019: [ZeroKnowledgefm: Digging into DAI with **Rune Christensen** from Maker](https://www.zeroknowledge.fm/70)
+- 03/27/2019: [NTO THE ETHER Maker: Establishing Stability in Crypto with **Rune Christensen**](https://podcast.ethhub.io/maker-establishing-stability-in-crypto-with-rune-ch)
 - 03/26/2019: [POV Crypto Podcast Episode 40 — Bitcoin Vs MakerDAO II](https://medium.com/@TrustlessState/pov-crypto-episode-40-bitcoin-vs-makerdao-ii-d71cce4f19b8)
 - 03/21/2019: [Stablecoins and What’s next for MakerDAO with **Ashleigh Schap**](https://limechain.tech/stable-coins-and-whats-next-for-makerdao/?)
 - 03/18/2019: [MakerDAO/DAI 101 w/ **Rune Christensen**](https://soundcloud.com/matthew-aaron-690749808/makerdaodai-101-w-rune-christensen)
