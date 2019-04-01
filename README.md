@@ -155,9 +155,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Governance
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
 - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
-- [**Governance & Risk Meetings: Written recaps**](https://github.com/atleastaverage/MakerDAO_minutes/blob/master/README.md): Github repo
+- [**Governance & Risk Meetings: Transcripts**](https://github.com/makerdao/community/tree/master/governance/transcripts): Github repo
+- [**r/mkrgov**](https://www.reddit.com/r/mkrgov/): Primary subreddit for Governance discussions
 - [**Governance & Risk Meetings: Written recaps (old)**](https://github.com/scottrepreneur/maker-minutes): Github repo
-- [**Community Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI): Youtube Playlist
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077): Medium Posts by MakerDAO
 - [Lessons from MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a): Medium post by Nick Tomaino
 - [Deep dive into MakerDAO Governance: A look at the code for governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203): Medium post by banteg
