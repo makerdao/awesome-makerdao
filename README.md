@@ -144,6 +144,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
 
 ## Critiques
+- [The $1.00 Stablecoin Worth $0.98](https://medium.com/@GrapefruitTrading/the-1-00-stablecoin-worth-0-98-2699046c5266): Medium Post by Grapefruit Trading
 - [Maker Dai: Stable, but not scalable: A lesson in stablecoin arbitrage](https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6) | [Reddit Thread](https://www.reddit.com/r/MakerDAO/comments/adp7ur/maker_dai_stable_but_not_scalable_medium_article/): Medium Post by Hasu
 - [Reserve’s Analysis of the MakerDAO Protocol](https://hackernoon.com/reserves-analysis-of-the-makerdao-protocol-697141a8bbae): Blog post by Nevin Freeman
 - [MakerDAO and the Dai](https://blog.havven.io/makerdao-and-the-dai-f21a4d5571a1): Blog post by Havven
