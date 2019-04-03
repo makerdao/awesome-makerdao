@@ -521,13 +521,26 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Developer Resources
 
 ## Technical Info
-- [**Developer Guides**](https://github.com/makerdao/developerguides)
 - [**Glossary**](https://github.com/makerdao/dss/wiki/Glossary): of terms in code
 - [**MCD Core CDP Engine Architecture**](https://github.com/makerdao/dss/wiki): Diagram
 - [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
 - [**k-dss formal specification and verification of Multi-Collateral Dai**](https://github.com/dapphub/k-dss)
 - [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
-- [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
+
+## Developer Guides
+- [**Developer Guides**](https://github.com/makerdao/developerguides)
+  - [**Dai Token Guide**](https://github.com/makerdao/developerguides/blob/master/dai/dai-token/dai-token.md)
+  - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
+  - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
+  - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
+- [**Partner Resources**](https://github.com/makerdao/developerguides#partner-compilations)
+  - [**Exchanges**](https://github.com/makerdao/developerguides/tree/master/exchanges)
+  - [**Market Makers**](https://github.com/makerdao/developerguides/tree/master/market-makers#market-makers)
+  - [**Remittance Services**](https://github.com/makerdao/developerguides/tree/master/remittance#remittance-services)
+  - [**Upgrading to Multi-Collateral Dai**](https://github.com/makerdao/developerguides/tree/master/mcd)
+  - [**Wallets**](https://github.com/makerdao/developerguides/tree/master/wallets)
+  
+
 
 ## APIs
 - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
