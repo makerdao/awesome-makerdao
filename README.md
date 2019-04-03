@@ -201,6 +201,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 04/03/2019: [**Nitrogen** partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - 03/26/2019: [Introducing Streaming Payments for **Ujo** with Connext Payment Channels and Dai](https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38)
 - 03/27/2019: [Announcing US Stock Index Token, Powered by **UMA** and Dai](https://medium.com/uma-project/announcing-us-stock-index-token-powered-by-uma-and-dai-c394586c575a)
 - 03/21/2019: [Swap Euros to Dai with **Elastum**: supports 33 SEPA Zone countries](https://twitter.com/elastumio/status/1108451544658333698)
@@ -375,6 +376,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
 - [**CDP Saver** (Kovan Only)](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
+- [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
