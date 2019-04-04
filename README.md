@@ -101,12 +101,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [MakerDAO CDP Tutorial - What is it and why is it awesome?](https://youtu.be/fr0mgjDwZ5c): Youtube Video by Crypto Bobby 
 - [Opening a CDP with the New MakerDAO CDP Portal](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd): Medium post by Deepit AG
 - [Managing CDPs directly in MyEtherWallet (for hardware wallets)](https://www.reddit.com/r/MakerDAO/comments/8a1fmw/managing_cdps_directly_in_myetherwallet_for/): Reddit post by u/zarigis
-- [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
-- [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [MakerDAO Tutorial - How To Create A Loan CPD](https://www.youtube.com/watch?v=sLRDWTtNC04): Youtube Video by Nuggets News
 - [Opening a CDP using InstaDapp's CDP portal](https://blog.goodaudience.com/first-loan-355d3c84d0ae): Medium Post by Vishva Dave
 - [English Tutorial on using the CDP Portal: MakerDAO Step by Step](https://www.youtube.com/watch?v=jQoBIVssz2s&feature=youtu.be): Youtube video by Marcin Jagodziński, narrated by Kenny Rowe
 - [Polish Tutorial on using the CDP Portal: MakerDAO krok po kroku](https://youtu.be/eKbmSoNF2rc): Youtube video by Marcin Jagodziński
+- [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
+- [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
+- [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa): Medium post by Ross Bulat
 
 ## FAQs
 - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
@@ -202,6 +203,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 04/03/2019: [**Quantfury**: Free Trading of Stocks, Crypto Pairs, ETFs and Commodities Using Dai Stablecoin](https://medium.com/quantfury/free-trading-of-stocks-crypto-pairs-etfs-and-commodities-using-dai-stablecoin-d0b1ebf4164c)
 - 04/03/2019: [**Nitrogen** partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - 03/26/2019: [Introducing Streaming Payments for **Ujo** with Connext Payment Channels and Dai](https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38)
 - 03/27/2019: [Announcing US Stock Index Token, Powered by **UMA** and Dai](https://medium.com/uma-project/announcing-us-stock-index-token-powered-by-uma-and-dai-c394586c575a)
