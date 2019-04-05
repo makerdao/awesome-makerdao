@@ -265,7 +265,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 02/18/2019: [Towards a second-generation tokenization, Interview with **Rune Chistensen**](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
 - 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - **Mariano Conti**](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
 - 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
-- 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](http://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
+- 11/19/2018: [MakerDAO—The Backbone of the Future Economy? Interview with **Rune Christensen**](https://www.coinisseur.com/makerdao-the-backbone-of-the-future-economy/)
 - 11/01/2018: [**Niklas** Of MakerDAO - Synthetic Tokens, Earning Interest On DAI, What's Next: Crypt0news](https://www.youtube.com/watch?feature=youtu.be&v=l4BrsUZ_VwE&app=desktop)
 - 08/22/2018: [MakerDAO: The Future of Finance; an interview with **Rune Christensen**](https://briandcolwell.com/2018/08/makerdao-the-future-of-finance/.html)
 - 08/17/2018: [Interview: **MakerDAO CEO Rune Christensen** Talks Stablecoins](https://www.ccn.com/interview-makerdao-ceo-rune-christensen-talks-stablecoins/)
@@ -375,7 +375,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## 3rd Party Apps, Integrations, and Tools
 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
-- [**CDP.Auction** (Kovan Only)](http://cdp.auction/): A secondary market for CDPs
+- [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
 - [**CDP Saver** (Kovan Only)](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
@@ -415,7 +415,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 - [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
-- [**Daiprice**](http://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
+- [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 
 # Hold your Dai
 
@@ -625,14 +625,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - 10/23/2017: [Can a Blockchain Help Charities?](https://www.viget.com/articles/can-a-blockchain-help-charities/): Post by Leo Bauza
 
 ## Other Stablecoin Projects
- - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
+ - [USDC](https://www.centre.io/usdc/): USD Backed
  - [TrueUSD](https://www.trusttoken.com/trueusd/): USD Backed
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
- - [Paxos Dollar](https://www.paxos.com/)
+ - [Paxos Dollar](https://www.paxos.com/pax/)
  - [Tether](https://tether.to/): USD Backed
  - [Havven/Synthetix](https://www.synthetix.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares ([Defunct](https://medium.com/basis-blog/basis-update-ae96e3565b1d))
- - [Kowala](https://www.kowala.tech/): Algorithmic
  - [Carbon](https://www.carbon.money/): Algorithmic
  - [Stableunit](https://stableunit.org/): Hybrid
  - [Reserve](https://www.reserve.org/): Hybrid
