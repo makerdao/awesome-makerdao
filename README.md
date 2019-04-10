@@ -386,7 +386,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
-- [**Liquid Close**](https://liquid-long.keydonix.com/): A tool to close your CDP without needing to have ETH, DAI, or MKR available.
+- [**Liquid Close**](https://liquid-close.keydonix.com/?affiliate=0000000000000000000000000000000000000000): A tool to close your CDP without needing to have ETH, DAI, or MKR available.
 - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
 - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
