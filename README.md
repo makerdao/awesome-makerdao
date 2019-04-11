@@ -110,6 +110,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa): Medium post by Ross Bulat
 
 ## FAQs
+- [FAQ: Governance](https://www.reddit.com/r/MakerDAO/comments/b7gz4k/faq_governance/): Reddit post by u/rich_at_makerdao
+- [FAQ: Dai](https://www.reddit.com/r/MakerDAO/comments/b2e5fv/faq_dai/): Reddit post by u/rich_at_makerdao
 - [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
 - [FAQ: Liquidation](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
 - [FAQ: Stability fee raise](https://www.reddit.com/r/MakerDAO/comments/93adqj/faq_stability_fee_raise/): Reddit post by u/rich_at_makerdao
@@ -370,7 +372,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): Whitehat, et al.
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
-- [**Dapphub**:](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
+- [**Dapphub**](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
 
 # Use Your Dai
 
@@ -385,21 +387,18 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
-- [**Hackathon Tool**](https://ethindia.conteract.io/): CDP Automation
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
-- [**Liquid Close**](https://liquid-close.keydonix.com/?affiliate=0000000000000000000000000000000000000000): A tool to close your CDP without needing to have ETH, DAI, or MKR available.
 - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
 - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
 - [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
 - [**SilverWire**](https://silverwire.io/): Reversible payments
-- [**Telegram CDP Alerts**](https://maker.bitpager.io/): Telegram notifications when new DAI is issued or CDP debt is repaid by Bitpager
 - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
 
 ## 3rd Party CDP Portals
 
-- [**CDP Station on Settle**](https://settle.finance/app/cdp-station): Alternative CDP UI inside of the settle.finance app
+- [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 
 # Watch your Dai
@@ -407,8 +406,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
-- [**Etherview**](https://www.etherview.io/#): visualization of individual CDP health
-- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD): Stablecoin Comparison
+- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
 - [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
@@ -422,7 +420,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 # Hold your Dai
 
 ## Hardware Wallets
-- [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
+- [**Ledger Nano S**](https://shop.ledger.com/products/ledger-nano-s)
 - [**Trezor**](https://trezor.io/)
 
 ## Mobile Wallets
@@ -435,7 +433,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Mobile Dapp & Browser Wallets
 - [**Coinbase Wallet**](https://wallet.coinbase.com/)
-- [**Trust Wallet**](https://trustwalletapp.com/)
+- [**Trust Wallet**](https://trustwallet.com/)
 - [**Status.im**](https://status.im/)
 - [**imToken**](https://token.im/)
 
@@ -460,27 +458,23 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MKR Markets**](https://coinmarketcap.com/currencies/maker/#markets)
 
 ## Token Swaps
-- [**Airswap**](https://airswap.io/trade)
+- [**Airswap**](https://instant.airswap.io/)
 - [**Bancor**](https://www.bancor.network/)
 - [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
-- [**KyberSwap**](https://kyber.network/swap)
+- [**KyberSwap**](https://kyberswap.com/)
 - [**SimpleSwap**](https://simpleswap.io/)
 - [**StableWire: Stablecoins only**](https://stablewire.com/)
-- [**Swap.online**](https://swap.online/dai)
+- [**Swap.online**](https://swap.online/)
 - [**Uniswap**](https://uniswap.exchange/swap)
 
 ## Noncustodial Exchanges
 - [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
 - [**Radar Relay**](https://app.radarrelay.com/WETH/DAI)
-- [**ERC dEX**](https://app.ercdex.com/#/WETH/DAI/)
 - [**Totle**](https://app.totle.com)
 - [**DDex**](https://ddex.io/trade/WETH-DAI)
-- [**TradePass**](https://tradepass.exchange/#)
 - [**CoinChangeX**](https://www.coinchangex.com/#!/trade/DAI-ETH)
 - [**ForkDelta**](https://forkdelta.app/#!/trade/DAI-ETH)
-- [**BarterDex**](https://komodoplatform.com/decentralized-exchange/)
 - [**Paradex**](https://paradex.io/market/weth-dai)
-- [**SharkRelay**](https://app.sharkrelay.com/#/WETH/DAI)
 - [**coinected**](https://coinected.io)
 - [**Changelly**](https://changelly.com/)
 
@@ -501,13 +495,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
 - [**RequestNetworkTipBot**](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/): Tip with Dai on Reddit through /u/RequestNetworkTipBot
 - [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
-- [**Dharma**](https://plex.dharma.io/): Loan out your Crypto, including Dai
+- [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
 - [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 
 ## Merchant Solutions
-- [**Paybear**](https://paybear.io)
+- [**Savvy/PayBear**](https://www.savvy.io/)
 - [**8x Protocol**](https://8xprotocol.com/)
 - [**Ink Protocol**](https://paywithink.com/)
 
@@ -521,7 +515,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
   - [Supported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
 - [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
 - [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
-- [**Orionx**](www.orionx.com): Mexico and Chile
+- [**Orionx**](https://www.orionx.com): Mexico and Chile
 
 # Developer Resources
 
@@ -630,7 +624,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [USDC](https://www.centre.io/usdc/): USD Backed
  - [TrueUSD](https://www.trusttoken.com/trueusd/): USD Backed
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
- - [Paxos Dollar](https://www.paxos.com/pax/)
+ - [Paxos Dollar](https://www.paxos.com/pax/): USD Backed
  - [Tether](https://tether.to/): USD Backed
  - [Havven/Synthetix](https://www.synthetix.io/): Collateral backed
  - [Basis](https://www.basis.io/): Seigniorage shares ([Defunct](https://medium.com/basis-blog/basis-update-ae96e3565b1d))
