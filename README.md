@@ -204,6 +204,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 04/10/2019: [Pay with DAI on Origin — Announcing Our First Stablecoin Integration](https://medium.com/originprotocol/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982)
 - 04/03/2019: [**Quantfury**: Free Trading of Stocks, Crypto Pairs, ETFs and Commodities Using Dai Stablecoin](https://medium.com/quantfury/free-trading-of-stocks-crypto-pairs-etfs-and-commodities-using-dai-stablecoin-d0b1ebf4164c)
 - 04/03/2019: [**Nitrogen** partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - 03/26/2019: [Introducing Streaming Payments for **Ujo** with Connext Payment Channels and Dai](https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38)
