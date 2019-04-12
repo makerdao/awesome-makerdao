@@ -168,6 +168,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
+- [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/): Aricle by Matteo Leibowitz
 
 ## Voting
 - [Governance Portal](https://vote.makerdao.com/)
