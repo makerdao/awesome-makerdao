@@ -108,6 +108,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Tutorial - Seamless Dai Integration in Existing DApps](https://blog.scintillate.me/2018/08/15/seamless-dai-integration-in-an-existing-dapp/): Blog post by Kevin Liu
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa): Medium post by Ross Bulat
+- [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df): Medium Post by Gaurav Agrawal 
 
 ## FAQs
 - [FAQ: Governance](https://www.reddit.com/r/MakerDAO/comments/b7gz4k/faq_governance/): Reddit post by u/rich_at_makerdao
