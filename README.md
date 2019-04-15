@@ -129,7 +129,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Maker Network Overview: Placeholder VC](https://www.placeholder.vc/blog/2019/3/1/maker-network-report): Report by Placeholder VC
 - [MakerDAO Stability Fee Benchmarking](https://medium.com/@primoz.kordez/makerdao-stability-fee-benchmarking-1c440b69de6b): Medium Post by Primoz Kordez
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd): Medium Post by David Hoffman
-- [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium Post by Marc-André Dumas 
 - [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a): Medium Post by MakerDAO
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd): Medium Post by Jack Purdy
 - [The Auction Grinding Attack: a case for a liquidation penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf): Paper by Lev Livnev
@@ -138,6 +137,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Measuring Maker-Dai stability](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128): Medium post by Sid Shekhar
 - [Collateralized Debt Obligations for Issuer-Backed Tokens](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525): Research post by Vbuterin
 - [How stable are the top stablecoins? A quantitative analysis](https://medium.com/coinmonks/how-well-do-the-top-stablecoins-perform-a-quantitative-analysis-c56d022719b): Medium post by Wes Levitt
+- [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium Post by Marc-André Dumas 
+- [MakerDAO Q1 2019 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-q1-2019-revenue-analysis-9afe82af3372): Medium Post by Marc-André Dumas 
 
 ## Speculation
 - [Maker (MKR) Valuation Fundamentals — The case for Trillion Dollar Maker](https://medium.com/@Rewkang/maker-mkr-valuation-fundamentals-the-case-for-trillion-dollar-maker-9b6e3f0150f1): Medium post by Andrew Kang
@@ -181,6 +182,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 04/14/2019: [Stability Fee Increase to %11.5](https://www.reddit.com/r/mkrgov/comments/bd9r23/executive_vote_results_raise_the_stability_fee_by/)
 - 04/10/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.3](https://blog.makerdao.com/update-the-road-to-multi-collateral-dai-kovan-release-v0-2-3/)
 - 03/27/2019: [Update: The Road to Multi-Collateral Dai](https://blog.makerdao.com/update-road-to-multi-collateral-dai/)
 - 03/22/2019: [Stability Fee Increase to %7.5](https://blog.makerdao.com/executive-vote-stability-fee-of-7-5/)
@@ -207,7 +209,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
-- 04/10/2019: [Pay with DAI on Origin — Announcing Our First Stablecoin Integration](https://medium.com/originprotocol/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982)
+- 04/10/2019: [Pay with DAI on **Origin** — Announcing Our First Stablecoin Integration](https://medium.com/originprotocol/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982)
 - 04/03/2019: [**Quantfury**: Free Trading of Stocks, Crypto Pairs, ETFs and Commodities Using Dai Stablecoin](https://medium.com/quantfury/free-trading-of-stocks-crypto-pairs-etfs-and-commodities-using-dai-stablecoin-d0b1ebf4164c)
 - 04/03/2019: [**Nitrogen** partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - 03/26/2019: [Introducing Streaming Payments for **Ujo** with Connext Payment Channels and Dai](https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38)
