@@ -112,10 +112,11 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df): Medium Post by Gaurav Agrawal 
 
 ## FAQs
-- [FAQ: Governance](https://www.reddit.com/r/MakerDAO/comments/b7gz4k/faq_governance/): Reddit post by u/rich_at_makerdao
-- [FAQ: Dai](https://www.reddit.com/r/MakerDAO/comments/b2e5fv/faq_dai/): Reddit post by u/rich_at_makerdao
-- [FAQ: Stability Fees](https://www.reddit.com/r/MakerDAO/comments/8gcyhx/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
-- [FAQ: Liquidation](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/): Reddit post by u/rich_at_makerdao
+- [FAQ: All](https://github.com/makerdao/community/tree/master/faqs)
+- [FAQ: Governance](https://github.com/makerdao/community/blob/master/faqs/governance.md)
+- [FAQ: Dai](https://github.com/makerdao/community/blob/master/faqs/dai.md)
+- [FAQ: Stability Fees](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md)
+- [FAQ: Liquidation](https://github.com/makerdao/community/blob/master/faqs/liquidation.md)
 - [FAQ: Stability fee raise](https://www.reddit.com/r/MakerDAO/comments/93adqj/faq_stability_fee_raise/): Reddit post by u/rich_at_makerdao
 - [FAQ: Where does the name "Dai" come from?](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/): Reddit post by u/Rune4444
 
