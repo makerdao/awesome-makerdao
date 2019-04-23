@@ -413,6 +413,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
+- [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
 - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
 - [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
