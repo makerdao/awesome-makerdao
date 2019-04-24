@@ -424,6 +424,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 - [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
+- [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
+- [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
 
 # Hold your Dai
 
