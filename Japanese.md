@@ -13,13 +13,11 @@ Daiステーブルコインシステムの最も重要な部分はCDPプラッ�
 DaiとCDPプラットフォームは、インドの農村部からウォール街まで、グローバルでオープンな分散型金融システムを提供するために不可分なソリューションです。
 
 ## 基本
-[Dai Staiblecoinシステム（Whitepaper和訳）by Makerチーム](https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-ja.pdf) 
-[MakerDAOとStablecoin by Individua1](https://individua1.net/category/cryptocurrency/series/makerdao-and-stablecoin/)
-[＜仕組み解説＞Guidelines of MakerDAO&dai by Watata Crypto Medium](https://medium.com/@souta.watatata/makerdao-dai)
-[アンチMakerDAO&DAIになって課題を整理してみる by Watata Crypto Medium](https://medium.com/@souta.watatata/アンチmakerdao-daiになって課題を整理してみる)
+- [Dai Staiblecoinシステム（Whitepaper和訳）by Makerチーム](https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-ja.pdf) 
+- [MakerDAOとStablecoin by Individua1](https://individua1.net/category/cryptocurrency/series/makerdao-and-stablecoin/)
+- [＜仕組み解説＞Guidelines of MakerDAO&dai by Watata Crypto Medium](https://medium.com/@souta.watatata/makerdao-dai)
+- [アンチMakerDAO&DAIになって課題を整理してみる by Watata Crypto Medium](https://medium.com/@souta.watatata/アンチmakerdao-daiになって課題を整理してみる)
 
 ## エンジニア向け
-[Dai Stablecoinシステム（Purplepaper和訳※エンジニア向け）by Lotz84]
-(https://github.com/lotz84/dai-in-jp/blob/master/purple-paper.md)
-[MakerDAOのコードを理解しよう その１by Takuya Fujita]
-(https://medium.com/@takuyafujita/makerdao%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86-%E3%81%9D%E3%81%AE%EF%BC%91-46dad986b8e2)
+- [Dai Stablecoinシステム（Purplepaper和訳※エンジニア向け）by Lotz84](https://github.com/lotz84/dai-in-jp/blob/master/purple-paper.md)
+- [MakerDAOのコードを理解しよう その１by Takuya Fujita](https://medium.com/@takuyafujita/makerdao%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86-%E3%81%9D%E3%81%AE%EF%BC%91-46dad986b8e2)
