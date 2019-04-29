@@ -543,6 +543,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
   - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
   - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
   - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
+  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/seth-mcd-guides/tools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+  - [**Introduction to Seth](https://github.com/makerdao/developerguides/blob/seth-mcd-guides/tools/seth/seth-guide-01/seth-guide-01.md)
 - [**Partner Resources**](https://github.com/makerdao/developerguides#partner-compilations)
   - [**Exchanges**](https://github.com/makerdao/developerguides/tree/master/exchanges)
   - [**Market Makers**](https://github.com/makerdao/developerguides/tree/master/market-makers#market-makers)
