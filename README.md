@@ -215,6 +215,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 04/30/2019: [**ITAM Games** Adopts Dai StableCoin In Its Gaming Ecosystem](https://medium.com/itam/itam-games-adopts-dai-stablecoin-in-its-gaming-ecosystem-e44dc31be272)
 - 04/10/2019: [Pay with DAI on **Origin** — Announcing Our First Stablecoin Integration](https://medium.com/originprotocol/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982)
 - 04/03/2019: [**Quantfury**: Free Trading of Stocks, Crypto Pairs, ETFs and Commodities Using Dai Stablecoin](https://medium.com/quantfury/free-trading-of-stocks-crypto-pairs-etfs-and-commodities-using-dai-stablecoin-d0b1ebf4164c)
 - 04/03/2019: [**Nitrogen** partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
@@ -333,6 +334,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - Meetup Presentation: [MakerDAO and Dai Stablecoin @ Ethereum Shanghai with **Chao Pan**](https://youtu.be/rFVVApu_hYY)
 - Meetup Presentation: [What is MakerDAO? with **Rune Christensen** @ NYC Ethereum](https://www.youtube.com/watch?v=yvfvVlxL-Lw)
 - Meetup Presentations: [Stablecoins with MakerDAO, Formal Verification Research @ Ethereum Madrid Feat. **Denis Erfurt** & Others](https://youtu.be/49S2_FJtJko)
+- Video Interview: [**Rune Christiansen**, Co-Founder & CEO of MakerDAO, Talks Future of Blockchain](https://www.youtube.com/watch?v=huSerGBTdYA)
 - Video Interview: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
 - Video Interview: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
 - Video Interview: [A Better Stable Coin Than Tether? Interview with, **Rune Christensen**, MakerDAO Co-Founder ](https://www.youtube.com/watch?v=BW8DkIKXpdQ)
@@ -545,8 +547,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
   - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
   - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
   - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
-  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/seth-mcd-guides/tools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
-  - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/seth-mcd-guides/tools/seth/seth-guide-01/seth-guide-01.md)
+  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+  - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
 - [**Partner Resources**](https://github.com/makerdao/developerguides#partner-compilations)
   - [**Exchanges**](https://github.com/makerdao/developerguides/tree/master/exchanges)
   - [**Market Makers**](https://github.com/makerdao/developerguides/tree/master/market-makers#market-makers)
