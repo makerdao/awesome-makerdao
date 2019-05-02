@@ -353,6 +353,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Dai | MakerDAO Mentions
 - 04/15/2019: [It’s 2019. Where the f*ck is Our Global Peer-to-Peer Electronic Cash System?](https://hackernoon.com/where-the-f-ck-is-our-peer-to-peer-electronic-cash-system-c8f43f5ad8b0)
+- 03/28/2019: [The 100+ Projects Pioneering Decentralized Finance](https://media.consensys.net/the-100-projects-pioneering-decentralized-finance-717478ddcdf2): Medium Post by Consensys 
 - 03/28/2019: [Formal verification, Virtual Hardware, and Engineering for Blockchains](https://medium.com/balance-io/formal-verification-virtual-hardware-and-engineering-for-blockchains-51d07abdc934): Medium Post by Richard Burton
 - 03/23/2019: [The Year of the DAO Comeback: Ustanding What’s Leading the Charge](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980): Medium Post by Steven McKie
 - 03/06/2019: [Open Finance: Loan Origination Snapshot for January and February 2019](https://medium.com/bloqboard/open-finance-loan-origination-snapshot-for-january-and-february-2019-5562ab811286): Medium Post by Bloqboard
