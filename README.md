@@ -178,6 +178,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Voting
 - [Governance Portal](https://vote.makerdao.com/)
+- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4)
 - [Maker Governance voting setup for Ledger Nano S](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
 - [Maker Governance voting setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
 - [Maker Governance voting setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
