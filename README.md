@@ -430,7 +430,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
-- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
+- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a 
+t
 - [**Dai--in-Defi**](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
@@ -444,6 +445,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Trezor**](https://trezor.io/)
 
 ## Mobile Wallets
+- [**DexWallet**](https://www.dexwallet.io/)
 - [**Edge**](https://edge.app/)
 - [**BRD**](https://brd.com/)
 - [**Freewallet**](https://freewallet.org/eth-wallet)
@@ -528,6 +530,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Open-Source payment processors 
 - [**Daipay**](https://github.com/codevet/daipay/)
+- [**Dexpay**](https://dexpay.me/)
 
 ## On/Off Ramps
 - [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
