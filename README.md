@@ -433,7 +433,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
-- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): View current stability fee with option to sign up for notifications if ever changed
+- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
 
 # Hold your Dai
 
