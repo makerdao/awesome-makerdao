@@ -1,4 +1,4 @@
-# Overview of MakerDAO | Dai ⬙
+ # Overview of MakerDAO | Dai ⬙
 
 [Maker](https://makerdao.com/) is a Decentralized Autonomous Organization(DAO) that manages the Dai Stablecoin System on the Ethereum blockchain.
 
@@ -455,6 +455,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Trust Wallet**](https://trustwallet.com/)
 - [**Status.im**](https://status.im/)
 - [**imToken**](https://token.im/)
+- [**AlphaWallet**](https://alphawallet.com/)
 
 ## Hybrid Wallets: Mobile + Desktop
 - [**Atomic Wallet**](https://atomicwallet.io/)
@@ -653,3 +654,4 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [Stableunit](https://stableunit.org/): Hybrid
  - [Reserve](https://www.reserve.org/): Hybrid
  - [Fragments/Ampleforth](https://www.ampleforth.org): Algorithmic
+
