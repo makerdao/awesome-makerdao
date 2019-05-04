@@ -514,7 +514,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Spend Your Dai
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
-- [**RequestNetworkTipBot**](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/): Tip with Dai on Reddit through /u/RequestNetworkTipBot
+- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
 - [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
 - [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
