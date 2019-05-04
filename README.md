@@ -450,6 +450,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Ethex**](https://ethex.market/)
 - [**Ethos Universal Wallet**](https://www.ethos.io/universal-wallet/)
 - [**Celcius**](https://celsius.network/)
+- [**Mosendo**](https://mosendo.com/)
 
 ## Mobile Dapp & Browser Wallets
 - [**Coinbase Wallet**](https://wallet.coinbase.com/)
