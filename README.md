@@ -522,9 +522,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 
 ## Merchant Solutions
-- [**Savvy/PayBear**](https://www.savvy.io/)
 - [**8x Protocol**](https://8xprotocol.com/)
+- [**Groundhog**](https://groundhog.network/)
 - [**Ink Protocol**](https://paywithink.com/)
+- [**Savvy/PayBear**](https://www.savvy.io/)
 
 ## Open-Source payment processors 
 - [**Daipay**](https://github.com/codevet/daipay/)
