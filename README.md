@@ -186,6 +186,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa) 
 - 04/28/2019: [Stability Fee Increase to 16.5%](https://etherscan.io/tx/0xe063598c19bb7c5ec52f9c82cfd8c986b8141351f7dfe3d05677ba3d262e204f) 
 - 04/24/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.4](https://blog.makerdao.com/update-the-road-to-multi-collateral-dai-kovan-release-v0-2-4/)
 - 04/19/2019: [Stability Fee Increase to 14.5%](https://etherscan.io/tx/0x04c73f2e1664b50c2d0d3458f237adecae71a26f1d9bb43bc6fb8c9fce9982f4)
