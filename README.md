@@ -395,7 +395,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**CDP Saver**](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
+- [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
@@ -435,7 +435,9 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
+- [**Dai for sale on Coinbase below $1**](https://dai-usdc-orderbook.nvk.now.sh/): Visual & Numerical representation of the orderbook below $1
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
+- [**Vishesh's Graphs**](https://vic007207.github.io/crypto_data/): Data representations hosted by Vishesh
 
 # Hold your Dai
 
