@@ -110,6 +110,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa): Medium post by Ross Bulat
 - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df): Medium Post by Gaurav Agrawal 
+- [Governance Dashboard Video Walkthroughs: Voting with a Linked Wallet](https://www.youtube.com/watch?v=-zq6_ZJ0MpI): MakerDAO Youtube Video
+- [Governance Dashboard Video Walkthroughs: Voting with a Single Wallet](https://www.youtube.com/watch?v=nWhLzyhZV-Q): MakerDAO Youtube 
 
 ## FAQs
 - [FAQ: All](https://github.com/makerdao/community/tree/master/faqs)
@@ -175,6 +177,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
 - [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/): Aricle by Matteo Leibowitz
+- [Introducing A New Governance On-boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/): Medium Post by MakerDAO
 
 ## Voting
 - [Governance Portal](https://vote.makerdao.com/)
