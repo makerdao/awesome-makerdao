@@ -110,6 +110,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc): Medium post by Matthew Black
 - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa): Medium post by Ross Bulat
 - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df): Medium Post by Gaurav Agrawal 
+- [Governance Dashboard Video Walkthroughs: Voting with a Linked Wallet](https://www.youtube.com/watch?v=-zq6_ZJ0MpI): MakerDAO Youtube Video
+- [Governance Dashboard Video Walkthroughs: Voting with a Single Wallet](https://www.youtube.com/watch?v=nWhLzyhZV-Q): MakerDAO Youtube 
 
 ## FAQs
 - [FAQ: All](https://github.com/makerdao/community/tree/master/faqs)
@@ -175,6 +177,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
 - [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/): Aricle by Matteo Leibowitz
+- [Introducing A New Governance On-boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/): Medium Post by MakerDAO
 
 ## Voting
 - [Governance Portal](https://vote.makerdao.com/)
@@ -186,6 +189,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa) 
 - 04/28/2019: [Stability Fee Increase to 16.5%](https://etherscan.io/tx/0xe063598c19bb7c5ec52f9c82cfd8c986b8141351f7dfe3d05677ba3d262e204f) 
 - 04/24/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.4](https://blog.makerdao.com/update-the-road-to-multi-collateral-dai-kovan-release-v0-2-4/)
 - 04/19/2019: [Stability Fee Increase to 14.5%](https://etherscan.io/tx/0x04c73f2e1664b50c2d0d3458f237adecae71a26f1d9bb43bc6fb8c9fce9982f4)
@@ -395,7 +399,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**CDP Saver**](https://cdpsaver.com/): Web app that helps users protect their CDPs from liquidation
+- [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
@@ -435,9 +439,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
+- [**Dai for sale on Coinbase below $1**](https://dai-usdc-orderbook.nvk.now.sh/): Visual & Numerical representation of the orderbook below $1
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
 - [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
-
+- [**Vishesh's Graphs**](https://vic007207.github.io/crypto_data/): Data representations hosted by Vishesh
 
 # Hold your Dai
 
@@ -517,7 +522,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Spend Your Dai
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
-- [**RequestNetworkTipBot**](https://www.reddit.com/r/MakerDAO/comments/97ufsv/dai_tip_bot_is_live/): Tip with Dai on Reddit through /u/RequestNetworkTipBot
+- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
 - [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
 - [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
@@ -525,9 +530,10 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 
 ## Merchant Solutions
-- [**Savvy/PayBear**](https://www.savvy.io/)
 - [**8x Protocol**](https://8xprotocol.com/)
+- [**Groundhog**](https://groundhog.network/)
 - [**Ink Protocol**](https://paywithink.com/)
+- [**Savvy/PayBear**](https://www.savvy.io/)
 
 ## Open-Source payment processors 
 - [**Daipay**](https://github.com/codevet/daipay/)
