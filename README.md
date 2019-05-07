@@ -430,13 +430,14 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
-- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a 
-t
+- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
 - [**Dai--in-Defi**](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
+- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
+
 
 # Hold your Dai
 
