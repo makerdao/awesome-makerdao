@@ -441,6 +441,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
 - [**Dai for sale on Coinbase below $1**](https://dai-usdc-orderbook.nvk.now.sh/): Visual & Numerical representation of the orderbook below $1
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
+- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
 - [**Vishesh's Graphs**](https://vic007207.github.io/crypto_data/): Data representations hosted by Vishesh
 
 # Hold your Dai
@@ -450,6 +451,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Trezor**](https://trezor.io/)
 
 ## Mobile Wallets
+- [**DexWallet**](https://www.dexwallet.io/)
 - [**Edge**](https://edge.app/)
 - [**BRD**](https://brd.com/)
 - [**Freewallet**](https://freewallet.org/eth-wallet)
@@ -535,6 +537,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Open-Source payment processors 
 - [**Daipay**](https://github.com/codevet/daipay/)
+- [**Dexpay**](https://dexpay.me/)
 
 ## On/Off Ramps
 - [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
