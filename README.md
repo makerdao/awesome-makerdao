@@ -220,6 +220,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 05/08/2019: [MakerDAO and **Airtm** Partner to Empower Financial Stability in South America](https://blog.makerdao.com/makerdao-and-airtm-partner-to-empower-financial-stability-in-south-america/)
 - 04/30/2019: [**ITAM Games** Adopts Dai StableCoin In Its Gaming Ecosystem](https://medium.com/itam/itam-games-adopts-dai-stablecoin-in-its-gaming-ecosystem-e44dc31be272)
 - 04/10/2019: [Pay with DAI on **Origin** — Announcing Our First Stablecoin Integration](https://medium.com/originprotocol/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982)
 - 04/03/2019: [**Quantfury**: Free Trading of Stocks, Crypto Pairs, ETFs and Commodities Using Dai Stablecoin](https://medium.com/quantfury/free-trading-of-stocks-crypto-pairs-etfs-and-commodities-using-dai-stablecoin-d0b1ebf4164c)
