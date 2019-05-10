@@ -404,7 +404,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
-- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
@@ -416,6 +415,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**SilverWire**](https://silverwire.io/): Reversible payments
 - [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
 - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
+
+## Lending Platforms for Dai
+- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+- [**DyDx**](https://dydx.exchange/): Decentralized Dai Lending
+- [**Dharma**](https://www.dharma.io/): Peer to Peer & Non-Custodial
+- [**Nexo**](https://nexo.io/): Centralized 
+- [**Celcius**](https://celsius.network/): Centralized 
 
 ## 3rd Party CDP Portals
 
