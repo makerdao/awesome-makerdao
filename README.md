@@ -189,6 +189,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 05/06/2019: [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/bmlgdm/notice_update_to_governance_voting_contract/)
 - 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa) 
 - 04/28/2019: [Stability Fee Increase to 16.5%](https://etherscan.io/tx/0xe063598c19bb7c5ec52f9c82cfd8c986b8141351f7dfe3d05677ba3d262e204f) 
 - 04/24/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.4](https://blog.makerdao.com/update-the-road-to-multi-collateral-dai-kovan-release-v0-2-4/)
@@ -561,11 +562,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## Developer Guides
 - [**Developer Guides**](https://github.com/makerdao/developerguides)
   - [**Dai Token Guide**](https://github.com/makerdao/developerguides/blob/master/dai/dai-token/dai-token.md)
-  - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
+  - [**How to use mcd-cli to interact with Kovan deployment of MCD**]
+  (https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+  - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
   - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
   - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
-  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
-  - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
+  - [**MCD 101**](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
+  - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
 - [**Partner Resources**](https://github.com/makerdao/developerguides#partner-compilations)
   - [**Exchanges**](https://github.com/makerdao/developerguides/tree/master/exchanges)
   - [**Market Makers**](https://github.com/makerdao/developerguides/tree/master/market-makers#market-makers)
