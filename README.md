@@ -145,6 +145,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [MakerDAO 2018 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-2018-revenue-analysis-55462642e2b9): Medium post by Marc-André Dumas 
 - [MakerDAO Q1 2019 Revenue Analysis](https://medium.com/@marcandrdumas/makerdao-q1-2019-revenue-analysis-9afe82af3372): Medium post by Marc-André Dumas 
 - [MakerDAO Tokens Explained: DAI, WETH, PETH, SIN, MKR. Part 1](https://medium.com/coinmonks/makerdao-tokens-explained-dai-weth-peth-sin-mkr-part-1-a46a0f687d5e): Medium post by Aleksey Studnev
+- [Maker DAO Transactions Illustrated](https://medium.com/coinmonks/maker-dao-transactions-illustrated-691ad2715cf7): Medium post by Aleksey Studnev
 
 ## Speculation
 - [Maker (MKR) Valuation Fundamentals — The case for Trillion Dollar Maker](https://medium.com/@Rewkang/maker-mkr-valuation-fundamentals-the-case-for-trillion-dollar-maker-9b6e3f0150f1): Medium post by Andrew Kang
