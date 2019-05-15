@@ -503,7 +503,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
 - [**KyberSwap**](https://kyberswap.com/)
 - [**SimpleSwap**](https://simpleswap.io/)
-- [**StableWire: Stablecoins only**](https://stablewire.com/)
 - [**Swap.online**](https://swap.online/)
 - [**Uniswap**](https://uniswap.exchange/swap)
 
