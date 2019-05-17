@@ -39,6 +39,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Dai | MakerDAO Mentions](#dai--makerdao-mentions)
 - [Audits and Security](#audits-and-security)
 - [Use Your Dai](#use-your-dai)
+- [Lend Your Dai](#lend-your-dai)
 - [Watch your Dai](#watch-your-dai)
 - [Hold your Dai](#hold-your-dai)
 - [Trade Your Dai](#trade-your-dai)
@@ -420,17 +421,17 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
 - [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
 
-## Lending Platforms for Dai
+## 3rd Party CDP Portals
+
+- [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
+- [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
+
+# Lend your Dai
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**DyDx**](https://dydx.exchange/): Decentralized Dai Lending
 - [**Dharma**](https://www.dharma.io/): Peer to Peer & Non-Custodial
 - [**Nexo**](https://nexo.io/): Centralized 
 - [**Celcius**](https://celsius.network/): Centralized 
-
-## 3rd Party CDP Portals
-
-- [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
-- [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 
 # Watch your Dai
 
