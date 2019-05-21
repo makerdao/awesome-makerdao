@@ -457,7 +457,8 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
 - [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
 - [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
-- [**Vishesh's Graphs**](https://vic007207.github.io/crypto_data/): Data representations hosted by Vishesh
+- [**Vishesh's Graphs**](https://vic007207.github.io/crypto_data/): Data representations hosted by Vishesh Choudhry
+- [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 
 # Hold your Dai
 
