@@ -20,24 +20,30 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 <!-- TOC -->
 
+### Community
 - [Official Properties](#official-properties)
 - [Official Channels](#official-channels)
 - [Official Meetings](#official-meetings)
+### Learning
 - [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
 - [FAQs](#faqs)
 - [In Depth Analysis](#in-depth-analysis)
 - [Speculation](#speculation)
 - [Critiques](#critiques)
+### Protocol
 - [Governance](#governance)
 - [Voting](#voting)
+### Ecosystem Growth
 - [Major Milestones | Events](#major-milestones)
 - [Partnerships](#partnerships)
+### Media and Content
 - [AMAs | Interviews](#amas--interviews)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Dai | MakerDAO Mentions](#dai--makerdao-mentions)
 - [Audits and Security](#audits-and-security)
+### DAI Use Cases
 - [Use Your Dai](#use-your-dai)
 - [Lend Your Dai](#lend-your-dai)
 - [Watch your Dai](#watch-your-dai)
@@ -73,7 +79,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Official Meetings
 - General Community Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
+
+The Community Meeting is the place for general discussion about MakerDAO and it's ecosystem. There is where events, DAI adoption announcements, progress updates, product demos, and general requests are made. It is held on Google hangouts, and it is open to everyone. 
+
 - Scientific Governance and Risk Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk)
+
+The scientific Governance and Risk Meetings is where the MakerDAO community discussious the future of the MakerDAO protocol. Here, the community discusses the price, supply and demand of DAI, the stabiliy fee, collateral tyles, and other risk management topics. It is held on Google hangouts, and it is open to everyone. 
+
 - [Weekly Meetings Schedule](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/)
 
 ## Beginner Guides
@@ -410,26 +422,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Use Your Dai
 
-## 3rd Party Apps, Integrations, and Tools
-
-- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
-- [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
-- [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
-- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
-- [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
-- [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
-- [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
-- [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
-- [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
-- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
-- [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
-- [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
-- [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
-- [**SilverWire**](https://silverwire.io/): Reversible payments
-- [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
-- [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
-
 ## 3rd Party CDP Portals
 
 - [**CDP Saver**](https://cdpsaver.com/): Alternative CDP creation and management UI
@@ -437,39 +429,62 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 
 # Lend your Dai
-- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
-- [**DyDx**](https://dydx.exchange/): Decentralized Dai Lending
-- [**Dharma**](https://www.dharma.io/): Peer to Peer & Non-Custodial
-- [**Nexo**](https://nexo.io/): Centralized 
-- [**Celcius**](https://celsius.network/): Centralized 
 
-# Watch your Dai
+You can check various platform lending rates here: [**LoanScan**](https://loanscan.io/)
+- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+- [**DyDx**](https://dydx.exchange/): Decentralized derivative platform: Users put up collateral in order to borrow DAI, to take a leveraged position in ETH. These users pay interest in order to borrow the DAI they need. DAI holders can come to DYDX and offer DAI to collect this interest. Interest paid depends on the market demand for DAI on DYDX. 
+- [**Dharma**](https://www.dharma.io/): Peer to Peer lending platform. Lend DAI out for a fixed term loan to another individual, who has staked collateral.
+- [**BloqBoard**](https://bloqboard.com/): Digital Asset Lending Platform for collateralized loans originated, settled, serviced and managed on Ethereum.
+- [**Nuo**](https://nuo.network/) Decentralized, non-custodial lending platform. 
+- [**ETHLend**](https://ethlend.io/signup) Centralized, non-custodial lending platform. 
+- [**Nexo**](https://nexo.io/): Centralized Crypto and DAI lending platform. 
+- [**Celcius**](https://celsius.network/): Centralized Mobile app for Crypto and DAI lending. 
+
+# MakerDAO Metrics and Statistics
 
 - [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
+- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
-- [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
-- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
 - [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
-- [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
-- [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
+- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
+- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
+
+## DAI Stats
+
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
-- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
+- [**DaiStats**](https://dai-in-defi.com/): Supply and Demand Dashboard for DAI
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
-- [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
-- [**Dai--in-Defi**](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
+
+### DAI Price
+
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
 - [**Dai for sale on Coinbase below $1**](https://dai.defi.ai/): Visual & Numerical representation of the orderbook below $1
-- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
-- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
-- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
-- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
 - [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 
+## Stablecoin Comparisons
+
+- [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
+- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
+- [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
+- [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
+
+## All-In-One's
+
+# Personal Finance Interfaces
+- [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
+- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
+
+# Ecosystem Statistics and Metrics
+- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
+- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
+- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
+
 # Hold your Dai
+There are many different ways to manage your cryptocurrency. Each user will have to decide how they want to safely interact with their funds. Each wallet has advantages and disadvantages.
 
 ## Hardware Wallets
 - [**Ledger Nano S**](https://shop.ledger.com/products/ledger-nano-s)
@@ -598,7 +613,25 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
   - [**Upgrading to Multi-Collateral Dai**](https://github.com/makerdao/developerguides/tree/master/mcd)
   - [**Wallets**](https://github.com/makerdao/developerguides/tree/master/wallets)
   
+## 3rd Party Apps, Integrations, and Tools
 
+- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
+- [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
+- [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
+- [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
+- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
+- [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
+- [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
+- [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
+- [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
+- [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
+- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
+- [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
+- [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
+- [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
+- [**SilverWire**](https://silverwire.io/): Reversible payments
+- [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
+- [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
 
 ## APIs
 - [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
