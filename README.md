@@ -414,6 +414,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 - [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
+- [**CDP.FYI**](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
 - [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
