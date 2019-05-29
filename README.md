@@ -422,14 +422,18 @@ The scientific Governance and Risk Meetings is where the MakerDAO community disc
 
 # Use Your Dai
 
-## 3rd Party CDP Portals
+## All-In-One's
 
+### Personal Finance Interfaces
+- [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
+- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
+
+### 3rd Party CDP Portals
 - [**CDP Saver**](https://cdpsaver.com/): Alternative CDP creation and management UI
 - [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 
-# Lend your Dai
-
+## Lend your Dai
 You can check various platform lending rates here: [**LoanScan**](https://loanscan.io/)
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**DyDx**](https://dydx.exchange/): Decentralized derivative platform: Users put up collateral in order to borrow DAI, to take a leveraged position in ETH. These users pay interest in order to borrow the DAI they need. DAI holders can come to DYDX and offer DAI to collect this interest. Interest paid depends on the market demand for DAI on DYDX. 
@@ -441,7 +445,6 @@ You can check various platform lending rates here: [**LoanScan**](https://loansc
 - [**Celcius**](https://celsius.network/): Centralized Mobile app for Crypto and DAI lending. 
 
 # MakerDAO Metrics and Statistics
-
 - [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
 - [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
@@ -452,36 +455,27 @@ You can check various platform lending rates here: [**LoanScan**](https://loansc
 - [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
 
 ## DAI Stats
-
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [**DaiStats**](https://dai-in-defi.com/): Supply and Demand Dashboard for DAI
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 
-### DAI Price
-
+## DAI Price
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
 - [**Dai for sale on Coinbase below $1**](https://dai.defi.ai/): Visual & Numerical representation of the orderbook below $1
 - [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 
-## Stablecoin Comparisons
+## Ecosystem Statistics and Metrics
+- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
+- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
+- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
 
+## Stablecoin Comparisons
 - [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
 - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
 - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
-
-## All-In-One's
-
-# Personal Finance Interfaces
-- [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
-- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
-
-# Ecosystem Statistics and Metrics
-- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
-- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
-- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
 
 # Hold your Dai
 There are many different ways to manage your cryptocurrency. Each user will have to decide how they want to safely interact with their funds. Each wallet has advantages and disadvantages.
@@ -523,8 +517,8 @@ There are many different ways to manage your cryptocurrency. Each user will have
 # Trade Your Dai
 
 ## Dai & MKR Markets
-- [**DAI Markets**](https://coinmarketcap.com/currencies/dai/#markets)
-- [**MKR Markets**](https://coinmarketcap.com/currencies/maker/#markets)
+- [**DAI Markets**](https://messari.io/asset/dai#markets)
+- [**MKR Markets**](https://messari.io/asset/maker#markets)
 
 ## Token Swaps
 - [**Airswap**](https://instant.airswap.io/)
