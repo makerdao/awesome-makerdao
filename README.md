@@ -46,7 +46,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ### DAI Use Cases
 - [Use Your Dai](#use-your-dai)
 - [Lend Your Dai](#lend-your-dai)
-- [Watch your Dai](#watch-your-dai)
 - [Hold your Dai](#hold-your-dai)
 - [Trade Your Dai](#trade-your-dai)
 - [Spend Your Dai](#spend-your-dai)
@@ -54,7 +53,6 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Stablecoins in General](#stablecoins-in-general)
 
 <!-- /TOC -->
-
 ---
 
 ## Official Properties
@@ -143,7 +141,168 @@ The scientific Governance and Risk Meetings is where the MakerDAO community disc
 - [FAQs: French](https://github.com/makerdao/community/tree/master/faqs/fr)
 - [FAQs: Korean](https://github.com/makerdao/community/tree/master/faqs/ko)
 
-## In Depth Analysis
+# Use Your Dai
+
+## All-In-One's
+
+### Personal Finance Interfaces
+- [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
+- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
+
+### 3rd Party CDP Portals
+- [**CDP Saver**](https://cdpsaver.com/): Alternative CDP creation and management UI
+- [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
+- [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
+
+## Lend your Dai
+You can check various platform lending rates here: [**LoanScan**](https://loanscan.io/)
+- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+- [**DyDx**](https://dydx.exchange/): Decentralized derivative platform: Users put up collateral in order to borrow DAI, to take a leveraged position in ETH. These users pay interest in order to borrow the DAI they need. DAI holders can come to DYDX and offer DAI to collect this interest. Interest paid depends on the market demand for DAI on DYDX. 
+- [**Dharma**](https://www.dharma.io/): Peer to Peer lending platform. Lend DAI out for a fixed term loan to another individual, who has staked collateral.
+- [**BloqBoard**](https://bloqboard.com/): Digital Asset Lending Platform for collateralized loans originated, settled, serviced and managed on Ethereum.
+- [**Nuo**](https://nuo.network/) Decentralized, non-custodial lending platform. 
+- [**ETHLend**](https://ethlend.io/signup) Centralized, non-custodial lending platform. 
+- [**Nexo**](https://nexo.io/): Centralized Crypto and DAI lending platform. 
+- [**Celcius**](https://celsius.network/): Centralized Mobile app for Crypto and DAI lending. 
+
+# MakerDAO Metrics and Statistics
+- [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
+- [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
+- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
+- [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
+- [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
+- [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
+- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
+- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
+
+## DAI Stats
+- [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
+- [**DaiStats**](https://dai-in-defi.com/): Supply and Demand Dashboard for DAI
+- [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
+
+## DAI Price
+- [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
+- [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
+- [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
+- [**Dai for sale on Coinbase below $1**](https://dai.defi.ai/): Visual & Numerical representation of the orderbook below $1
+- [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
+
+## Ecosystem Statistics and Metrics
+- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
+- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
+- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
+
+## Stablecoin Comparisons
+- [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
+- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
+- [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
+- [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
+
+# Hold your Dai
+There are many different ways to manage your cryptocurrency. Each user will have to decide how they want to safely interact with their funds. Each wallet has advantages and disadvantages.
+
+## Hardware Wallets
+- [**Ledger Nano S**](https://shop.ledger.com/products/ledger-nano-s)
+- [**Trezor**](https://trezor.io/)
+
+## Mobile Wallets
+- [**DexWallet**](https://www.dexwallet.io/)
+- [**Edge**](https://edge.app/)
+- [**BRD**](https://brd.com/)
+- [**Freewallet**](https://freewallet.org/eth-wallet)
+- [**Ethex**](https://ethex.market/)
+- [**Ethos Universal Wallet**](https://www.ethos.io/universal-wallet/)
+- [**Celcius**](https://celsius.network/)
+
+## Mobile Dapp & Browser Wallets
+- [**Coinbase Wallet**](https://wallet.coinbase.com/)
+- [**Trust Wallet**](https://trustwallet.com/)
+- [**Status.im**](https://status.im/)
+- [**imToken**](https://token.im/)
+- [**AlphaWallet**](https://alphawallet.com/)
+
+## Hybrid Wallets: Mobile + Desktop
+- [**Atomic Wallet**](https://atomicwallet.io/)
+- [**Zelcore**](https://zelcore.io/)
+
+## Web Wallets
+- [**MyCrypto**](https://mycrypto.com)
+- [**MyEtherWallet**](https://www.myetherwallet.com/)
+
+## Extension Wallets
+- [**MetaMask**](https://metamask.io/)
+
+## Paper Wallets
+- [**MyEtherWallet**](https://www.myetherwallet.com/#generate-wallet)
+
+# Trade Your Dai
+
+## Dai & MKR Markets
+- [**DAI Markets**](https://messari.io/asset/dai#markets)
+- [**MKR Markets**](https://messari.io/asset/maker#markets)
+
+## Token Swaps
+- [**Airswap**](https://instant.airswap.io/)
+- [**Bancor**](https://www.bancor.network/)
+- [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
+- [**KyberSwap**](https://kyberswap.com/)
+- [**SimpleSwap**](https://simpleswap.io/)
+- [**Swap.online**](https://swap.online/)
+- [**Uniswap**](https://uniswap.exchange/swap)
+
+## Noncustodial Exchanges
+- [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
+- [**Radar Relay**](https://app.radarrelay.com/WETH/DAI)
+- [**Totle**](https://app.totle.com)
+- [**DDex**](https://ddex.io/trade/WETH-DAI)
+- [**CoinChangeX**](https://www.coinchangex.com/#!/trade/DAI-ETH)
+- [**ForkDelta**](https://forkdelta.app/#!/trade/DAI-ETH)
+- [**Paradex**](https://paradex.io/market/weth-dai)
+- [**coinected**](https://coinected.io)
+- [**Changelly**](https://changelly.com/)
+
+## Custodial Exchanges
+- [**KuCoin**](https://www.kucoin.com/#/): Based in Hong Kong
+- [**Gate.io**](https://www.gate.io/trade/DAI_USDT): Based in USA
+- [**HitBTC**](https://hitbtc.com/ETH-to-DAI): Based in EU
+- [**Bibox**](https://bibox.com/exchange?coinPair=ETH_DAI): Based in China
+- [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com): Based in Hong Kong
+- [**Yobit**](https://yobit.net/en/trade/DAI/USD): Based in Russia
+- [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC): Based in USA
+- [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH): Based in England
+- [**Panda**](https://panda.exchange/en-IC/): Based in Latin America
+- [**Probit**](https://www.probit.com/en-us): Based in Republic of Seychelles
+- [**COSS.IO**](https://coss.io/): Based in Singapore
+
+# Spend Your Dai
+- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
+- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
+- [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
+- [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
+- [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
+- [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
+- [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
+
+## Merchant Solutions
+- [**8x Protocol**](https://8xprotocol.com/)
+- [**Groundhog**](https://groundhog.network/)
+- [**Ink Protocol**](https://paywithink.com/)
+- [**Savvy/PayBear**](https://www.savvy.io/)
+
+## Open-Source payment processors 
+- [**Daipay**](https://github.com/codevet/daipay/)
+- [**Dexpay**](https://dexpay.me/)
+
+## On/Off Ramps
+- [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
+  - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
+- [**Elastum**](https://elastum.io/): Convert crypto to Euros
+  - [Supported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
+- [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
+- [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
+- [**Orionx**](https://www.orionx.com): Mexico and Chile
+
+## In-Depth Analysis of MakerDAO
 
 ### Lighter
 - [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e): Medium post by MakerDAO
@@ -419,167 +578,6 @@ The scientific Governance and Risk Meetings is where the MakerDAO community disc
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
 - [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
 - [**Dapphub**](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
-
-# Use Your Dai
-
-## All-In-One's
-
-### Personal Finance Interfaces
-- [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
-- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
-
-### 3rd Party CDP Portals
-- [**CDP Saver**](https://cdpsaver.com/): Alternative CDP creation and management UI
-- [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
-- [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
-
-## Lend your Dai
-You can check various platform lending rates here: [**LoanScan**](https://loanscan.io/)
-- [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
-- [**DyDx**](https://dydx.exchange/): Decentralized derivative platform: Users put up collateral in order to borrow DAI, to take a leveraged position in ETH. These users pay interest in order to borrow the DAI they need. DAI holders can come to DYDX and offer DAI to collect this interest. Interest paid depends on the market demand for DAI on DYDX. 
-- [**Dharma**](https://www.dharma.io/): Peer to Peer lending platform. Lend DAI out for a fixed term loan to another individual, who has staked collateral.
-- [**BloqBoard**](https://bloqboard.com/): Digital Asset Lending Platform for collateralized loans originated, settled, serviced and managed on Ethereum.
-- [**Nuo**](https://nuo.network/) Decentralized, non-custodial lending platform. 
-- [**ETHLend**](https://ethlend.io/signup) Centralized, non-custodial lending platform. 
-- [**Nexo**](https://nexo.io/): Centralized Crypto and DAI lending platform. 
-- [**Celcius**](https://celsius.network/): Centralized Mobile app for Crypto and DAI lending. 
-
-# MakerDAO Metrics and Statistics
-- [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
-- [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
-- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
-- [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
-- [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
-- [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
-- [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
-- [**MakerDAO Stability Fee**](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
-
-## DAI Stats
-- [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
-- [**DaiStats**](https://dai-in-defi.com/): Supply and Demand Dashboard for DAI
-- [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
-
-## DAI Price
-- [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
-- [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
-- [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
-- [**Dai for sale on Coinbase below $1**](https://dai.defi.ai/): Visual & Numerical representation of the orderbook below $1
-- [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
-
-## Ecosystem Statistics and Metrics
-- [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
-- [**DAppTotal**](https://dapptotal.com/defi): Defi Rankings
-- [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
-
-## Stablecoin Comparisons
-- [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
-- [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
-- [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
-- [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
-
-# Hold your Dai
-There are many different ways to manage your cryptocurrency. Each user will have to decide how they want to safely interact with their funds. Each wallet has advantages and disadvantages.
-
-## Hardware Wallets
-- [**Ledger Nano S**](https://shop.ledger.com/products/ledger-nano-s)
-- [**Trezor**](https://trezor.io/)
-
-## Mobile Wallets
-- [**DexWallet**](https://www.dexwallet.io/)
-- [**Edge**](https://edge.app/)
-- [**BRD**](https://brd.com/)
-- [**Freewallet**](https://freewallet.org/eth-wallet)
-- [**Ethex**](https://ethex.market/)
-- [**Ethos Universal Wallet**](https://www.ethos.io/universal-wallet/)
-- [**Celcius**](https://celsius.network/)
-
-## Mobile Dapp & Browser Wallets
-- [**Coinbase Wallet**](https://wallet.coinbase.com/)
-- [**Trust Wallet**](https://trustwallet.com/)
-- [**Status.im**](https://status.im/)
-- [**imToken**](https://token.im/)
-- [**AlphaWallet**](https://alphawallet.com/)
-
-## Hybrid Wallets: Mobile + Desktop
-- [**Atomic Wallet**](https://atomicwallet.io/)
-- [**Zelcore**](https://zelcore.io/)
-
-## Web Wallets
-- [**MyCrypto**](https://mycrypto.com)
-- [**MyEtherWallet**](https://www.myetherwallet.com/)
-
-## Extension Wallets
-- [**MetaMask**](https://metamask.io/)
-
-## Paper Wallets
-- [**MyEtherWallet**](https://www.myetherwallet.com/#generate-wallet)
-
-# Trade Your Dai
-
-## Dai & MKR Markets
-- [**DAI Markets**](https://messari.io/asset/dai#markets)
-- [**MKR Markets**](https://messari.io/asset/maker#markets)
-
-## Token Swaps
-- [**Airswap**](https://instant.airswap.io/)
-- [**Bancor**](https://www.bancor.network/)
-- [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
-- [**KyberSwap**](https://kyberswap.com/)
-- [**SimpleSwap**](https://simpleswap.io/)
-- [**Swap.online**](https://swap.online/)
-- [**Uniswap**](https://uniswap.exchange/swap)
-
-## Noncustodial Exchanges
-- [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
-- [**Radar Relay**](https://app.radarrelay.com/WETH/DAI)
-- [**Totle**](https://app.totle.com)
-- [**DDex**](https://ddex.io/trade/WETH-DAI)
-- [**CoinChangeX**](https://www.coinchangex.com/#!/trade/DAI-ETH)
-- [**ForkDelta**](https://forkdelta.app/#!/trade/DAI-ETH)
-- [**Paradex**](https://paradex.io/market/weth-dai)
-- [**coinected**](https://coinected.io)
-- [**Changelly**](https://changelly.com/)
-
-## Custodial Exchanges
-- [**KuCoin**](https://www.kucoin.com/#/): Based in Hong Kong
-- [**Gate.io**](https://www.gate.io/trade/DAI_USDT): Based in USA
-- [**HitBTC**](https://hitbtc.com/ETH-to-DAI): Based in EU
-- [**Bibox**](https://bibox.com/exchange?coinPair=ETH_DAI): Based in China
-- [**Ethfinex**](https://www.ethfinex.com/) | [**Bitfinex**](https://www.bitfinex.com): Based in Hong Kong
-- [**Yobit**](https://yobit.net/en/trade/DAI/USD): Based in Russia
-- [**Coinbase**](https://pro.coinbase.com/trade/DAI-USDC): Based in USA
-- [**Exmo**](https://exmo.com/en/trade#?pair=DAI_ETH): Based in England
-- [**Panda**](https://panda.exchange/en-IC/): Based in Latin America
-- [**Probit**](https://www.probit.com/en-us): Based in Republic of Seychelles
-- [**COSS.IO**](https://coss.io/): Based in Singapore
-
-# Spend Your Dai
-- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
-- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
-- [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
-- [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
-- [**TheBigCoin**](https://www.thebigcoin.io/pay-with-dai): Spend Dai Anywhere
-- [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
-- [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
-
-## Merchant Solutions
-- [**8x Protocol**](https://8xprotocol.com/)
-- [**Groundhog**](https://groundhog.network/)
-- [**Ink Protocol**](https://paywithink.com/)
-- [**Savvy/PayBear**](https://www.savvy.io/)
-
-## Open-Source payment processors 
-- [**Daipay**](https://github.com/codevet/daipay/)
-- [**Dexpay**](https://dexpay.me/)
-
-## On/Off Ramps
-- [**Wyre**](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
-  - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
-- [**Elastum**](https://elastum.io/): Convert crypto to Euros
-  - [Supported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
-- [**Ripio**](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
-- [**Buenbit**](https://www.buenbit.com/): Argentina and Peru
-- [**Orionx**](https://www.orionx.com): Mexico and Chile
 
 # Developer Resources
 
