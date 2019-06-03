@@ -201,6 +201,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
 - 05/06/2019: [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/bmlgdm/notice_update_to_governance_voting_contract/)
 - 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa) 
 - 04/28/2019: [Stability Fee Increase to 16.5%](https://etherscan.io/tx/0xe063598c19bb7c5ec52f9c82cfd8c986b8141351f7dfe3d05677ba3d262e204f) 
@@ -311,6 +312,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Podcasts
+- 05/31/2019: [Hashing It Out #47: MakerDAO – **Nik Kunkel**](https://thebitcoinpodcast.com/hashing-it-out-47/)
 - 03/27/2019: [ZeroKnowledgefm: Digging into DAI with **Rune Christensen** from Maker](https://www.zeroknowledge.fm/70)
 - 03/27/2019: [NTO THE ETHER Maker: Establishing Stability in Crypto with **Rune Christensen**](https://podcast.ethhub.io/maker-establishing-stability-in-crypto-with-rune-ch)
 - 03/26/2019: [POV Crypto Podcast Episode 40 — Bitcoin Vs MakerDAO II](https://medium.com/@TrustlessState/pov-crypto-episode-40-bitcoin-vs-makerdao-ii-d71cce4f19b8)
