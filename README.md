@@ -554,6 +554,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
+- [**Unicef**](https://lp.unicef.fr/donate-dai/): Donate your Dai
 
 ## Merchant Solutions
 - [**8x Protocol**](https://8xprotocol.com/)
