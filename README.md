@@ -405,10 +405,17 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - 08/05/2017: [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66): Post by Ryan Zurrer of Polychain Capital
 
 # Audits and Security
-- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/SAICoinCode_Review_v1_3.pdf): Whitehat, et al.
-- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/blob/master/audit/previous-audit/Sai_Final_Report.pdf): Trail of Bits
-- [**MakerDAO Sai (Single-Collateral Dai) Contract Audit**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit): Bok Consulting
-- [**Dapphub**](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf): Trail of Bits
+
+## Multi Collateral Dai
+- [**Trail of Bits (October 2018)**](https://github.com/makerdao/audits/blob/master/mcd/trail-of-bits.pdf)
+
+## Single Collateral Dai
+- [**Whitehat Group (sai@fcec04a9)**](https://github.com/makerdao/audits/blob/master/scd/white-hat-group.pdf)
+- [**Trail of Bits (September 2017)**](https://github.com/makerdao/audits/blob/master/scd/trail-of-bits.pdf)
+- [**Bok Consulting (sai@56eed66b**](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/8dbefb06826c01082ff2fb9c368d30c0336733a1)
+
+## Dappsys
+- [**Trail of Bits (November 2017)**](https://github.com/makerdao/audits/blob/master/dappsys/trail-of-bits.pdf)
 
 # Use Your Dai
 
