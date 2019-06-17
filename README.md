@@ -117,12 +117,15 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 ## FAQs
 - [FAQ: All](https://github.com/makerdao/community/tree/master/faqs)
 - [FAQ: Glossary of Terms](https://github.com/makerdao/community/blob/master/faqs/glossary.md)
-- [FAQ: Governance](https://github.com/makerdao/community/blob/master/faqs/governance.md)
+- [FAQ: CDP](https://github.com/makerdao/community/blob/master/faqs/cdp.md)
 - [FAQ: Dai](https://github.com/makerdao/community/blob/master/faqs/dai.md)
-- [FAQ: Stability Fees](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md)
+- [FAQ: Emergency Shutdown](https://github.com/makerdao/community/blob/master/faqs/emergency-shutdown.md)
+- [FAQ: Governance](https://github.com/makerdao/community/blob/master/faqs/governance.md)
 - [FAQ: Liquidation](https://github.com/makerdao/community/blob/master/faqs/liquidation.md)
 - [FAQ: MakerDAO](https://github.com/makerdao/community/blob/master/faqs/makerdao.md#makerdao)
 - [FAQ: Oracles](https://github.com/makerdao/community/blob/master/faqs/oracles.md#oracles)
+- [FAQ: Risk Management](https://github.com/makerdao/community/blob/master/faqs/risk-management.md)
+- [FAQ: Stability Fees](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md)
 - [FAQ: Stability fee raise](https://www.reddit.com/r/MakerDAO/comments/93adqj/faq_stability_fee_raise/): Reddit post by u/rich_at_makerdao
 - [FAQ: Where does the name "Dai" come from?](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/): Reddit post by u/Rune4444
 
@@ -164,6 +167,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Investment Analysis: MakerDAO](https://medium.com/@blockspace.info/investment-analysis-makerdao-e58245d07c2f): Medium post by Aviv Milner | Victor Hogrefe
 
 ## Critiques
+- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152): Academic Paper by Ariah Klages-Mundt and Andreea Minca
 - [Revisiting stablecoins](https://jpkoning.blogspot.com/2019/05/revisiting-stablecoins.html): Blog Post by JP Koning
 - [The $1.00 Stablecoin Worth $0.98](https://medium.com/@GrapefruitTrading/the-1-00-stablecoin-worth-0-98-2699046c5266): Medium Post by Grapefruit Trading
 - [Maker Dai: Stable, but not scalable: A lesson in stablecoin arbitrage](https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6) | [Reddit Thread](https://www.reddit.com/r/MakerDAO/comments/adp7ur/maker_dai_stable_but_not_scalable_medium_article/): Medium Post by Hasu
@@ -201,6 +205,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
 - 05/06/2019: [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/bmlgdm/notice_update_to_governance_voting_contract/)
 - 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa) 
