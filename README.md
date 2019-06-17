@@ -450,6 +450,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 - [**CDP Saver**](https://cdpsaver.com/): Alternative CDP creation and management UI
 - [**CDP Station on Settle**](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
 - [**InstaDapp Borrow**](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
+- [**Shadowlands: CDP Interface**](https://github.com/kayagoban/shadowlands): Run local Dapps using Shadowlands 
 
 # Lend your Dai
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
