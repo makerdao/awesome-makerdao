@@ -1,18 +1,18 @@
  # Overview of MakerDAO | Dai ⬙
 
-[Maker](https://makerdao.com/) is a Decentralized Autonomous Organization(DAO) that manages the Dai Stablecoin System on the Ethereum blockchain.
+[Maker](https://makerdao.com/) is a Decentralized Autonomous Organization (DAO) that manages the Dai Stablecoin System on the Ethereum blockchain.
 
 A decentralized stablecoin is the required component necessary to unlock the next phase of the digital financial revolution. Maker has taken the best parts of earlier stablecoin designs and combined them into the ultimate decentralized currency: Dai (Unicode symbol: ⬙)
 
 The fact that Maker is a DAO means that it is possible for anyone, anywhere to become a part of Maker and help build the backbone of a new economy.
 
-MKR holders are the highest authority in the Maker system, they help govern the system and are benefited when they govern it well, but they also have to foot the bill if things are mismanaged. As a group they need strong social cooperation and a vigilant attitude towards governance.
+MKR holders are the highest authority in the Maker system. They help govern the system and benefit when they govern it well, but they also must foot the bill if things are mismanaged. As a group they need strong social cooperation and a vigilant attitude towards governance.
 
-The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are smart contracts that hold the collateral assets that guarantee the value of outstanding Dai, while simultaneously serving as a platform for decentralized margin trading; with lower costs and higher security than what is possible with current margin trading solutions.
+The most crucial part of the Dai Stablecoin System is the CDP platform. CDPs are smart contracts that hold the collateral assets that guarantee the value of outstanding Dai, while simultaneously serving as a platform for decentralized margin trading; with lower costs and higher security than what is possible with current solutions.
 
-The Dai stablecoin and the CDP platform combine to offer a full solution for global decentralized finance where everyone, from rural India to Wall Street, can benefit from decentralized finance.
+The Dai stablecoin and the CDP platform combine to offer a global decentralized finance solution that can benefit every community, from unbanked rural populations to Wall Street.
 
-Below is a collection of resources for anyone interested in exploring MakerDao. You can find everything from official documentation, to beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
+Below is a collection of resources for anyone interested in exploring MakerDAO with official documentation, beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
 ---
 
