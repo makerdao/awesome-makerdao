@@ -317,6 +317,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Podcasts
+- 06/18/2019: [POV Crypto Ep. 58-The Frontier of Dai, With **Mariano Conti**](https://medium.com/@TrustlessState/58-the-frontier-of-dai-with-mariano-conti-8e532cdc48a4)
 - 05/31/2019: [Hashing It Out #47: MakerDAO – **Nik Kunkel**](https://thebitcoinpodcast.com/hashing-it-out-47/)
 - 04/03/2019: [Software Engineering Daily: Stablecoins with **Rune Christensen**](https://softwareengineeringdaily.com/2019/04/03/stablecoins-with-rune-christensen/) 
 - 03/27/2019: [ZeroKnowledgefm: Digging into DAI with **Rune Christensen** from Maker](https://www.zeroknowledge.fm/70)
