@@ -441,6 +441,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
 - [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
 - [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
+- [**PoolTogether**](https://www.pooltogether.us/): Lossless Lottery using Dai
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
 - [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
 - [**SilverWire**](https://silverwire.io/): Reversible payments
