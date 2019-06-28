@@ -133,6 +133,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [FAQs: Spanish](https://github.com/makerdao/community/tree/master/faqs/es)
 - [FAQs: French](https://github.com/makerdao/community/tree/master/faqs/fr)
 - [FAQs: Korean](https://github.com/makerdao/community/tree/master/faqs/ko)
+- [FAQs: Japanese](https://github.com/makerdao/community/tree/master/faqs/ja)
 
 ## In Depth Analysis
 
