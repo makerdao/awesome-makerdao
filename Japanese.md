@@ -13,7 +13,7 @@ Daiステーブルコインシステムの最も重要な部分はCDPプラッ�
 DaiとCDPプラットフォームは、インドの農村部からウォール街まで、グローバルでオープンな分散型金融システムを提供するために不可分なソリューションです。
 
 ## 基本
-- [Dai Staiblecoinシステム（Whitepaper和訳）by Makerチーム](https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-ja.pdf) 
+- [Dai Stablecoinシステム（Whitepaper和訳）by Makerチーム](https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-ja.pdf) 
 - [MakerDAOとStablecoin by Individua1](https://individua1.net/category/cryptocurrency/series/makerdao-and-stablecoin/)
 - [＜仕組み解説＞Guidelines of MakerDAO&dai by Watata Crypto Medium](https://medium.com/@souta.watatata/makerdao-dai)
 - [アンチMakerDAO&DAIになって課題を整理してみる by Watata Crypto Medium](https://medium.com/@souta.watatata/アンチmakerdao-daiになって課題を整理してみる)
