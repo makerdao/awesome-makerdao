@@ -21,3 +21,6 @@ DaiとCDPプラットフォームは、インドの農村部からウォール�
 ## エンジニア向け
 - [Dai Stablecoinシステム（Purplepaper和訳※エンジニア向け）by Lotz84](https://github.com/lotz84/dai-in-jp/blob/master/purple-paper.md)
 - [MakerDAOのコードを理解しよう その１by Takuya Fujita](https://medium.com/@takuyafujita/makerdao%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86-%E3%81%9D%E3%81%AE%EF%BC%91-46dad986b8e2)
+
+## よくある質問
+-　[FAQ: 用語集](https://github.com/makerdao/community/blob/master/faqs/ja/glossary.md)
