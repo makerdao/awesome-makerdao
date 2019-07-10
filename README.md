@@ -612,8 +612,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Developer Guides
 - [**Developer Guides**](https://github.com/makerdao/developerguides)
   - [**Dai Token Guide**](https://github.com/makerdao/developerguides/blob/master/dai/dai-token/dai-token.md)
-  - [**How to use mcd-cli to interact with Kovan deployment of MCD**]
-  (https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
   - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
   - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
   - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
