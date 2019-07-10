@@ -144,6 +144,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
 
 ### Heavier
+- [A Ratings-Based Model for Credit Events in MakerDAO](https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5d25fc556a956b0001aa2c62/1562770517350/Maker-Ratings.pdf): Paper by Alex Evans
 - [Maker Network Overview: Placeholder VC](https://www.placeholder.vc/blog/2019/3/1/maker-network-report): Report by Placeholder VC
 - [MakerDAO Stability Fee Benchmarking](https://medium.com/@primoz.kordez/makerdao-stability-fee-benchmarking-1c440b69de6b): Medium Post by Primoz Kordez
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd): Medium Post by David Hoffman
@@ -206,6 +207,9 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 07/09/2019: [Stability Fee Increase to 18.5%]()
+- 07/05/2019: [Stability Fee Increase to 17.5%]()
+- 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
 - 05/06/2019: [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/bmlgdm/notice_update_to_governance_voting_contract/)
