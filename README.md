@@ -633,8 +633,6 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
   - [Introduction to Seth](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
   - [Working with DSProxy](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
 
----
-
 ## Single-Collateral Dai
 
 ### Contracts
@@ -695,7 +693,6 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
 - [GraphQL API](https://developer.makerdao.com/dai/1/graphql/)
 - [Price Feed Documentation](https://developer.makerdao.com/feeds/)
 
-
 ### Examples
 
 - [Node-Dai](https://github.com/Kaisle/node-dai)
@@ -704,8 +701,6 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
 - [Dai Integration Examples](https://github.com/makerdao/integration-examples)
 - [Liquid Long CDP Management](https://help.keydonix.com/articles/37031-where-can-i-find-the-source-code)
 - [Shadowlands CDP Manager: 100% Python, TextUI Dapp platform for ethereum, built on Python3.5+, web3.py and asciimatics](https://github.com/kayagoban/shadowlands_cdp_manager)
-
----
 
 ## Multi-Collateral Dai
 
