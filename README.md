@@ -602,87 +602,135 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 # Developer Resources
 
-## Technical Info
-- [**Glossary**](https://github.com/makerdao/dss/wiki/Glossary): of terms in code
-- [**MCD Core CDP Engine Architecture**](https://github.com/makerdao/dss/wiki): Diagram
-- [**Executable K specification of the smart contracts of Multi-Collateral Dai**](http://stablecoin.technology/)
-- [**k-dss formal specification and verification of Multi-Collateral Dai**](https://github.com/dapphub/k-dss)
-- [**Purple Paper**](https://makerdao.com/purple/): Reference Implementation (_Outdated_)
+## General
 
-## Developer Guides
-- [**Developer Guides**](https://github.com/makerdao/developerguides)
-  - [**Dai Token Guide**](https://github.com/makerdao/developerguides/blob/master/dai/dai-token/dai-token.md)
-  - [**How to use mcd-cli to interact with Kovan deployment of MCD**](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
-  - [**Introduction to Seth**](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
-  - [**Introduction on how to use Maker’s custom test chain**](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
-  - [**Keepers Guide**](https://github.com/makerdao/developerguides/tree/master/keepers)
-  - [**MCD 101**](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
-  - [**Working with DSProxy**](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
-- [**Partner Resources**](https://github.com/makerdao/developerguides#partner-compilations)
-  - [**Exchanges**](https://github.com/makerdao/developerguides/tree/master/exchanges)
-  - [**Market Makers**](https://github.com/makerdao/developerguides/tree/master/market-makers#market-makers)
-  - [**Remittance Services**](https://github.com/makerdao/developerguides/tree/master/remittance#remittance-services)
-  - [**Upgrading to Multi-Collateral Dai**](https://github.com/makerdao/developerguides/tree/master/mcd)
-  - [**Wallets**](https://github.com/makerdao/developerguides/tree/master/wallets)
-  
+These are resources that overlap between Single-Collateral Dai and Multi-Collateral Dai.
+
+### Github Orgs
+
+- [MakerDAO](https://github.com/makerdao)
+- [DappHub](https://github.com/dapphub)
+- [OasisDEX](https://github.com/OasisDEX)
+
+### Documentation
+
+- [Dai.js JavaScript library Documentation](https://makerdao.com/documentation/)
+- [Dapp.tools](https://dapp.tools/)
+- [Seth](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
+- [Klab: generating and debugging K-framework reachability proofs](https://github.com/dapphub/klab)
+- [Multicall](https://github.com/makerdao/multicall)
+- [_Dappsys library_](https://dapp.tools/dappsys/)
+    - [ds-token](https://dapp.tools/dappsys/ds-token.html)
+    - [ds-auth](https://dapp.tools/dappsys/ds-auth.html)
+    - [ds-value](https://dapp.tools/dappsys/ds-value.html)
+    - [ds-math](https://dapp.tools/dappsys/ds-math.html)
+    - [ds-note](https://dapp.tools/dappsys/ds-note.html)
+    - [ds-proxy](https://dapp.tools/dappsys/ds-proxy.html)
+
+### Guides & Tutorials
+
+- [_Developer Guides_](https://github.com/makerdao/developerguides)
+  - [Introduction to Seth](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
+  - [Working with DSProxy](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
+
+---
+
+## Single-Collateral Dai
+
+### Contracts
+
+#### Mainnet
+
+- [Dai Token Tracker](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)
+- [MKR Token Tracker](https://etherscan.io/token/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2)
+- [Global Settlement Mechanism](https://etherscan.io/address/0x9b0ccf7c8994e19f39b2b4cf708e0a7df65fa8a3)
+- [CDP Engine](https://etherscan.io/address/0x448a5065aebb8e423f0896e6c5d525c040f59af3)
+- [CDP Liquidator](https://etherscan.io/address/0xbda109309f9fafa6dd6a9cb9f1df4085b27ee8ef)
+- [Chief Governance](https://etherscan.io/address/0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5) 
+- [MKR Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275)
+- [DSProxy Registry](https://etherscan.io/address/0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4)
+
+#### Kovan
+
+- [Dai Token Tracker](https://kovan.etherscan.io/token/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
+- [MKR Token Tracker](https://kovan.etherscan.io/token/0xaaf64bfcc32d0f15873a02163e7e500671a4ffcd)
+- [Global Settlement Mechanism](https://kovan.etherscan.io/address/0x5f00393547561da3030ebf30e52f5dc0d5d3362c)
+- [CDP Engine](https://kovan.etherscan.io/address/0xa71937147b55deb8a530c7229c442fd3f31b7db2)
+- [CDP Liquidator](https://kovan.etherscan.io/address/0xc936749d2d0139174ee0271bd28325074fdbc654)
+- [Chief Governance](https://kovan.etherscan.io/address/0x74d41fd874234d9bea31ff6b090ba1d0b9dc8785)
+- [MKR Burner](https://kovan.etherscan.io/address/0xbd747742b0f1f9791d3e6b85f8797a0cf4fbf10b)
+- [DSProxy Registry](https://kovan.etherscan.io/address/0x64a436ae831c1672ae81f674cab8b6775df3475c)
+
+### Tools
+
+- [Testchain - Run SCD contracts locally](https://github.com/makerdao/testchain)
+- [pymaker - Python API for Maker contracts](https://github.com/makerdao/pymaker)
+- [Governance Dashboard](https://github.com/makerdao/governance-dashboard)
+- [SCD CDP Portal](https://github.com/makerdao/scd-cdp-portal)
+
+### Documentation
+
+- [Dai Documentation](https://developer.makerdao.com/dai/1/)
+- [Dai Developer Documentation](https://github.com/makerdao/sai/blob/master/DEVELOPING.md)
+- [Dai Main Repo: All Contracts](https://github.com/makerdao/sai)
+- [SCD Variables Glossary](https://github.com/makerdao/sai/blob/master/DEVELOPING.md)
+- [Purple Paper: Reference Implementation (_Outdated_)](https://makerdao.com/purple/)
+
+### Guides & Tutorials
+
+- [_Developer Guides_](https://github.com/makerdao/developerguides)
+    - [Dai Token Guide](https://github.com/makerdao/developerguides/blob/master/dai/dai-token/dai-token.md)
+    - [Using Dai in smart contracts](https://github.com/makerdao/developerguides/blob/master/dai/dai-in-smart-contracts/README.md)
+    - [Keepers Guide](https://github.com/makerdao/developerguides/tree/master/keepers)
+    - [Testchain Guide to deploy contracts locally](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
+    - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc)
+    - [Deep dive into MakerDAO Governance: A look at the code for governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
+    - [VoteProxy Setup Guide](https://github.com/makerdao/developerguides/blob/master/governance/vote-proxy-setup-airgapped-machine/vote-proxy-setup-airgapped-machine.md)
+- [_Dai.js_](https://makerdao.com/documentation/)
+    - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa)
+    - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df)
+
+### Data & APIs
+
+- [GraphQL API](https://developer.makerdao.com/dai/1/graphql/)
+- [Price Feed Documentation](https://developer.makerdao.com/feeds/)
 
 
-## APIs
-- [**GraphQL API**](https://developer.makerdao.com/dai/1/graphql/)
-- [**kovan Graphql**](https://kovan-data.makerdao.com/)
+### Examples
 
-## Libraries and Tools
-- [**Dai.js JavaScript library Documentation**](https://makerdao.com/documentation/)
-- [**Node-Dai**](https://github.com/Kaisle/node-dai)
-- [**DappHub**](https://dapphub.com/): decentralized tool suite
-- [**Klab**](https://github.com/dapphub/klab): generating and debugging K-framework reachability proofs
+- [Node-Dai](https://github.com/Kaisle/node-dai)
+- [CDP Liquidator Devpost](https://devpost.com/software/cdp-liquidator)
+- [CDP Saver](https://github.com/DecenterApps/cdpsaver-contracts)
+- [Dai Integration Examples](https://github.com/makerdao/integration-examples)
+- [Liquid Long CDP Management](https://help.keydonix.com/articles/37031-where-can-i-find-the-source-code)
+- [Shadowlands CDP Manager: 100% Python, TextUI Dapp platform for ethereum, built on Python3.5+, web3.py and asciimatics](https://github.com/kayagoban/shadowlands_cdp_manager)
 
-## Source Code
-- [**MakerDAO**](https://github.com/makerdao)
-- [**DappHub**](https://github.com/dapphub)
-- [**OasisDEX**](https://github.com/OasisDEX)
+---
 
-## All the Contracts
+## Multi-Collateral Dai
 
-### Single Collateral DaI (SCD) 
-- [**Dai Token Tracker**](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)
-- [**Global Settlement Mechanism**](https://etherscan.io/address/0x9b0ccf7c8994e19f39b2b4cf708e0a7df65fa8a3)
-- [**CDP Engine**](https://etherscan.io/address/0x448a5065aebb8e423f0896e6c5d525c040f59af3)
-- [**CDP Liquidator**](https://etherscan.io/address/0xbda109309f9fafa6dd6a9cb9f1df4085b27ee8ef)
-- [**Target Price Feed**](https://etherscan.io/address/0x9b0f70df76165442ca6092939132bbaea77f2d7a)
-- [**Dai Documentation**](https://developer.makerdao.com/dai/1/)
-- [**dss-proxy-actions**](https://github.com/makerdao/dss-proxy-actions)
+### Contracts
 
-### Dai v1 Kovan
-- [**Dai Token Tracker**](https://kovan.etherscan.io/token/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
-- [**Global Settlement Mechanism**](https://kovan.etherscan.io/address/0x5f00393547561da3030ebf30e52f5dc0d5d3362c)
-- [**CDP Engine**](https://kovan.etherscan.io/address/0xa71937147b55deb8a530c7229c442fd3f31b7db2)
-- [**CDP Liquidator**](https://kovan.etherscan.io/address/0xc936749d2d0139174ee0271bd28325074fdbc654)
-- [**Target Price Feed**](https://kovan.etherscan.io/address/0xbb4339c0ab5b1d9f14bd6e3426444a1e9d86a1d9)
+_While MCD is on a TestNet, contract addresses are subject to change. Visit [changelog.makerdao.com](https://changelog.makerdao.com/) for up-to-date information._
 
-### Dai v2 Kovan
-- [**MCD_VAT**](https://kovan.etherscan.io/address/0xcd726790550afcd77e9a7a47e86a3f9010af126b): the CDP core engine
-- [**MCD_PIT**](https://kovan.etherscan.io/address/0xe7cf3198787c9a4daac73371a38f29aaeeced87e): Locking and drawing DAI
-- [**MCD_CAT**](https://kovan.etherscan.io/address/0x2f34f22a00ee4b7a8f8bbc4eaee1658774c624e0): the user-facing gateway contract for liquidating (biting) CDPs
-- [**MCD_FLAP**](https://kovan.etherscan.io/address/0x8868bad8e74fca4505676d1b5b21ecc23328d132): Buying and burning MKR when the system has a surplus
-- [**MCD_FLOP**](https://kovan.etherscan.io/address/0x6191c9b0086c2ebf92300cc507009b53996fbffa): Minting and selling MKR to cover bad debt
+### Tools
 
-### MKR governance token contract
- - [**MCD_GOV**](https://kovan.etherscan.io/address/0x6052632c8f977edef616a31d67ce504fb474bb77): the MKR governance token contract
+- [Testchain - Run MCD contracts locally](https://github.com/makerdao/testchain)
 
-### DAI stablecoin contracts
-- [**MCD_DAI**](https://kovan.etherscan.io/address/0x444254706e8f1fb62a6ec26a7fa2b942ef672495): the DAI stablecoin contract
-- [**MCD_JOIN_DAI**](https://kovan.etherscan.io/address/0xfcbecd1a2ac11a260f6ff9de400f815f2906a2bd): Minting and burning DAI
+### Documentation
 
-### ETH collateral contracts
-- [**MCD_JOIN_ETH**](https://kovan.etherscan.io/address/0x3ccd75157dc0ec69141294eda7a3657a4db8a399): ETH adapter responsible for joining and exiting ETH collateral
-- [**MCD_OSM_ETH**](https://kovan.etherscan.io/address/0x9FfFE440258B79c5d6604001674A4722FfC0f7Bc): oracle security module feeding the ETH.USD price
-- [**MCD_FLIP_ETH**](https://kovan.etherscan.io/address/0x32d496ad866d110060866b7125981c73642cc509): the ETH flip auction contract
+- [MCD Core CDP Engine Architecture](https://github.com/makerdao/dss/wiki)
+- [MCD System Variables](https://www.notion.so/MCD-System-c4df43ded9aa47f7b3770cb7ea6a79e7)
+- [Executable K specification of the smart contracts of Multi-Collateral Dai](http://stablecoin.technology/)
+- [k-dss formal specification and verification of Multi-Collateral Dai](https://github.com/dapphub/k-dss)
 
-### REP collateral contracts
-- [**MCD_JOIN_REP**](https://kovan.etherscan.io/address/0x5df073feb82b95af2b3c90ae458201b997512ff7): REP adapter responsible for joining and exiting REP collateral
-- [**MCD_OSM_REP**](https://kovan.etherscan.io/address/0xf88bbdc1e2718f8857f30a180076ec38d53cf296): oracle security module feeding the REP.USD price
-- [**MCD_FLIP_REP**](https://kovan.etherscan.io/address/0xC0851F73CC8DD5c0765E71980eC7E7Fd1EF74434): REP flip auction contract
+### Guides & Tutorials
+
+- [MCD 101](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
+- [How to use mcd-cli to interact with Kovan deployment of MCD](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+- [Introduction on how to use Maker’s custom test chain](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
+- [WIP: Multi Collateral Dai Developer Guide](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
+- [Upgrading to Multi-Collateral Dai](https://github.com/makerdao/developerguides/tree/master/mcd)
 
 # Stablecoins in General
 
