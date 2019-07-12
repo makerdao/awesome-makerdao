@@ -244,6 +244,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 06/05/2017: [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## Partnerships
+- 07/12/2019: [**Akropolis** + Dai: creating safeguards against inflation and economic crises through technology](https://medium.com/akropolis/akropolis-dai-creating-safeguards-against-inflation-and-economic-crises-through-technology-cb69b92c362c)
 - 07/08/2019: [**Celer Network** to Integrate Dai into CelerX Mobile App](https://medium.com/celer-network/celer-makerdao-10e7d2e9e860)
 - 07/03/2019: [MakerDAO on **KeepKey**: Discover DeFi](https://medium.com/shapeshift-stories/makerdao-on-keepkey-discover-defi-3d53986c1d14)
 - 06/26/2019: [**Coinsource** U.S. Bitcoin ATM Operator to Add Dai Stablecoin, Launch Remittance Service](https://www.nytimes.com/reuters/2019/06/26/technology/26reuters-crypto-currencies-coinsource.html?searchResultPosition=1)
