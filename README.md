@@ -447,7 +447,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
 - [**PoolTogether**](https://www.pooltogether.us/): Lossless Lottery using Dai
-- [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
 - [**Whisp.Money**](https://whisp.money): Dai payroll solution
 
 ## 3rd Party CDP Portals
@@ -462,7 +461,9 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**DyDx**](https://dydx.exchange/): Decentralized Dai Lending
 - [**Dharma**](https://www.dharma.io/): Peer to Peer & Non-Custodial
 - [**Nexo**](https://nexo.io/): Centralized 
-- [**Celcius**](https://celsius.network/): Centralized 
+- [**Celcius**](https://celsius.network/): Centralized
+- [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
+- [**Nuo**](https://www.nuo.network/): Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
 
 # Watch your Dai
 
@@ -540,7 +541,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Token Swaps
 - [**Airswap**](https://instant.airswap.io/)
-- [**Bancor**](https://www.bancor.network/)
 - [**0xInstant: Buy Dai from within a Tweet**](https://twitter.com/boxylabs/status/1109096315336581120)
 - [**KyberSwap**](https://kyberswap.com/)
 - [**SimpleSwap**](https://simpleswap.io/)
@@ -574,11 +574,11 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 # Spend Your Dai
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
 - [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
-- [**Ethichub**](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
-- [**Dharma**](https://dharma.io/): Loan out your Crypto, including Dai
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 - [**Unicef**](https://lp.unicef.fr/donate-dai/): Donate your Dai
+- [**OpenSea**](https://opensea.io): Buy and sell digital goods and assets.  Make offers in Dai.
+- [**CelerX**](https://celerx.app/): Play eSports games, win crypto prizes
 
 ## Merchant Solutions
 - [**8x Protocol**](https://8xprotocol.com/)
@@ -760,4 +760,5 @@ _While MCD is on a TestNet, contract addresses are subject to change. Visit [cha
  - [Stableunit](https://stableunit.org/): Hybrid
  - [Reserve](https://www.reserve.org/): Hybrid
  - [Fragments/Ampleforth](https://www.ampleforth.org): Algorithmic
+ - [Neutral](https://dapp.neutralproject.com/): Metastable basket of stablecoins
 
