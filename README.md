@@ -439,25 +439,16 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## 3rd Party Apps, Integrations, and Tools
 
-- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
-- [**CDP.FYI**](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**CDP Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
-- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
-- [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
+- [**DeFi Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
-- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
-- [**Old Maker Redeemer**](https://makerdao.com/redeem/): Tool for converting old MKR to new MKRF
 - [**PoolTogether**](https://www.pooltogether.us/): Lossless Lottery using Dai
 - [**Project Bifrost**](https://www.projectbifrost.com/) | [Video](https://www.youtube.com/watch?v=DwzSlOU227s): Making International Aid Instantaneous by leveraging Dai
-- [**Reloanr**](https://app.reloanr.com/#/): Secondary Market for Dai Loans
-- [**SilverWire**](https://silverwire.io/): Reversible payments
-- [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
-- [**Trivial.co**](https://trivial.co/t/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2): MKR News & Analysis In One Place
+- [**Whisp.Money**](https://whisp.money): Dai payroll solution
 
 ## 3rd Party CDP Portals
 
@@ -475,20 +466,26 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 # Watch your Dai
 
+- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
+- [**CDP.FYI**](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
+- [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
+- [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
 - [**Mkr.tools**](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [**Makerscan**](https://makerscan.io/): MakerDAO System Explorer
+- [**MakerDaiBot**](https://twitter.com/MakerDaiBot): Twitterbot
 - [**daiembassy**](https://www.daiembassy.online/): MakerDAO System Explorer
 - [**TokenAnalyst: Stablecoins**](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
 - [**TRMLabs Insights**](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
 - [**State of the Dapps: MakerDAO**](https://www.stateofthedapps.com/dapps/makerdao): MakerDAO Stats
 - [**Supermax**](https://playground.supermax.cool/makerdao): MakerDAO Stats
 - [**StableCoin Index**](https://stablecoinindex.com/): Stats of various stablecoins
+- [**Stability Fee Change Notifications**](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
 - [**Loanscan**](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 - [**DaiStats**](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
 - [**Nomics: Dai**](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 - [**EthView**](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
-- [**Dai--in-Defi**](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
+- [**Dai-in-Defi**](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
 - [**Daiprice**](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics 
 - [**DaiPeg**](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [**dai.stablecoin.science**](https://dai.stablecoin.science/): Dashboard to view Dai USD price
