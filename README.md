@@ -207,6 +207,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 07/13/2019: [Stability Fee Increase to 20.5%]()
 - 07/09/2019: [Stability Fee Increase to 18.5%]()
 - 07/05/2019: [Stability Fee Increase to 17.5%]()
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
