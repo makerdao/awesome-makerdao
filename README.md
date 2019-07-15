@@ -312,6 +312,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 12/15/2017: [Maker sells $12M of MKR to partners, led by **Andreessen Horowitz and Polychain Capital**](https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548)
 
 ## AMAs | Interviews
+- 07/08/2019: [BBOD: Introducing DAI Stablecoin. An Interview with Founder & CEO of MakerDAO, **Rune Christensen**](https://www.youtube.com/watch?v=BhQg7fnAplQ)
 - 02/18/2019: [Towards a second-generation tokenization, Interview with **Rune Chistensen**](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
 - 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - **Mariano Conti**](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
 - 11/30/2018: [MakerDAO President **Steven Becker** on the Boom in 'Stablecoins'](https://cheddar.com/videos/makerdao-president-on-the-boom-in-stablecoins)
