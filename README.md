@@ -509,6 +509,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Hardware Wallets
 - [**Ledger Nano S**](https://shop.ledger.com/products/ledger-nano-s)
 - [**Trezor**](https://trezor.io/)
+- [**KeepKey**](https://keepkey.com)
+    - [MakerDAO on **KeepKey**: Discover DeFi](https://medium.com/shapeshift-stories/makerdao-on-keepkey-discover-defi-3d53986c1d14)
 
 ## Mobile Wallets
 - [**DexWallet**](https://www.dexwallet.io/)
