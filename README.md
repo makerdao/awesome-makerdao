@@ -565,6 +565,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**Paradex**](https://paradex.io/market/weth-dai)
 - [**coinected**](https://coinected.io)
 - [**Changelly**](https://changelly.com/)
+- [**ShapeShift**](https://shapeshift.com/)
 
 ## Custodial Exchanges
 - [**KuCoin**](https://www.kucoin.com/#/): Based in Hong Kong
