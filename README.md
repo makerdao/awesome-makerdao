@@ -184,7 +184,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
 - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
 - [**Governance & Risk Meetings: Transcripts**](https://github.com/makerdao/community/tree/master/governance/transcripts): Github repo
-- [**r/mkrgov**](https://www.reddit.com/r/mkrgov/): Primary subreddit for Governance discussions
+- [**Governance Forum**](https://forum.makerdao.com)
+- [**Governance at a Glance**](https://forum.makerdao.com/t/governance-at-a-glance/84)
 - [**Governance & Risk Meetings: Written recaps (old)**](https://github.com/scottrepreneur/maker-minutes): Github repo
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077): Medium Posts by MakerDAO
 - [Lessons from MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a): Medium post by Nick Tomaino
@@ -207,17 +208,18 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Major Milestones | Events
+- 07/24/2019: [MCD Public Bug Bounty is announced](https://blog.makerdao.com/mcd-bug-bounty-announcement-and-security-roadmap-update/)
 - 07/13/2019: [Stability Fee Increase to 20.5%]()
-- 07/12/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.10](https://changelog.makerdao.com/releases/0.2.10/index.html)
+- 07/12/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.10](https://changelog.makerdao.com/releases/0.2.10/index.html)
 - 07/09/2019: [Stability Fee Increase to 18.5%]()
 - 07/05/2019: [Stability Fee Increase to 17.5%]()
-- 06/14/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.9](https://changelog.makerdao.com/releases/0.2.9/index.html)
-- 06/14/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.8](https://changelog.makerdao.com/releases/0.2.8/index.html)
+- 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.9](https://changelog.makerdao.com/releases/0.2.9/index.html)
+- 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.8](https://changelog.makerdao.com/releases/0.2.8/index.html)
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
-- 05/31/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.7](https://changelog.makerdao.com/releases/0.2.7/index.html)
+- 05/31/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.7](https://changelog.makerdao.com/releases/0.2.7/index.html)
 - 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
-- 05/17/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.6](https://changelog.makerdao.com/releases/0.2.6/index.html)
+- 05/17/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.6](https://changelog.makerdao.com/releases/0.2.6/index.html)
 - 05/06/2019: [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/bmlgdm/notice_update_to_governance_voting_contract/)
 - 05/03/2019: [Stability Fee Increase to 19.5%](https://etherscan.io/tx/0xfecb046baeeb49d39d2fe00333c94903132e87a0372cd5ee62953b9c06d396fa)
 - 05/03/2019:[Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.5](https://changelog.makerdao.com/releases/0.2.5/index.html)
@@ -335,6 +337,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 07/10/2016: [Bitcoinist.com short Interview with **Rune Christensen**](https://bitcoinist.com/makerdao-founder-claims-absolutely-zero-obligation-dao-investors-interview/)
 
 ## Podcasts
+- 07/30/2019: [Epicenter: Maker DAO – The Central Bank of Web 3.0 w/ **Rune Christensen**](https://epicenter.tv/episode/298/)
 - 06/18/2019: [POV Crypto Ep. 58-The Frontier of Dai, With **Mariano Conti**](https://medium.com/@TrustlessState/58-the-frontier-of-dai-with-mariano-conti-8e532cdc48a4)
 - 05/31/2019: [Hashing It Out #47: MakerDAO – **Nik Kunkel**](https://thebitcoinpodcast.com/hashing-it-out-47/)
 - 04/03/2019: [Software Engineering Daily: Stablecoins with **Rune Christensen**](https://softwareengineeringdaily.com/2019/04/03/stablecoins-with-rune-christensen/) 
@@ -503,6 +506,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**Defitracker**](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
 - [**Vishesh's Graphs**](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
 - [**Tracker of 24hr VWAP of Dai**](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
+- [**Santiment Maker Analytics**](https://graphs.santiment.net/makerdao)
 
 # Hold your Dai
 
