@@ -585,14 +585,17 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**COSS.IO**](https://coss.io/): Based in Singapore
 
 # Spend Your Dai
-- [**Spendai**](https://spendai.com/): A DAI-only store
-- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
-- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
+
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
-- [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
-- [**Unicef**](https://lp.unicef.fr/donate-dai/): Donate your Dai
-- [**OpenSea**](https://opensea.io): Buy and sell digital goods and assets.  Make offers in Dai.
+- [**Block and Mortar**](https://blockandmortar.io/): Ethereum full nodes on micro-PCs, plug and play, sold at cost
 - [**CelerX**](https://celerx.app/): Play eSports games, win crypto prizes
+- [**Coinevents**](https://coinevents.io/): Event tickets, sell your event's tickets for crypto
+- [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
+- [**OpenSea**](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
+- [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
+- [**Spendai**](https://spendai.com/): A DAI-only store
+- [**Unicef**](https://lp.unicef.fr/donate-dai/): Donate your Dai
+- [**Wirex**](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI 
 
 ## Merchant Solutions
 - [**8x Protocol**](https://8xprotocol.com/)
