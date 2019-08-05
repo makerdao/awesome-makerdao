@@ -585,6 +585,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**COSS.IO**](https://coss.io/): Based in Singapore
 
 # Spend Your Dai
+- [**Spendai**](https://spendai.com/): A DAI-only store
 - [**NeedsList**](https://needslist.co/donate): Purchase items that are critically needed & help with disaster preparedness
 - [**SendCrypto**](https://sendcryptobot.io/): Tip with Dai on Twitter, Slack, Reddit, and Telegram
 - [**Bidali**](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
