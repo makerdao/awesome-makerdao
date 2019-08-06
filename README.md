@@ -459,6 +459,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**Liquid Long**](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
 - [**PoolTogether**](https://www.pooltogether.us/): Lossless Lottery using Dai
 - [**Whisp.Money**](https://whisp.money): Dai payroll solution
+- [**AdEx Network**](https://www.adex.network): A protocol and platform for decentralized advertising on blockchain, using DAI as payment method for advertisers on the platform. 
 
 ## 3rd Party CDP Portals
 
