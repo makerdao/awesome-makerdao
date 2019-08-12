@@ -183,7 +183,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Governance
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
 - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
-- [**Governance & Risk Meetings: Transcripts**](https://github.com/makerdao/community/tree/master/governance/transcripts): Github repo
+- [**Governance & Risk Meetings: Transcripts**](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts)
 - [**Governance Forum**](https://forum.makerdao.com)
 - [**Governance at a Glance**](https://forum.makerdao.com/t/governance-at-a-glance/84)
 - [**Governance & Risk Meetings: Written recaps (old)**](https://github.com/scottrepreneur/maker-minutes): Github repo
