@@ -183,7 +183,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Governance
 - [**Governance & Risk Meetings: Audio**](https://soundcloud.com/makerdao/sets/governance-and-risk): Soundcloud Playlist
 - [**Governance & Risk Meetings: Video**](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan): Youtube Playlist
-- [**Governance & Risk Meetings: Transcripts**](https://github.com/makerdao/community/tree/master/governance/transcripts): Github repo
+- [**Governance & Risk Meetings: Transcripts**](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts)
 - [**Governance Forum**](https://forum.makerdao.com)
 - [**Governance at a Glance**](https://forum.makerdao.com/t/governance-at-a-glance/84)
 - [**Governance & Risk Meetings: Written recaps (old)**](https://github.com/scottrepreneur/maker-minutes): Github repo
@@ -257,7 +257,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 07/12/2019: [**Akropolis** + Dai: creating safeguards against inflation and economic crises through technology](https://medium.com/akropolis/akropolis-dai-creating-safeguards-against-inflation-and-economic-crises-through-technology-cb69b92c362c)
 - 07/08/2019: [**Celer Network** to Integrate Dai into CelerX Mobile App](https://medium.com/celer-network/celer-makerdao-10e7d2e9e860)
 - 07/03/2019: [MakerDAO on **KeepKey**: Discover DeFi](https://medium.com/shapeshift-stories/makerdao-on-keepkey-discover-defi-3d53986c1d14)
-- 06/26/2019: [**Coinsource** U.S. Bitcoin ATM Operator to Add Dai Stablecoin, Launch Remittance Service](https://www.nytimes.com/reuters/2019/06/26/technology/26reuters-crypto-currencies-coinsource.html?searchResultPosition=1)
+- 06/26/2019: [**Coinsource** U.S. Bitcoin ATM Operator to Add Dai Stablecoin, Launch Remittance Service](https://www.reuters.com/article/us-crypto-currencies-coinsource/us-bitcoin-atm-operator-to-add-dai-stablecoin-launch-remittance-service-idUSKCN1TR222)
 - 06/21/2019: [**Oxfam** Trials Delivery of Disaster Relief Using Ethereum Stablecoin DAI](https://www.coindesk.com/oxfam-trials-delivery-of-disaster-relief-using-ethereum-stablecoin-dai)
 - 05/23/2019: [**Experimental** partners with MakerDAO!](https://blog.e11.io/experimental-partners-with-makerdao-80670f59a60f)
 - 05/08/2019: [MakerDAO and **Airtm** Partner to Empower Financial Stability in South America](https://blog.makerdao.com/makerdao-and-airtm-partner-to-empower-financial-stability-in-south-america/)
