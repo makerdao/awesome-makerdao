@@ -560,6 +560,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [**SimpleSwap**](https://simpleswap.io/)
 - [**Swap.online**](https://swap.online/)
 - [**Uniswap**](https://uniswap.exchange/swap)
+- [**1inch.exchange**](https://1inch.exchange/)
 
 ## Noncustodial Exchanges
 - [**Eth2Dai**](https://eth2dai.com/exchange/WETH/DAI)
