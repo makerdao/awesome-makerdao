@@ -57,6 +57,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [CDP Portal](https://cdp.makerdao.com/)
 - [Old Dai Dashboard](https://dai.makerdao.com/)
 - [Governance Dashboard](https://vote.makerdao.com/)
+- [Governance Forum](https://forum.makerdao.com/)
 - [Platform Data](https://mkr.tools/)
 - [Eth2Dai](https://eth2dai.com)
 
@@ -452,7 +453,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 - [**CDP.Auction** (Kovan Only)](https://cdp.auction/): A secondary market for CDPs
 - [**CDP Liquidator**](http://cdp-liquidator.surge.sh/) | [**DevPost Page**](https://devpost.com/software/cdp-liquidator): Safely unwind your CDP to avoid liquidation
-- [**DeFi Saver**](https://cdpsaver.com/) | [**CDP Marketplace**](https://cdpsaver.com/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
+- [**DeFi Saver**](https://defisaver.com/) | [**CDP Marketplace**](https://defisaver.com/makerdao/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [**EasyCDP**](https://easycdp.com/): A contract to automate some CDP actions
 - [**Gilded Finance**](https://gilded.finance/): Invoicing in Dai
 - [**LNDR**](https://blockmason.io/lndr/): Expense sharing app by Blockmason
