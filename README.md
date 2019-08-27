@@ -388,6 +388,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - Meetup Presentation: [MakerDAO and Dai Stablecoin @ Ethereum Shanghai with **Chao Pan**](https://youtu.be/rFVVApu_hYY)
 - Meetup Presentation: [What is MakerDAO? with **Rune Christensen** @ NYC Ethereum](https://www.youtube.com/watch?v=yvfvVlxL-Lw)
 - Meetup Presentations: [Stablecoins with MakerDAO, Formal Verification Research @ Ethereum Madrid Feat. **Denis Erfurt** & Others](https://youtu.be/49S2_FJtJko)
+- Meetup Presentations: [Demand Generation for DAI and Synthetic Assets By **Niklas Kunkel**](https://www.youtube.com/watch?v=LcakWfUBa20)
 - Video Interview: [**Rune Christiansen**, Co-Founder & CEO of MakerDAO, Talks Future of Blockchain](https://www.youtube.com/watch?v=huSerGBTdYA)
 - Video Interview: [Nugget's News - MakerDAO interview with **Rune Christensen**](https://youtu.be/MTiINrPpXDw)
 - Video Interview: [MakerDAO Interview with **Matt Richards** - BQLQ](https://youtu.be/gIp10mX6cbs)
