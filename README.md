@@ -482,7 +482,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 # Watch your Dai
 
-- [**CDP Alert**](https://cdpalert.org/): Alerts on Dai Collateralized Debt Positions
 - [**CDP.FYI**](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
 - [**CDP Simulator**](https://cdp-simulator.surge.sh/): Speaks for itself
 - [**CDP Simulator: no metamask required**](https://cdpsimulator.netlify.com/): Speaks for itself
