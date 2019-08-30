@@ -29,7 +29,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Use Your Dai](#use-your-dai)
 - [Lend Your Dai](#lend-your-dai)
 - [Watch Your Dai](#watch-your-dai)
-- [Hold your Dai](#hold-your-dai)
+- [Hold Your Dai](#hold-your-dai)
 - [Trade Your Dai](#trade-your-dai)
 - [Spend Your Dai](#spend-your-dai)
 - [In Depth Analysis](#in-depth-analysis)
