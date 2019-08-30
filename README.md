@@ -28,7 +28,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [FAQs](#faqs)
 - [Use Your Dai](#use-your-dai)
 - [Lend Your Dai](#lend-your-dai)
-- [Watch your Dai](#watch-your-dai)
+- [Watch Your Dai](#watch-your-dai)
 - [Hold your Dai](#hold-your-dai)
 - [Trade Your Dai](#trade-your-dai)
 - [Spend Your Dai](#spend-your-dai)
@@ -153,7 +153,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [InstaDapp Borrow](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 - [Shadowlands: CDP Interface](https://github.com/kayagoban/shadowlands): Run local Dapps using Shadowlands
 
-## Lend your Dai
+## Lend Your Dai
 
 - [Compound.Finance](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [DyDx](https://dydx.exchange/): Decentralized Dai Lending
@@ -163,7 +163,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Ethichub](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [Nuo](https://www.nuo.network/): Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
 
-## Watch your Dai
+## Watch Your Dai
 
 - [CDP.FYI](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Speaks for itself
@@ -194,7 +194,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Tracker of 24hr VWAP of Dai](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 - [Santiment Maker Analytics](https://graphs.santiment.net/makerdao)
 
-## Hold your Dai
+## Hold Your Dai
 
 ### Hardware Wallets
 
