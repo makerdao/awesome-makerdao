@@ -389,6 +389,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Major Milestones | Events
 
+- 08/30/2019: [Stability Fee Decrease to 16.5%]()
+- 08/22/2019: [Stability Fee Decrease to 18.5%]()
 - 07/24/2019: [MCD Public Bug Bounty is announced](https://blog.makerdao.com/mcd-bug-bounty-announcement-and-security-roadmap-update/)
 - 07/13/2019: [Stability Fee Increase to 20.5%]()
 - 07/12/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.10](https://changelog.makerdao.com/releases/0.2.10/index.html)
@@ -396,7 +398,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 07/05/2019: [Stability Fee Increase to 17.5%]()
 - 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.9](https://changelog.makerdao.com/releases/0.2.9/index.html)
 - 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.8](https://changelog.makerdao.com/releases/0.2.8/index.html)
-- 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 05/31/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.7](https://changelog.makerdao.com/releases/0.2.7/index.html)
 - 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
