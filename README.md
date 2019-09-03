@@ -206,6 +206,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Vishesh's Graphs](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
 - [Tracker of 24hr VWAP of Dai](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 - [Santiment Maker Analytics](https://graphs.santiment.net/makerdao)
+- [DeFiprime.com](https://defiprime.com/defi-rates): DeFi stablecoins lending rates compared to traditional finance system 
 
 ## Hold Your Dai
 
