@@ -27,11 +27,11 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Tutorials](#tutorials)
 - [FAQs](#faqs)
 - [Use Your Dai](#use-your-dai)
+- [Spend Your Dai](#spend-your-dai)
 - [Lend Your Dai](#lend-your-dai)
 - [Watch Your Dai](#watch-your-dai)
 - [Hold Your Dai](#hold-your-dai)
 - [Trade Your Dai](#trade-your-dai)
-- [Spend Your Dai](#spend-your-dai)
 - [In Depth Analysis](#in-depth-analysis)
 - [Speculation](#speculation)
 - [Critiques](#critiques)
@@ -139,19 +139,32 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ### 3rd Party Apps, Integrations, and Tools
 
+- [Bounty0x](https://bounty0x.io/): Fund or complete bounties with/for Dai, ETH, and other tokens
+- [Bounties Network](https://bounties.network/): Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
 - [DeFi Saver](https://defisaver.com/) | [CDP Marketplace](https://defisaver.com/makerdao/marketplace): Web app that helps users protect their CDPs from liquidation + CDP Marketplace
 - [Gilded Finance](https://gilded.finance/): Invoicing in Dai
 - [LNDR](https://blockmason.io/lndr/): Expense sharing app by Blockmason
 - [Liquid Long](https://liquid-long.keydonix.com/): Open a leveraged ETH position in a single transaction, _choose your leverage_
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery using Dai
+- [Pool Dai](https://zeframlou.github.io/pool-dai/): No-loss donation protocol enabling people to pool money together, lend it out, and donate the interest to a cause
 - [Whisp.Money](https://whisp.money): Dai payroll solution
-- [AdEx Network](https://www.adex.network): A protocol and platform for decentralized advertising on blockchain, using DAI as payment method for advertisers on the platform.
 
 ### 3rd Party CDP Portals
 
 - [CDP Station on Settle](https://settle.finance/os): Alternative CDP UI inside of the settle.finance app
 - [InstaDapp Borrow](https://instadapp.io/dapp/borrow/): Alternative CDP UI inside of InstaDapp
 - [Shadowlands: CDP Interface](https://github.com/kayagoban/shadowlands): Run local Dapps using Shadowlands
+
+## Spend Your Dai
+
+- [AdEx Network](https://www.adex.network): A protocol and platform for decentralized advertising on blockchain, using DAI as payment method for advertisers on the platform.
+- [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
+- [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
+- [Coinevents.io](https://coinevents.io): Event tickets, sell your event's tickets for crypto (including DAI)
+- [NeedsList](https://needslist.co/donate): Purchase items that are critically needed and help with disaster preparedness
+- [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
+- [Unicef](https://lp.unicef.fr/donate-dai/): Donate your Dai
+- [Wirex](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI
 
 ## Lend Your Dai
 
@@ -281,15 +294,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Panda](https://panda.exchange/en-IC/): Based in Latin America
 - [Probit](https://www.probit.com/en-us): Based in Republic of Seychelles
 - [COSS.IO](https://coss.io/): Based in Singapore
-
-## Spend Your Dai
-
-- [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
-- [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
-- [NeedsList](https://needslist.co/donate): Purchase items that are critically needed and help with disaster preparedness
-- [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
-- [Unicef](https://lp.unicef.fr/donate-dai/): Donate your Dai
-- [Wirex](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI
 
 ### Merchant Solutions
 
