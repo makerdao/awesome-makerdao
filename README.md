@@ -395,6 +395,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Major Milestones | Events
 
+- 09/07/2019: [Stability Fee Decrease to 14.5%]()
 - 08/30/2019: [Stability Fee Decrease to 16.5%]()
 - 08/22/2019: [Stability Fee Decrease to 18.5%]()
 - 07/24/2019: [MCD Public Bug Bounty is announced](https://blog.makerdao.com/mcd-bug-bounty-announcement-and-security-roadmap-update/)
