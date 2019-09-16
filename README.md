@@ -323,6 +323,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720): Medium post by Deepit AG
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/): Post by santiment(.net)
 - [The Role of Ether in Multi-Collateral DAI](https://medium.com/@TrustlessState/the-role-of-ether-in-multi-collateral-dai-cfc8b43ab50c): Medium post by David Hoffman
+- [MakerDAO Token Economics: An Independent Research Report](https://www.economicsdesign.com/portfolio/makerdao/): Research report by Lisa JY Tan
 
 ### Heavier
 
@@ -395,6 +396,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Major Milestones | Events
 
+- 09/14/2019: [Stability Fee Decrease to 12.5%]() 
 - 09/07/2019: [Stability Fee Decrease to 14.5%]()
 - 08/30/2019: [Stability Fee Decrease to 16.5%]()
 - 08/22/2019: [Stability Fee Decrease to 18.5%]()
