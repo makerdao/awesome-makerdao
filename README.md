@@ -731,6 +731,7 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
   - [How to setup DAI for local development](https://medium.com/@matthewblack/how-to-setup-dai-for-local-development-37bfba5212fc)
   - [Deep dive into MakerDAO Governance: A look at the code for governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
   - [VoteProxy Setup Guide](https://github.com/makerdao/developerguides/blob/master/governance/vote-proxy-setup-airgapped-machine/vote-proxy-setup-airgapped-machine.md)
+  - [Intro to Oasis Maker OTC Guide](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
 - [_Dai.js_](https://makerdao.com/documentation/)
   - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa)
   - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df)
