@@ -568,6 +568,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - Bloomberg Panel: [Stable Coins: a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [Andy Milenius of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
+- Conference Presentation: [OasisDEX - past, present future and it's role in the DeFi ecosystem](https://youtu.be/mwkL7beq0m8)
 - Conference Presentation: [Ashleigh Schap ~ Biz Dev & Crypto: Breaking Out of the Bubble MakerDAO @EthDenver](https://www.youtube.com/watch?v=gdfIVD7pgdI&feature=youtu.be)
 - Conference Presentation: [Mariano Conti ~ CDPs and MCD: A Look Back with Maker @EthDenver](https://www.youtube.com/watch?v=R5vA7u9WFfU)
 - Conference Presentation: [Andy Milenius Talk about Dai at Devcon 4](https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform)
