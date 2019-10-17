@@ -397,6 +397,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Major Milestones | Events
 
+- 10/17/2019: [Stability Fee Decrease to 9.5%](https://etherscan.io/tx/0x8067f5229c282e74e98305c4506635d5882a4af18df82e9a0fe4c1f67ff7fe32) 
+- 09/29/2019: [Stability Fee Decrease to 10.5%]() 
 - 09/14/2019: [Stability Fee Decrease to 12.5%]() 
 - 09/07/2019: [Stability Fee Decrease to 14.5%]()
 - 08/30/2019: [Stability Fee Decrease to 16.5%]()
