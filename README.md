@@ -378,7 +378,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Lessons from MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a): Medium post by Nick Tomaino
 - [Deep dive into MakerDAO Governance: A look at the code for governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203): Medium post by banteg
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf): Medium post by MakerDAO
-- [Foundation Proposal v2](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDAO
+- [Foundation Proposal v2](https://blog.makerdao.com/foundation-proposal-v2/) | [v1](https://medium.com/makerdao/foundation-proposal-caeb382465c1): Medium post by MakerDAO
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
@@ -408,8 +408,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 07/12/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.10](https://changelog.makerdao.com/releases/0.2.10/index.html)
 - 07/09/2019: [Stability Fee Increase to 18.5%]()
 - 07/05/2019: [Stability Fee Increase to 17.5%]()
-- 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.9](https://changelog.makerdao.com/releases/0.2.9/index.html)
-- 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.8](https://changelog.makerdao.com/releases/0.2.8/index.html)
+- 06/28/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.9](https://changelog.makerdao.com/releases/0.2.9/index.html)
+- 06/14/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.8](https://changelog.makerdao.com/releases/kovan/0.2.8/index.html)
 - 06/05/2019: [Stability Fee Decrease to 16.5%](https://etherscan.io/tx/0xf0b6a4187fde63b239a85764cdfe5e1246c8e6f3ec2e2f09965003ea16544f02)
 - 05/31/2019: [Update: The Road to Multi-Collateral Dai—Kovan Release v0.2.7](https://changelog.makerdao.com/releases/0.2.7/index.html)
 - 05/28/2019: [Stability Fee Decrease to 17.5%](https://etherscan.io/tx/0x694006c530c902d441e38a17f29b41a1a66f2a136e931778c71109d884e35db7)
@@ -435,7 +435,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 11/13/2018: [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 - 10/30/2018: [Introducing the new CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
 - 10/24/2018: [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
-- 09/15/2018: [Foundation Proposal Approved](https://medium.com/makerdao/foundation-proposal-approved-54d0d4ac4122)
+- 09/15/2018: [Foundation Proposal Approved](https://blog.makerdao.com/making-maker-may-18/)
 - 09/11/2018: [Introducing the Governance Voting UI v1](https://medium.com/makerdao/introducing-the-governance-voting-ui-for-the-maker-foundational-vote-3fa669551ce1)
 - 09/17/2018: [Multi-collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
 - 07/26/2018: [Increasing the Dai Stability Fee to 2.5%](https://medium.com/makerdao/increasing-the-dai-stability-fee-3b16092b01ca) | [FAQs](https://www.reddit.com/r/MakerDAO/comments/93adqj/faq_stability_fee_raise/)
