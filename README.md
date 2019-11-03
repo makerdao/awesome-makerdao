@@ -525,6 +525,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## AMAs | Interviews
 
+- 10/09/2019: [CoinDesk at DevCon 5: MakerDAO’s Multi-Collateral DAI Token](https://www.youtube.com/watch?v=kAshxmsC4F4)
 - 07/08/2019: [BBOD: Introducing DAI Stablecoin. An Interview with Founder & CEO of MakerDAO, Rune Christensen](https://www.youtube.com/watch?v=BhQg7fnAplQ)
 - 02/18/2019: [Towards a second-generation tokenization, Interview with Rune Chistensen](https://thetokenizer.io/2019/02/18/towards-a-second-generation-tokenization/)
 - 01/10/2019: [A Conversation with MakerDAO’s “Head of Oracles” - Mariano Conti](https://medium.com/witnet/a-conversation-with-makerdaos-head-of-oracles-mariano-conti-9e5ea454a9b9)
@@ -579,6 +580,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - Bloomberg Panel: [Stable Coins: a Volatility Cure-All?](https://www.youtube.com/watch?v=RnmWcgKbiQ8)
 - Animated Short: [Stability Mechanics of the Dai Stablecoin System](https://vimeo.com/247715549)
 - Short Interview: [Andy Milenius of MakerDAO Talks To ChronoLogic about Scheduling Transactions](https://www.youtube.com/watch?v=RhWD8GbePV0)
+- Conference Presentation: [Rune Christensen: What's Next for DeFi?](https://slideslive.com/38920014/whats-next-for-defi)
 - Conference Presentation: [OasisDEX - past, present future and it's role in the DeFi ecosystem](https://youtu.be/mwkL7beq0m8)
 - Conference Presentation: [Ashleigh Schap ~ Biz Dev & Crypto: Breaking Out of the Bubble MakerDAO @EthDenver](https://www.youtube.com/watch?v=gdfIVD7pgdI&feature=youtu.be)
 - Conference Presentation: [Mariano Conti ~ CDPs and MCD: A Look Back with Maker @EthDenver](https://www.youtube.com/watch?v=R5vA7u9WFfU)
