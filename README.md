@@ -788,6 +788,7 @@ _While MCD is on a TestNet, contract addresses are subject to change. Visit [cha
 - [Auctions and Keepers in Multi-Collateral Dai Explained](https://github.com/makerdao/developerguides/blob/master/keepers/auctions/auctions-101.md)
 - [How to use mcd-cli to interact with Kovan deployment of MCD](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
 - [Introduction on how to use Maker’s custom test chain](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
+- [Intro to the Rate mechanism](https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.md)
 - [WIP: Multi Collateral Dai Developer Guide](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
 - [Upgrading to Multi-Collateral Dai](https://github.com/makerdao/developerguides/tree/master/mcd)
 
