@@ -544,6 +544,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Podcasts
 
+- 11/07/2019: [BaseLayer: Mariano Conti on Dai and Living in Argentina](https://t.co/VnNOQ8CqRt?amp=1)
 - 07/30/2019: [Epicenter: Maker DAO – The Central Bank of Web 3.0 w/ Rune Christensen](https://epicenter.tv/episode/298/)
 - 06/18/2019: [POV Crypto Ep. 58-The Frontier of Dai, With Mariano Conti](https://medium.com/@TrustlessState/58-the-frontier-of-dai-with-mariano-conti-8e532cdc48a4)
 - 05/31/2019: [Hashing It Out #47: MakerDAO – Nik Kunkel](https://thebitcoinpodcast.com/hashing-it-out-47/)
