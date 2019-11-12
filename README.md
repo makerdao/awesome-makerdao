@@ -179,6 +179,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Watch Your Dai
 
 - [CDP.FYI](https://cdp.fyi/): Push notifications for when your CDPs reach dangerous levels
+- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Speaks for itself
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Speaks for itself
 - [CDP Simulator: no metamask required](https://cdpsimulator.netlify.com/): Speaks for itself
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
