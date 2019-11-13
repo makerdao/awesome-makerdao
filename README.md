@@ -57,7 +57,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Whitepaper](https://makerdao.com/whitepaper/)
 - [CDP Portal](https://cdp.makerdao.com/)
 - [Governance Dashboard](https://vote.makerdao.com/)
-- [Eth2Dai](https://eth2dai.com)
+- [Oasis](https://oasis.app/)
 
 ## Official Channels
 
@@ -65,6 +65,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Forum](https://forum.makerdao.com/)
 - [Reddit](https://www.reddit.com/r/MakerDAO)
 - [Medium](https://medium.com/@MakerDAO)
+- [Blog](https://blog.makerdao.com/)
 - [RocketChat](https://chat.makerdao.com/)
 - [Telegram](https://t.me/makerdaoofficial)
 - [WeChat: makershequ](https://web.wechat.com/)
@@ -157,24 +158,26 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 ## Spend Your Dai
 
-- [AdEx Network](https://www.adex.network): A protocol and platform for decentralized advertising on blockchain, using DAI as payment method for advertisers on the platform.
+- [AdEx Network](https://www.adex.network): A protocol and platform for decentralized advertising on blockchain, using Dai as payment method for advertisers on the platform.
 - [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
-- [Coinevents.io](https://coinevents.io): Event tickets, sell your event's tickets for crypto (including DAI)
+- [Coinevents.io](https://coinevents.io): Event tickets, sell your event's tickets for crypto (including Dai)
 - [NeedsList](https://needslist.co/donate): Purchase items that are critically needed and help with disaster preparedness
 - [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
 - [Unicef](https://lp.unicef.fr/donate-dai/): Donate your Dai
-- [Wirex](https://wirexapp.com/card/): Visa debit card that can be top-up with DAI
+- [Wirex](https://wirexapp.com/card/): Visa debit card that can be top-up with Dai
 
 ## Lend Your Dai
 
 - [Compound.Finance](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
+- [Dharma](https://www.dharma.io/): Pretty Compound UI
 - [DyDx](https://dydx.exchange/): Decentralized Dai Lending
-- [Dharma](https://www.dharma.io/): Earn interest
 - [Nexo](https://nexo.io/): Centralized
 - [Celcius](https://celsius.network/): Centralized
 - [Ethichub](https://ethichub.com/): Provide p2p Loans to Communities Around the Globe
 - [Nuo](https://www.nuo.network/): Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
+- [ETHLend](https://ethlend.io/): Loan marketplace
+- [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending
 
 ## Watch Your Dai
 
@@ -188,23 +191,21 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
 - [TokenAnalyst: Stablecoins](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparison
 - [TRMLabs Insights](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparison
-- [Supermax](https://playground.supermax.cool/makerdao): MakerDAO Stats
 - [StableCoin Index](https://stablecoinindex.com/): Stats of various stablecoins
-- [Stability Fee Change Notifications](https://makerstabilityfee.com/): Email list to be notified of Stability Fee changes
 - [Loanscan](https://loanscan.io/): Financial information and analytics for debt issued on the Ethereum blockchain
 - [DaiStats](https://daistats.com/): Simple Dai Statistics by Mariano Conti
 - [DefiPulse](https://defipulse.com/): Get a sense for the Defi space in general
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics through an API aggregator
 - [EthView](https://ethview.app): Dashboard to view your CDPs and other DeFi stats without connecting to a wallet
-- [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker DAI
+- [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
 - [Daiprice](https://www.daiprice.info/): Dashboard to view Dai USD price and other metrics
 - [DaiPeg](https://daipeg.com/): Interactive Dashboard to view Dai USD price, calculated accross several exchanges
 - [dai.stablecoin.science](https://dai.stablecoin.science/): Dashboard to view Dai USD price
-- [Dai for sale on Coinbase below \$1](https://dai.defi.ai/): Visual & Numerical representation of the orderbook below \$1
+- [Dai for sale on Coinbase/Radar below \$1](https://defi.ai/dai): Visual & Numerical representation of the orderbook below \$1
 - [MakerDAO Stability Fee](https://makerstabilityfee.com/): Dashboard to view current stability fee and a sign up to be notified when changed
 - [DAppTotal](https://dapptotal.com/defi): Defi Rankings
-- [Defitracker](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, Dydx, Uniswap Pools and more.
-- [Vishesh's Graphs](http://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
+- [Defitracker](https://defitracker.io/): Dashboard to track view Dai across DeFi protocols, including Compound, DyDx, Uniswap Pools and more.
+- [Vishesh's Graphs](https://makerdao.descipher.io/): Data representations hosted by Vishesh Choudhry
 - [Tracker of 24hr VWAP of Dai](http://dai.descipher.io/): Dai Price Tracker by Vishesh Choudhry
 - [Santiment Maker Analytics](https://graphs.santiment.net/makerdao)
 - [DeFiprime.com](https://defiprime.com/defi-rates): DeFi stablecoins lending rates compared to traditional finance system 
@@ -215,7 +216,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 - [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s)
 - [Trezor](https://trezor.io/)
-- [KeepKey](https://keepkey.com) | [MakerDAO on KeepKey: Discover DeFi](https://medium.com/shapeshift-stories/makerdao-on-keepkey-discover-defi-3d53986c1d14)
+- [KeepKey](https://shapeshift.io/keepkey/) | [MakerDAO on KeepKey: Discover DeFi](https://medium.com/shapeshift-stories/makerdao-on-keepkey-discover-defi-3d53986c1d14)
 
 ### Mobile Wallets
 
@@ -223,7 +224,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Edge](https://edge.app/)
 - [BRD](https://brd.com/)
 - [Freewallet](https://freewallet.org/eth-wallet)
-- [Ethex](https://ethex.market/)
 - [Ethos Universal Wallet](https://www.ethos.io/universal-wallet/)
 - [Celcius](https://celsius.network/)
 
@@ -231,14 +231,16 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Trust Wallet](https://trustwallet.com/)
-- [Status.im](https://status.im/)
 - [imToken](https://token.im/)
 - [AlphaWallet](https://alphawallet.com/)
+- [Lumi](https://lumiwallet.com/)
 
 ### Hybrid Wallets: Mobile + Desktop
 
 - [Atomic Wallet](https://atomicwallet.io/)
-- [Zelcore](https://zelcore.io/)
+- [Zelcore](https://zel.network/project/zelcore/)
+- [Status.im](https://status.im/)
+- [Exodus](https://www.exodus.io/)
 
 ### Web Wallets
 
@@ -265,32 +267,33 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Airswap](https://instant.airswap.io/)
 - [0xInstant](https://0x.org/instant)
 - [DEX.AG](https://dex.ag/)
-- [KyberSwap](https://kyberswap.com/)
+- [KyberSwap](https://kyberswap.com/swap)
 - [SimpleSwap](https://simpleswap.io/)
 - [Swap.online](https://swap.online/)
 - [Uniswap](https://uniswap.exchange/swap)
 - [1inch.exchange](https://1inch.exchange/)
+- [Bancor](https://www.bancor.network/)
 
 ### Noncustodial Exchanges
 
-- [Eth2Dai](https://eth2dai.com/exchange/WETH/DAI)
+- [Oasis](https://oasis.app/trade/market/WETH/DAI)
 - [Radar Relay](https://app.radarrelay.com/WETH/DAI)
 - [Totle](https://app.totle.com)
-- [DDex](https://ddex.io/trade/WETH-DAI)
-- [CoinChangeX](https://www.coinchangex.com/#!/trade/DAI-ETH)
+- [DDex](https://ddex.io/spot/ETH-DAI)
+- [CoinChangeX](https://www.coinchangex.com/token/#!/trade/DAI-ETH)
 - [ForkDelta](https://forkdelta.app/#!/trade/DAI-ETH)
 - [Paradex](https://paradex.io/market/weth-dai)
-- [coinected](https://coinected.io)
 - [Changelly](https://changelly.com/)
 - [ShapeShift](https://shapeshift.com/)
+- [DeversiFi](https://trustless.ethfinex.com/DAIETH)
 
 ### Custodial Exchanges
 
-- [KuCoin](https://www.kucoin.com/#/): Based in Hong Kong
+- [KuCoin](https://trade.kucoin.com/spot): Based in Hong Kong
 - [Gate.io](https://www.gate.io/trade/DAI_USDT): Based in USA
 - [HitBTC](https://hitbtc.com/ETH-to-DAI): Based in EU
-- [Bibox](https://bibox.com/exchange?coinPair=ETH_DAI): Based in China
-- [Ethfinex](https://www.ethfinex.com/) | [Bitfinex](https://www.bitfinex.com): Based in Hong Kong
+- [Bibox](https://www.bibox.com/exchange?coinPair=ETH_DAI): Based in China
+- [Bitfinex](https://www.bitfinex.com): Based in Hong Kong
 - [Yobit](https://yobit.net/en/trade/DAI/USD): Based in Russia
 - [Coinbase](https://pro.coinbase.com/trade/DAI-USDC): Based in USA
 - [Exmo](https://exmo.com/en/trade#?pair=DAI_ETH): Based in England
@@ -301,7 +304,6 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ### Merchant Solutions
 
 - [Ink Protocol](https://paywithink.com/)
-- [Savvy/PayBear](https://www.savvy.io/)
 
 ### Open-Source payment processors
 
@@ -312,8 +314,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Wyre](https://sendwyre.com): Withdraw your crypto to Fiat US/Australia/EU(soon™)/UK(soon™)
   - [Wyre's US Licenses List](https://www.sendwyre.com/licenses/)
 - [Elastum](https://elastum.io/): Convert crypto to Euros
-  - [Supported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
-- [Ripio](https://www.ripio.com/en/): Argentina, Brazil and, very soon™, Mexico
+  - [Unsupported Countries List](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
+- [Ripio](https://www.ripio.com/en/): Argentina, Brazil and Mexico
 - [Buenbit](https://www.buenbit.com/): Argentina and Peru
 - [Orionx](https://www.orionx.com): Mexico and Chile
 
@@ -383,7 +385,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6): Medium Post by MakerDAO
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50): Medium Post by David Utrobin
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/): Article by Fitzner Blockchain Consulting
-- [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/): Aricle by Matteo Leibowitz
+- [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/genesis/19324/introducing-dipor-libor-for-open-finance): Article by Matteo Leibowitz
 - [Introducing A New Governance On-boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/): Medium Post by MakerDAO
 
 ## Voting
@@ -566,7 +568,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 10/17/2018: [51percent: Ep 5: MakerDAO Founder and CEO Rune Christensen](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
 - 09/28/2018: [Unconfirmed: Rune Christensen of MakerDao on Its \$15 Million From Andreessen Horowitz - Ep.039](https://soundcloud.com/unconfirmedpodcast/rune-christensen-of-makerdao)
 - 09/22/2018: [101 Series: Stablecoins](https://www.cryptobasicpodcast.com/home/stablecoins)
-- 02/27/2018: [BlockZero #6 - Rune Christensen](http://www.blockzero.show/f455ccb1)
+- 02/27/2018: [BlockZero #6 - Rune Christensen](https://blockzero.simplecast.com/episodes/006-makerdao-the-dai-stable-coin-founder-08860ac9)
 - 02/09/2018: [The Cryptoverse - If Tether Crypto Is A Scam, The DAI Token Is An Alternative with Rune Christensen](https://player.fm/series/2285829/204315556)
 - 02/27/2018: [Unchained Podcast - Why It's so Hard to Keep Stablecoins Stable with Rune Christensen](https://soundcloud.com/unchainedpodcast/why-its-so-hard-to-keep)
 - 07/15/2017: [This Week in Crypto - MakerDAO project CEO Rune Christensen](https://soundcloud.com/ccnpodcast/3-this-week-in-crypto-coinbase)
@@ -636,7 +638,7 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 - 09/23/2018: [Twelve reasons I’m bullish about Ethereum today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2): Post by Lane Rettig
 - 09/17/2018: [Ethereum Projects Start Using DAI as a Bank](https://www.trustnodes.com/2018/09/17/ethereum-projects-start-using-dai-as-a-bank): Article by Trustnodes(.com)
 - 09/10/2018: [MakerDAO - Shitcoin Review](http://doiownashitcoin.com/blog/post/MakerDAO-Shitcoin-Review/): Post by Mike and Aaron
-- 08/25/2018: [DAI (MakerDAO) is Ethereum’s Crown Jewel](http://funnyking.io/?p=1630&lang=en): Post by Paolo Rebuffo
+- 08/25/2018: [DAI (MakerDAO) is Ethereum’s Crown Jewel](https://funnyking.io/archives/1630?lang=en): Post by Paolo Rebuffo
 - 08/15/2018: [Amid Chaos, DAI Stays Stable](https://www.trustnodes.com/2018/08/15/amid-chaos-dai-stays-stable): Article by Trustnodes(.com)
 - 08/07/2018: [Mapping The Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335): Post by Max Bronstein
 - 07/18/2018: [Vitalik Buterin on Cryptoeconomics and Markets in Everything by Conversations with Tyler](https://soundcloud.com/conversationswithtyler/vitalik-buterin-tyler-cowen-cryptoeconomics): Podcast by Tyler Cowen
@@ -652,6 +654,8 @@ Below is a collection of resources for anyone interested in exploring MakerDAO w
 ## Multi Collateral Dai
 
 - [Trail of Bits (October 2018)](https://github.com/makerdao/audits/blob/master/mcd/trail-of-bits.pdf)
+- [Trail of Bits (August 2019)](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/TOB_MakerDAO_Final_Report.pdf)
+- [PeckShield (October 2019)](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf)
 
 ## Single Collateral Dai
 
@@ -734,7 +738,6 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
 - [Dai Documentation](https://developer.makerdao.com/dai/1/)
 - [Dai Developer Documentation](https://github.com/makerdao/sai/blob/master/DEVELOPING.md)
 - [Dai Main Repo: All Contracts](https://github.com/makerdao/sai)
-- [SCD Variables Glossary](https://github.com/makerdao/sai/blob/master/DEVELOPING.md)
 - [Purple Paper: Reference Implementation (_Outdated_)](https://makerdao.com/purple/)
 
 ### Guides & Tutorials
@@ -750,7 +753,6 @@ These are resources that overlap between Single-Collateral Dai and Multi-Collate
   - [Intro to Oasis Maker OTC Guide](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
 - [_Dai.js_](https://makerdao.com/documentation/)
   - [Get Started with MakerDAO CDPs and Dai.js](https://medium.com/@rossbulat/get-started-with-makerdao-cdps-and-dai-js-447c8f5eb1fa)
-  - [An Intro To DaiJS: Build applications on top of MakerDao](https://medium.com/quiknode/an-intro-to-daijs-b44f0080c5df)
 
 ### Data and APIs
 
@@ -780,7 +782,6 @@ _While MCD is on a TestNet, contract addresses are subject to change. Visit [cha
 
 - [MCD Core CDP Engine Architecture](https://github.com/makerdao/dss/wiki)
 - [MCD System Variables](https://www.notion.so/MCD-System-c4df43ded9aa47f7b3770cb7ea6a79e7)
-- [Executable K specification of the smart contracts of Multi-Collateral Dai](http://stablecoin.technology/)
 - [k-dss formal specification and verification of Multi-Collateral Dai](https://github.com/dapphub/k-dss)
 
 ### Guides and Tutorials
@@ -788,7 +789,6 @@ _While MCD is on a TestNet, contract addresses are subject to change. Visit [cha
 - [MCD 101](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
 - [Auction Keeper Bot Setup Guide](https://github.com/makerdao/developerguides/blob/master/keepers/auction-keeper-bot-setup-guide.md)
 - [Auctions and Keepers in Multi-Collateral Dai Explained](https://github.com/makerdao/developerguides/blob/master/keepers/auctions/auctions-101.md)
-- [How to use mcd-cli to interact with Kovan deployment of MCD](https://github.com/makerdao/developerguides/blob/master/devtools/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
 - [Introduction on how to use Maker’s custom test chain](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
 - [Intro to the Rate mechanism](https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.md)
 - [WIP: Multi Collateral Dai Developer Guide](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
@@ -824,7 +824,6 @@ _While MCD is on a TestNet, contract addresses are subject to change. Visit [cha
 - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
 - [Paxos Dollar](https://www.paxos.com/pax/): USD Backed
 - [Tether](https://tether.to/): USD Backed
-- [Havven/Synthetix](https://www.synthetix.io/): Collateral backed
 - [Basis](https://www.basis.io/): Seigniorage shares ([Defunct](https://medium.com/basis-blog/basis-update-ae96e3565b1d))
 - [Carbon](https://www.carbon.money/): Algorithmic
 - [Stableunit](https://stableunit.org/): Hybrid
