@@ -18,6 +18,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ## Table of Contents
 
+<!-- TOC -->
+
 ### Official
 
 - [Properties](#properties)
