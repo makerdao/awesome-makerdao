@@ -405,8 +405,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### Dai and MKR Markets
 
-- [CMC: DAI Markets](https://coinmarketcap.com/currencies/dai/#markets)
-- [CMC: MKR Markets](https://coinmarketcap.com/currencies/maker/#markets)
+- [Messari: DAI Markets](https://messari.io/asset/Dai/exchanges)
+- [Messari: MKR Markets](https://messari.io/asset/maker/exchanges)
 
 #### Token Swaps
 
