@@ -124,9 +124,9 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Onboarding Guides
 
-- [Dai Onboarding Guide](link)
-- [CDP Onboarding Guide](link)
-- [Voter Onboarding Guide](link)
+- CDP Onboarding Guide: _coming soon_
+- Dai Onboarding Guide: _coming soon_
+- Voter Onboarding Guide: _coming soon_
 
 ### Beginner Guides
 
