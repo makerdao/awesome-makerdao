@@ -499,8 +499,6 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by David Utrobin (April 2018)*
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
 *Article by Fitzner Blockchain Consulting (February 2019)*
-- [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/genesis/19324/introducing-dipor-libor-for-open-finance)
-*Article by Matteo Leibowitz (April 2019)*
 - [Introducing A New Governance On-Boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/)
 *Medium Post by MakerDAO (May 2019)*
 
@@ -847,6 +845,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [It’s 2019. Where the f\*ck is Our Global Peer-to-Peer Electronic Cash System?](https://hackernoon.com/where-the-f-ck-is-our-peer-to-peer-electronic-cash-system-c8f43f5ad8b0)
 *Hackernoon Post by Tom Howard (April 2019)*
+- [Introducing DIPOR: LIBOR for Open Finance](https://www.theblockcrypto.com/genesis/19324/introducing-dipor-libor-for-open-finance)
+*Article by Matteo Leibowitz (April 2019)*
 - [The 100+ Projects Pioneering Decentralized Finance](https://media.consensys.net/the-100-projects-pioneering-decentralized-finance-717478ddcdf2)
 *Medium Post by Consensys (March 2019)*
 - [Formal Verification, Virtual Hardware, and Engineering for Blockchains](https://medium.com/balance-io/formal-verification-virtual-hardware-and-engineering-for-blockchains-51d07abdc934)
