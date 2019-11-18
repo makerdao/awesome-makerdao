@@ -198,14 +198,14 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs) All
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/glossary) Glossary of Terms
-- MCD | [SCD:](https://github.com/makerdao/community/blob/master/faqs/dai.md) Dai
+- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/dai) Dai
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) | SCD: Dai Savings Rate
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/emergency-shutdown) Emergency Shutdown
-- MCD | [SCD:](https://github.com/makerdao/community/blob/master/faqs/governance.md) Governance
+- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance) Governance
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/liquidation) Liquidation
-- MCD | [SCD:](https://github.com/makerdao/community/blob/master/faqs/makerdao.md#makerdao) MakerDAO
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/oracles) | [SCD:](https://github.com/makerdao/community/blob/master/faqs/oracles.md#oracles) Oracles
-- MCD | [SCD:](https://github.com/makerdao/community/blob/master/faqs/risk-management.md) Risk Management
+- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao) MakerDAO
+- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/oracles) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/oracles) Oracles
+- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/risk-management) Risk Management
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/stability-fee) Stability Fees
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/cdp) Vaults
 - [Special FAQ: Where does the name "Dai" come from?](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)
