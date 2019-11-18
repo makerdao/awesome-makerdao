@@ -48,7 +48,6 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [Governance](#governance)
 - [Voting](#voting)
-- [Analytics](#governance-analytics)
 - [In-Depth Analyses](#in-depth-analyses)
 - [Speculation](#speculation)
 - [Criticism](#criticism)
@@ -69,15 +68,15 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Audits and Security
 
-- [Audits and Security](#audits-and-security)
+- [Audits and Security](#audits-and-security-1)
 
 ### Developer Resources
 
-- [Developer Resources](#developer-resources)
+- [Developer Resources](#developer-resources-1)
 
 ### Assorted Translations
 
-- [Translated Resourses ](#latestl-translated-materials)
+- [Translated Resourses ](#translated-resources)
 
 <!-- /TOC -->
 
@@ -124,7 +123,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Onboarding Guides
 
-- CDP Onboarding Guide: _coming soon_
+- Vault Onboarding Guide: _coming soon_
 - Dai Onboarding Guide: _coming soon_
 - Voter Onboarding Guide: _coming soon_
 
