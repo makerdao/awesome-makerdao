@@ -276,6 +276,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Liquid Long](https://liquid-long.keydonix.com/): Leverage ETH
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
 - [Pool Dai](https://zeframlou.github.io/pool-dai/): Lossless Donation Protocol
+- [Request](https://app.request.network/): Request a Payment in Dai
 - [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
