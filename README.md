@@ -76,7 +76,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Assorted Translations
 
-- [Translated Resourses ](#translated-resources)
+- [Translated Resources ](#translated-resources)
 
 <!-- /TOC -->
 
