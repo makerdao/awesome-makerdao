@@ -1,4 +1,4 @@
-# Awesome MakerDAO (AB V1.1)
+# Awesome MakerDAO
 
 Awesome-MakerDAO (AMD) is a community-driven project, designed to be a resource people can use to familiarize themselves with Dai and MakerDAO. All are welcome to contribute.
 
