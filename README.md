@@ -208,9 +208,9 @@ Members are encouraged to participate in and contribute to the success of the Da
 
 ### Onboarding Guides
 
-- [Dai Onboarding Guide](link): _coming soon_
-- [Vault Onboarding Guide](link.also.update.Generate.Dai.section): _coming soon_
-- [Voter Onboarding Guide](link.also.update.Voting.section): _coming soon_
+- Dai Onboarding Guide: _coming soon_
+- Vault Onboarding Guide: _coming soon_
+- Voter Onboarding Guide: _coming soon_
 
 ### Beginner Guides
 
