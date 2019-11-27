@@ -88,7 +88,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [Multi-Collateral Dai](#multi-collateral-dai) 
 - [Sinlge-Collateral Dai](#single-collateral-dai)
-- [Dappsys](#daysyss)
+- [Dappsys](#dappsys)
 
 ### Developer
 
@@ -487,8 +487,8 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Generate Dai
 
-- [Vault Onboarding Guide](link): _coming soon_
-- [Oasis (Vault)](https://oasis.app/borrow): Lock Collateral in the Maker Vault to Generate Dai
+- Vault Onboarding Guide: _coming soon_
+- [Oasis Vault Portal](https://oasis.app/borrow): Lock Collateral in Maker Vaults to Generate Dai
 
 ### Earn Dai
 
