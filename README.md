@@ -106,46 +106,6 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ---
 
-## A Brief Introduction to MakerDAO
-
-**Overview**
-
-The Maker Foundation and the MakerDAO community believe that a decentralized stablecoin is required to unlock the next phase of the digital financial revolution. By building on the strengths of earlier stablecoin designs, MakerDAO has produced the ultimate decentralized stable currency: Dai.
-
-Maker unlocks the power of decentralized finance by creating an inclusive platform for economic empowerment, allowing everyone equal access to the global financial marketplace.
-
-**MakerDAO**
-
-Maker is a Decentralized Autonomous Organization (DAO) that manages the Dai Stablecoin System on the Ethereum blockchain. 
-
-The Maker Protocol employs a two-token system. DAI, a collateral-backed stablecoin, offers stability, while MKR, a governance token, is used by stakeholders to maintain the system and manage Dai.
-
-**The Vault Portal**
-
-The origin of all Dai in circulation is the Vault, a Maker smart contract. Users lock collateral in a Vault to generate Dai. Collateral assets held by Vaults, in turn, guarantee Dai's solvency.
-
-The Vault Portal features a user-friendly interface to simplify interactions with these smart contracts. The platform also offers decentralized margin trading, lower costs, and higher security than what is possible with traditional solutions.
-
-**Governance**
-
-Maker has no central leadership. It entrusts its governance and Dai's stability to MKR token holders, decision-makers in the DAO. They work with Maker's broader public community of keepers, stakeholders, and various other external parties to manage the system.
-
-MKR holders have a vested interest in Maker's prosperity. They benefit during times of stability but must foot the bill when things go awry. To succeed, they must demand active social cooperation and are expected to maintain a vigilant attitude towards governance.
-
-**The Maker Foundation**
-
-The first-ever public MKR vote established The Maker Foundation and a commitment to the core principles of the Maker Governance philosophy. The Maker Foundation Team firmly believes that a careful and gradual approach is the safest path towards a long-term equilibrium of decentralized governance. 
-
-**Open-Source**
-
-Maker is an open-source project built on GitHub. Anyone, anywhere, can take part in helping Maker build the backbone of the new economy. The community is always encouraged to participate.
-
-**Community**
-
-Maker's ever-expanding community is passionate and knowledgeable about MakerDAO. The governance body relies on valuable input from its community to guide decision making.
-
-Members are encouraged to participate in and contribute to the success of the Dai Stablecoin platform while spreading the word of MakerDAO.
-
 ## Official
 
 ### Properties
