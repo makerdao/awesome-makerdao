@@ -18,10 +18,6 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 <!-- TOC -->
 
-### MakerDAO
-
-- [Overview](#a-brief-introduction-to-makerdao)
-
 ### Official
 
 - [Properties](#properties)
