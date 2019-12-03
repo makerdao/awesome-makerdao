@@ -936,7 +936,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### Criticism
 
-#### 2019 | FUD
+#### 2019 | Criticism
 
 - [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152)
 *Academic Paper by Ariah Klages-Mundt and Andreea Minca (June 2019)*
@@ -949,7 +949,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Maker Dai: Stable, But Not Scalable: A Lesson in Stablecoin Arbitrage](https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6) | [Reddit Thread](https://www.reddit.com/r/MakerDAO/comments/adp7ur/maker_dai_stable_but_not_scalable_medium_article/)
 *Medium Post by Hasu (January 2019)*
 
-#### 2018 | FUD
+#### 2018 | Criticism
 
 - [Cryptoasset Collateral Concerns](https://blog.havven.io/cryptoasset-collateral-concerns-25e2c2d74f30?_branch_match_id=565372563598051656)
 *Medium Post by Kain Warwick (October 2018)*
