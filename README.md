@@ -477,6 +477,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Edge](https://edge.app/)
 - [Ethos Universal Wallet](https://www.ethos.io/universal-wallet/)
 - [Freewallet](https://freewallet.org/eth-wallet)
+- [WiniWallet](https://www.winiwallet.io)
 
 #### Mobile | Browser Wallets
 
