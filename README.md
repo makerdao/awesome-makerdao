@@ -798,6 +798,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 #### 2019 | Broadcasts
 
+- [The Blockchain VC podcast with Tomer Federman: Ep. 9: Rune Christensen, Co-Founder and CEO, MakerDAO](https://youtu.be/tC3GH9chmXY)
+*The Blockchain VC podcast (December 2019)*
 - [Base Layer Episode 081: Mariano Conti on Dai and Living in Argentina](https://acrabaselayer.podbean.com/e/base-layer-episode-081-mariano-conti-maker-foundation/)
 *Base Layer (November 2019)*
 - [Maker DAO: The Central Bank of Web 3.0 w/ Rune Christensen (Episode 298)](https://epicenter.tv/episode/298/)
