@@ -662,6 +662,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2019
 
+- [Dai supply surpasses Sai](https://twitter.com/LenklaH/status/1203974242813042689?s=20)
+*Lenka's Tweet (December 2019)*
 - [Single-Collateral Dai to Multi-Collateral Dai Upgrade Timeline and Actions](https://blog.makerdao.com/single-collateral-dai-to-multi-collateral-dai-upgrade-timeline-and-actions/)
 *MakerDAO Blog Post (November 2019)*
 - [What to Expect With the Launch of Multi-Collateral Dai](https://blog.makerdao.com/what-to-expect-with-the-launch-of-multi-collateral-dai/)
