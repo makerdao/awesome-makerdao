@@ -500,6 +500,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 - [Bounty0x](https://bounty0x.io/): Bounty Hunting Platform
 - [Bounties Network](https://bounties.network/): Platform to Create Projects, Collaborate, and Freelance
+- [Chai](https://chai.money/): ERC-20 wrapper for Dai in DSR
 - [Gilded Finance](https://gilded.finance/): Dai Invoicing
 - [Gitcoin](https://gitcoin.co/): Crowdfunding and Freelance Developers Platform
 - [LNDR](https://blockmason.io/lndr/): Expense Sharing App
@@ -626,6 +627,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [CDP.FYI](https://cdp.fyi/): Receive Push Notifications When CDPs Reach Dangerous Levels
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
+- [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
 - [EthView](https://ethview.app): View CDP and DeFi Statistics of an Ethereum Address
 - [Makerscan](https://makerscan.io/): MakerDAO System Explorer
 - [Stability Fee Notifications](https://makerstabilityfee.com/): Email List for Stability Fee Changes
@@ -636,6 +638,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
 - [Daiprice](https://www.daiprice.info/): Dai USD Price Tracker and Metrics
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
+- [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
 - [DaiStats](https://daistats.com/): Dai Statistics
 - [DeFi.ai](https://defi.ai/dai): Exposes profit opportunities to buy or sell Dai on Coinbase and Radar, when Dai is trading below or above its \$1 peg
