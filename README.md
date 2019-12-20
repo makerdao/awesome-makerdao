@@ -446,6 +446,12 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - Vault Onboarding Guide: _coming soon_
 - [Oasis Vault Portal](https://oasis.app/borrow): Lock Collateral in Maker Vaults to Generate Dai
 
+#### Third Party Vault Portals
+
+- [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
+- [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
+- [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
+
 ### Earn Dai
 
 - [Coinbase (Earn Dai)](https://www.coinbase.com/earn/dai/): Earn Dai by watching introductory lessons
@@ -510,12 +516,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Request](https://app.request.network/): Request a Payment in Dai
 - [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
-
-#### Third Party Vault Portals
-
-- [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
-- [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
-- [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
 
 #### Merchant Solutions | Payment Processors
 
