@@ -574,6 +574,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [SimpleSwap](https://simpleswap.io/)
 - [Swap.online](https://swap.online/)
 - [Uniswap](https://uniswap.exchange/swap)
+- [Tokenlon](https://tokenlon.im/instant)
 
 #### Non-Custodial Exchanges
 
