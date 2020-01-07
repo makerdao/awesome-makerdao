@@ -1206,10 +1206,14 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 
 #### Translated FAQs
 
-- [FAQs: Spanish](https://github.com/makerdao/community/tree/master/faqs/es)
-- [FAQs: French](https://github.com/makerdao/community/tree/master/faqs/fr)
-- [FAQs: Korean](https://github.com/makerdao/community/tree/master/faqs/ko)
-- [FAQs: Japanese](https://github.com/makerdao/community/tree/master/faqs/ja)
+- [SCD FAQs: Spanish](https://community-development.makerdao.com/makerdao-scd-faqs/es)
+- [SCD FAQs: French](https://community-development.makerdao.com/makerdao-scd-faqs/fr)
+- [SCD FAQs: Italian](https://community-development.makerdao.com/makerdao-scd-faqs/it)
+- [SCD FAQs: Japanese](https://community-development.makerdao.com/makerdao-scd-faqs/ja)
+- [SCD FAQs: Korean](https://community-development.makerdao.com/makerdao-scd-faqs/ko)
+- [SCD FAQs: Polish](https://community-development.makerdao.com/makerdao-scd-faqs/pl)
+- [SCD FAQs: Zhōngwén](https://community-development.makerdao.com/makerdao-scd-faqs/zh)
+
 
 #### Translated Videos
 
