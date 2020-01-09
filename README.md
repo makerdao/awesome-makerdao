@@ -166,7 +166,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - Dai Onboarding Guide: _coming soon_
 - Vault Onboarding Guide: _coming soon_
-- Voter Onboarding Guide: _coming soon_
+- [Voter Onboarding Guide](https://community-development.makerdao.com/onboarding/voter-onboarding)
 
 ### Beginner Guides
 
@@ -451,6 +451,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
 - [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
 - [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
+- [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Zerion](https://zerion.io): Interface to manage multiple Vaults and CDPs in a single place
 
 ### Earn Dai
@@ -515,7 +516,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
 - [Pool Dai](https://zeframlou.github.io/pool-dai/): Lossless Donation Protocol
 - [Request](https://app.request.network/): Request a Payment in Dai
-- [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
 #### Merchant Solutions | Payment Processors
