@@ -469,7 +469,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Web | Paper Wallets
 
-- [MyCrypto](https://mycrypto.com) | [MyEtherWallet](https://www.myetherwallet.com/) | [Zerion](https://zerion.io/)
+- [MyCrypto](https://mycrypto.com) | [MyEtherWallet](https://www.myetherwallet.com/)
 
 #### Browser Extension Wallets
 
