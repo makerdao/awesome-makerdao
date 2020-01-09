@@ -451,6 +451,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
 - [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
 - [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
+- [Zerion](https://zerion.io): Interface to manage multiple Vaults and CDPs in a single place
 
 ### Earn Dai
 
@@ -555,6 +556,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
+- [Zerion](https://zerion.io): Simple interface to the protocols of decentralized finance
 
 ### Trade Dai
 
@@ -575,6 +577,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Swap.online](https://swap.online/)
 - [Uniswap](https://uniswap.exchange/swap)
 - [Tokenlon](https://tokenlon.im/instant)
+- [Zerion](https://zerion.io)
 
 #### Non-Custodial Exchanges
 
