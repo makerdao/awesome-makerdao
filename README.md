@@ -148,7 +148,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs) All
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/glossary) Glossary of Terms
-- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/dai) Dai
+- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/dai) Dai
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) | SCD: Dai Savings Rate
 - [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/emergency-shutdown) Emergency Shutdown
 - MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance) Governance
