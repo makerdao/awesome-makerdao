@@ -669,6 +669,11 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 A chronological collection of MakerDAO's major milestones and achievements over the years compiled by Maker's community.
 
+### 2020
+
+- [MKR in the burner address was BURNED for the first time](https://twitter.com/LenklaH/status/1203974242813042689?s=20) | [tx](https://etherscan.io/tx/0xda5f9a9dfc33c73dd1582c894736cb97248255fffa59b39bda0acb65e5374f95)
+*Mariano's Tweet (January 2020)*
+
 ### 2019
 
 - [Dai supply surpasses Sai](https://twitter.com/LenklaH/status/1203974242813042689?s=20)
