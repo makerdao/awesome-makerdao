@@ -1232,6 +1232,8 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 
 - [MakerDAO 是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 *Video by Maker说 (August 2018)*
+- [MakerDAO ve DAI Nedir? | Kripto Para Yatırımı Yaptım (Oasis)](https://youtu.be/3b2-UrvNlPc)
+*Video by Bitcoin Kraliçesi(January 2020)
 
 ## Archived Resources
 
