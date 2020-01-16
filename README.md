@@ -682,10 +682,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *MakerDAO Blog Post (December 2019)*
 - [Dai supply surpasses Sai](https://twitter.com/LenklaH/status/1203974242813042689?s=20)
 *Lenka's Tweet (December 2019)*
-- [Single-Collateral Dai to Multi-Collateral Dai Upgrade Timeline and Actions](https://blog.makerdao.com/single-collateral-dai-to-multi-collateral-dai-upgrade-timeline-and-actions/)
-*MakerDAO Blog Post (November 2019)*
-- [What to Expect With the Launch of Multi-Collateral Dai](https://blog.makerdao.com/what-to-expect-with-the-launch-of-multi-collateral-dai/)
-*MakerDAO Blog Post (November 2019)*
+- [**Multi-Collateral Dai Launched**](https://twitter.com/androolloyd/status/1196458513243017217?s=20) | [TX](https://etherscan.io/tx/0xa418049bc3d4f8d34678fdefb5c5cab66ce8f3650cdb0d11f3f56bb145bdbc55)
+*Andrew Redden Twitter Post (November 2019)*
 - [Launch Parameters Amendment](https://vote.makerdao.com/polling-proposal/qmzws83rd8gfwzhnjnfiduve6bcm826cyqemgp7nmzv6p4)
 *Ratified Governance Poll (November 2019)*
 - [Migration Risk Construct Proposal](https://vote.makerdao.com/polling-proposal/qmba2hpv3kcbjgzvlnv7xsogs3jenqdiqo3ffnktgqtepn)
