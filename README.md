@@ -66,6 +66,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Milestones
 
+- [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
 - [2017](#2017)
