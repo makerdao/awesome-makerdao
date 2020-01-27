@@ -442,6 +442,8 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ## Dai
 
+- [The Dai Universe](https://github.com/jordanlyall/dai-universe): Jordan Lyall aggregates all the different technical manifestations of Dai
+
 ### Generate Dai
 
 - Vault Onboarding Guide: _coming soon_
