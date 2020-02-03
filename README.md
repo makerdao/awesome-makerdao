@@ -676,6 +676,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2020
 
+- [First Surplus Auction](https://twitter.com/KentonPrescott/status/1223792492790706176?s=20) | [tx](https://etherscan.io/tx/%20%20%20%20%20%20%20%20%20%200x3e12197892310b9b50fc6ea89b66009e5d7e1a9c74afcd0c1821cb021a44d8f4)
 - [MKR Token Authority Transferred](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/) | [tx](https://etherscan.io/tx/0x6c3e56c4b99b280dddbff4f087c25d89c054421a202503fd49c36c6683e48fa1)
 *MakerDAO Blog Post (January 2020)*
 - [MKR in the burner address was BURNED for the first time](https://twitter.com/nanexcool/status/1216824200914243584?s=20) | [tx](https://etherscan.io/tx/0xda5f9a9dfc33c73dd1582c894736cb97248255fffa59b39bda0acb65e5374f95)
