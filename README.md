@@ -386,8 +386,7 @@ Maker values the opinions of informed members who participate in on-going Govern
 *Medium Post by Nick Tomaino (February 2018)*
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
 *Medium Post by Banteg (December 2018)*
-- [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
-*Medium Post by MakerDAO (August 2018)*
+- [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
 - [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1)
 *Medium Post by MakerDAO (August 2018 | June 2018)*
 - [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6)
@@ -419,7 +418,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Voter Onboarding
 
-- [Voter Onboarding Guide](link): _coming soon_
+- [Voter Onboarding Guide](https://community-development.makerdao.com/onboarding/voter-onboarding)
 
 ### Voting Dashboard
 
