@@ -42,7 +42,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Governance | Risk
 
 - [Overview](#governance-and-risk)
-- [Governance](#governance)
+- [Resources](#resources)
 - [Analytics](#analytics)
 - [Discussion](#meetings-and-discussions)
 
@@ -378,7 +378,7 @@ The Maker Governance Framework is built on rigorously vetted, reproducible, scie
 
 Maker values the opinions of informed members who participate in on-going Governance discussions.
 
-### Governance
+### Resources
 
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 *Medium Posts by MakerDAO (July 2018 | December 2018)*
@@ -389,8 +389,6 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
 - [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1)
 *Medium Post by MakerDAO (August 2018 | June 2018)*
-- [Reaching a Compromise on the 20% Principle and the Foundation Proposal](https://medium.com/makerdao/reaching-a-compromise-on-the-20-principle-and-the-foundation-proposal-afe23a48b3e6)
-*Medium Post by MakerDAO (August 2018)*
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50)
 *Medium Post by David Utrobin (April 2018)*
 - [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
