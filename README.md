@@ -42,7 +42,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Governance | Risk
 
 - [Overview](#governance-and-risk)
-- [Resources](#resources)
+- [Governance Resources](#governance-resources)
 - [Analytics](#analytics)
 - [Discussion](#meetings-and-discussions)
 
@@ -378,7 +378,7 @@ The Maker Governance Framework is built on rigorously vetted, reproducible, scie
 
 Maker values the opinions of informed members who participate in on-going Governance discussions.
 
-### Resources
+### Governance Resources
 
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 *Medium Posts by MakerDAO (July 2018 | December 2018)*
