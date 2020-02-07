@@ -147,19 +147,18 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ## FAQs
 
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs) All
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/glossary) Glossary of Terms
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/dai) Dai
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) | SCD: Dai Savings Rate
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/emergency-shutdown) Emergency Shutdown
-- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance) Governance
-- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/keepers) Keepers
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/liquidation) Liquidation
-- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao) MakerDAO
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/oracles) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/oracles) Oracles
-- MCD | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/risk-management) Risk Management
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/stability-fee) Stability Fees
-- [MCD](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault) | [SCD:](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/cdp) Vaults
+- [All](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs)
+- [Glossary of Terms](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
+- [Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
+- [Dai Savings Rate](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr)
+- [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
+- [Governance(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance): new coming soon
+- [Liquidation](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
+- [MakerDAO(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao): new coming soon
+- [MKR Token](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token)
+- [Oracles](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/oracles)
+- [Stability Fees](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee)
+- [Vaults](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault)
 - [Special FAQ: Where does the name "Dai" come from?](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)
 
 ## Basics
