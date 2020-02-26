@@ -599,16 +599,20 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Custodial Exchanges
 
-- [Bibox](https://www.bibox.com/exchange?coinPair=ETH_DAI): China
 - [Bitfinex](https://www.bitfinex.com): Hong Kong
 - [Coinbase](https://pro.coinbase.com/trade/DAI-USDC): USA
 - [COSS.IO](https://coss.io/): Singapore
 - [Exmo](https://exmo.com/en/trade#?pair=DAI_ETH): England
 - [Gate.io](https://www.gate.io/trade/DAI_USDT): USA
+- [Hanbitco](https://www.hanbitco.com/exchange/dai_btc): South Korea
 - [HitBTC](https://hitbtc.com/ETH-to-DAI): EU
+- [Korbit](https://www.korbit.co.kr/markets/?market=dai-krw): South Korea
+- [Kraken](https://trade.kraken.com/ko/markets/kraken/dai/usd): USA
 - [KuCoin](https://trade.kucoin.com/spot): Hong Kong
 - [Panda](https://panda.exchange/en-IC/): Latin America
 - [Probit](https://www.probit.com/en-us): Republic of Seychelles
+- [Tokpie](https://tokpie.com/view_exchange/dai-usdc/): Hong Kong
+- [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-DAI): South Korea
 - [Yobit](https://yobit.net/en/trade/DAI/USD): Russia
 
 #### Crypto | Fiat - On/Off Ramps
