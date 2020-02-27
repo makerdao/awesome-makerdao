@@ -300,6 +300,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by David Hoffman (December 2018)*
 - [MakerDAO Token Economics: An Independent Research Report](https://www.economicsdesign.com/portfolio/makerdao/)
 *Research Report by Lisa JY Tan (September 2019)*
+- [Rise of the Cryptodollar, a look at DeFi Interest Rates](https://bankless.substack.com/p/rise-of-the-cryptodollar)
 
 #### MakerDAO 201
 
