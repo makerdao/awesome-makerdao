@@ -619,6 +619,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Crypto | Fiat - On/Off Ramps
 
 - [Buenbit](https://www.buenbit.com/): Argentina | Peru
+- [Easy Crypto](https://easycrypto.ai/): Australia | New Zealand | South Africa
 - [Elastum](https://elastum.io/): EU | Global
   - [Unsupported Countries and US States](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
 - [Orionx](https://www.orionx.com): Mexico | Chile
