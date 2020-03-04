@@ -397,6 +397,13 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Introducing A New Governance On-Boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/)
 *Medium Post by MakerDAO (May 2019)*
 
+### Key (executive) votes
+
+- [Multi-Collateral Dai activation](https://blog.makerdao.com/the-votes-are-in-mcd-is-approved/) [(executive)](https://mkrgov.science/executive/0xf44113760c4f70afeeb412c63bc713b13e6e202e)
+- [Replace Debt Auction contract in MCD and remove the MKR oracle delay in SCD](https://blog.makerdao.com/executive-vote-replace-debt-auction-contract-remove-mkr-oracle-delay-in-scd/) [(executive)](https://mkrgov.science/executive/0x902f009d4de4a7828284b04b364dd43f00e51a02)
+- [Set the Governance Security Module Delay to 24 hours](https://forum.makerdao.com/t/signal-request-should-we-have-another-executive-vote-regarding-the-governance-security-module/1209) [(executive)](https://mkrgov.science/executive/0xd24fbbb4497ad32308bda735683b55499ddc2cad)
+
+
 ### Analytics
 
 - [Governance Analytics Dashboard](https://mkrgov.science)
