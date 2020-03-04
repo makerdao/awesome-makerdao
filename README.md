@@ -403,6 +403,17 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Replace Debt Auction contract in MCD and remove the MKR oracle delay in SCD](https://blog.makerdao.com/executive-vote-replace-debt-auction-contract-remove-mkr-oracle-delay-in-scd/) [(executive)](https://mkrgov.science/executive/0x902f009d4de4a7828284b04b364dd43f00e51a02)
 - [Set the Governance Security Module Delay to 24 hours](https://forum.makerdao.com/t/signal-request-should-we-have-another-executive-vote-regarding-the-governance-security-module/1209) [(executive)](https://mkrgov.science/executive/0xd24fbbb4497ad32308bda735683b55499ddc2cad)
 
+### Important Forum Threads
+- [Governance Initiatives](https://forum.makerdao.com/t/governance-initiatives/1347)
+- [Signaling Guidelines](https://forum.makerdao.com/t/signaling-guidelines/223)
+- [Participation in Maker governance](https://forum.makerdao.com/t/participation-in-maker-governance/968)
+- [Vote delegation](https://forum.makerdao.com/t/vote-delegation-is-not-something-we-should-be-striving-for/336)
+- [DRS spread](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
+- [Validation Teams proposal](https://forum.makerdao.com/t/validation-teams-a-proposal-for-a-new-variety-of-team/570)
+- [Migration Risk Construct](https://forum.makerdao.com/t/proposal-migration-risk-construct/724)
+- [Executive bundling in relation to technical changes](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965/4)
+- [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
+- [SCD Shutdown parameters](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 
 ### Analytics
 
