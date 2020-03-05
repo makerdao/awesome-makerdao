@@ -6,14 +6,14 @@ This guide details the suggested logic contributors should follow to improve Awe
 
 - Follow the provided guidelines to help preserve a consistent and clean formatting style.
 - Keep Awesome-MakerDAO relevant. 
-  - Add, delete, and relocate resources when appropriate.
-  - Request admin approval before removing resources or when restructuring sections.
+  - Add, delete, and/or relocate resources when appropriate.
+  - Request approval before removing resources or when restructuring sections.
 
-**Bounties and Incentives**
+#### Bounties and Incentives
 
-The MakerDAO Community Grants program supports members that provide useful contributions and improve Maker's document base. Inquire about bounties and incentives in the #Community-Development channel on MakerDAO's [Rocket.Chat](https://chat.makerdao.com).
+The MakerDAO Community Grants program supports members that provide useful contributions and improve Maker's document base. Inquire about bounties and incentives in [#Community-Development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
 
-**AMD Documents:**
+#### AMD Documents
 
 - [Live](https://awesome.makerdao.com/)
 
@@ -56,7 +56,7 @@ The MakerDAO Community [Writing Style Guide](https://github.com/makerdao/communi
 
 #### Citing and Organizing Content
 
-**Citing**
+##### Citing
 
 - Use title case when possible.
 - Include the month and year of publication.
@@ -66,7 +66,7 @@ The MakerDAO Community [Writing Style Guide](https://github.com/makerdao/communi
 - Keep the formatting style within sections consistent.
   - New citations and links should match a section's existing formatting style.
 
-**Organizing**
+##### Organizing
 
 - Order educational content by relevance.
   - A user's experience when reading through an educational section should approximate taking a course on that topic.
@@ -121,25 +121,25 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 *Note: These sections may need improvement.*
 
-**Improve**
+##### Improve
 
 - Help newcomers learn the basics of MakerDAO.
 - Suggest alternative organizational structures to improve the current logic.
   - Look for ways to more clearly present learning materials.
-- Review new proposals with admins.
+- Review new proposals in [#Community-Development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
 
-**Maintain**
+##### Maintain
 
   - Add new tutorials and beginner materials to an appropriate section.
-  - Follow the AMD [standards](#citing-and-organizing-content) for including content.
+  - Follow the [maintenance standards](#citing-and-organizing-content) for including content.
 
 #### Stablecoins in General
 
-**Media**
+##### Media
 
 - Consider ways to improve this section's logic.
 - Include sources that offer general discussions about stablecoins and their place in crypto.
-- Follow the AMD [standards](#citing-and-organizing-content) for including content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for including content.
 
 ##### Other Stablecoin Projects
 
@@ -157,7 +157,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Group resources by difficulty level:
   - **MakerDAO 101:** Introductory level materials that a novice can understand.
   - **MakerDAO 201:** Advanced materials that discuss topics, which require background knowledge about MakerDAO and cryptocurrency.
-- Follow the AMD [standards](#citing-and-organizing-content) for including content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for including content.
 
 #### Maker Protocol
 
@@ -169,7 +169,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 #### Governance
 
 - The section should include educational materials on MakerDAO Governance.
-- Follow the AMD [standards](#citing-and-organizing-content) when citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) when citing content.
 - Order resources by relevance.
   - Reading this list in order should roughly approximate a course on MakerDAO Governance.
 
@@ -265,7 +265,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Include resources that mark important events in MakerDAO's history.
 - Include ratified Governance Polls for innovative proposals.
   - Avoid routine proposals, like rate adjustments.
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
 - Group resources by year.
   - Keep the existing formatting style consistent.
 
@@ -275,12 +275,12 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Keep each section's format consistent.
   - Content should be grouped by year and media style.
   - Match the section's existing grouping format.
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
 
 #### Interviews
 
 - Include notable interviews with MakerDAO team members.
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
   - Group interviews by media format *and* by year.
 
 #### Podcasts | Videos
@@ -295,14 +295,14 @@ The section below lists specific formatting, styles, and resource inclusion crit
     - Do not hold back. 
     - Critical pieces may identify previously unknown issues.
     - This can help Maker address issues as they arise.
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
   - Keep the existing formatting style consistent.
 
 #### Mentions
 
 - Add only notable Dai and MakerDAO mentions.
   - Include mentions that are important, unusual, unexpected, or otherwise interesting.
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
 - Group content by year.
   - Keep the existing formatting style consistent.
   - Preserve the grouping format when adding new years.
@@ -313,7 +313,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - List reports under a relevant category.
   - Create a new category if an appropriate one does not exist.
   - Order by date (Newest -> Oldest).
-- Follow the AMD [standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
    - Be sure to credit the security firm. 
    - Match formatting to other existing links in this section.
 
