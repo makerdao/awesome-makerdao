@@ -11,7 +11,7 @@ This guide details the suggested logic contributors should follow to improve Awe
 
 #### Bounties and Incentives
 
-The MakerDAO Community Grants program supports members that provide useful contributions and improve Maker's document base. Inquire about bounties and incentives in [#Community-Development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
+The MakerDAO Community Grants program supports members that provide useful contributions and improve Maker's document base. Inquire about bounties and incentives in [#community-development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
 
 #### AMD Documents
 
@@ -126,7 +126,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Help newcomers learn the basics of MakerDAO.
 - Suggest alternative organizational structures to improve the current logic.
   - Look for ways to more clearly present learning materials.
-- Review new proposals in [#Community-Development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
+- Review new proposals in [#community-development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
 
 ##### Maintain
 
