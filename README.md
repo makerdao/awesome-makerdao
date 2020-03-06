@@ -415,6 +415,29 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
 - [SCD Shutdown parameters](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 
+
+### Governance calls presentations
+- [Collateral Risk: Quantitative Analysis - part 1](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-40.md#all-the-slides)
+- [Collateral Risk: Quantitative Analysis - part 2](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-41.md#cyrus-single-cdp-credit-risk-model-2337)
+- [Collateral Risk: Quantitative Analysis - part 3](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-43.md#cyrus-quantitative-modeling-1320)
+- [Ratings-Based Model for Credit Events in MakerDAO](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-44.md#alex-evans-discussing-a-ratings-based-model-for-credit-events-in-makerdao-0743)
+- [Oracles v2 - part 1](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-51.md#oracles)
+- [Oracles v2 - part 2](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-51.md#oracles)
+- [Tokenized Asset Portfolios - TAP](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-53.md#presentation-1120)
+- [Migration Risk Construct Review - part 1](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-58.md#cyrus)
+- [Migration Risk Construct Review - part 2](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-59.md#cyrus)
+- [Migration Risk Construct Review - part 3](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-60.md#risk)
+- [System and Oracle Risk Parameters](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-61.md#risk)
+- [MKR Authority Transfer](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-62.md#mcd-next-steps)
+- [Monetary Policy in MCD](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-63.md#monetary-policy-in-mcd)
+- [DSR Spread Presentation](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-67.md#samm)
+- [Intro and Current Governance Development Backlog](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-68.md#intro-and-current-governance-development-backlog)
+- [Governance Analytics Dashboard Presentation](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-72.md#longforwisdom)
+- [The Dark Fix](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-73.md#the-dark-fix)
+- [Oracles and Governance](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
+
+
+
 ### Analytics
 
 - [Governance Analytics Dashboard](https://mkrgov.science)
