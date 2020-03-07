@@ -421,6 +421,7 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
 - [SCD Shutdown parameters](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 - [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
+- [Ranked Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
 
 
 ### Governance calls presentations
