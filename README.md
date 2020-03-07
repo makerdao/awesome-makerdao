@@ -408,12 +408,19 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Signaling Guidelines](https://forum.makerdao.com/t/signaling-guidelines/223)
 - [Participation in Maker governance](https://forum.makerdao.com/t/participation-in-maker-governance/968)
 - [Vote delegation](https://forum.makerdao.com/t/vote-delegation-is-not-something-we-should-be-striving-for/336)
+- [Stablecoins as collateral](https://forum.makerdao.com/t/whats-the-point-of-adding-stablecoins-as-collateral/453/25)
+- [PurityDai](https://forum.makerdao.com/t/puritydai-a-potential-solution-to-the-real-world-collateral-controversy/526)
 - [DRS spread](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
 - [Validation Teams proposal](https://forum.makerdao.com/t/validation-teams-a-proposal-for-a-new-variety-of-team/570)
+- [Interim Governance Facilitators mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
+- [Oracle Team mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443)
+- [Oracle Migration](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509)
+- [Risk Team mandate](https://forum.makerdao.com/t/mandate-risk-teams/282)
 - [Migration Risk Construct](https://forum.makerdao.com/t/proposal-migration-risk-construct/724)
 - [Executive bundling in relation to technical changes](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965/4)
 - [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
 - [SCD Shutdown parameters](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
+- [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
 
 
 ### Governance calls presentations
