@@ -425,7 +425,7 @@ Maker values the opinions of informed members who participate in on-going Govern
 
 
 ### Governance calls presentations
-- [Collateral Risk: Quantitative Analysis - part 1](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-40.md#all-the-slides)
+- [Collateral Risk: Quantitative Analysis - part 1](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-40.md#cyrus-quantitative-analysis-2502)
 - [Collateral Risk: Quantitative Analysis - part 2](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-41.md#cyrus-single-cdp-credit-risk-model-2337)
 - [Collateral Risk: Quantitative Analysis - part 3](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-43.md#cyrus-quantitative-modeling-1320)
 - [Ratings-Based Model for Credit Events in MakerDAO](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-44.md#alex-evans-discussing-a-ratings-based-model-for-credit-events-in-makerdao-0743)
