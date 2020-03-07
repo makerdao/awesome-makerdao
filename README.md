@@ -415,7 +415,7 @@ All Votes below have passed
 - [Poll: Ratify the Interim Oracle Team Mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443) | [Governance Poll](https://mkrgov.science/poll/37)
 - [Poll: Exponential Rate Stepping for Stability Fee Polls](https://forum.makerdao.com/t/signal-request-should-we-move-to-exponential-rate-stepping-for-stability-fee-polls/40) | [Governance Poll](https://mkrgov.science/poll/34)
 - [Poll: Ratify the Interim Governance Facilitator Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) | [Governance Poll](https://mkrgov.science/poll/29)
-- [Poll: Ratify the Interim Risk Team Mandate](https://forum.makerdao.com/t/mandate-risk-teams/282) | [Governance Poll](hhttps://mkrgov.science/poll/30)
+- [Poll: Ratify the Interim Risk Team Mandate](https://forum.makerdao.com/t/mandate-risk-teams/282) | [Governance Poll](https://mkrgov.science/poll/30)
 
 
 ### Important Forum Threads
@@ -883,6 +883,11 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Interview by Tyson O'Ham (July 2016)*
 
 ### Podcasts
+
+#### 2019 | Broadcasts
+
+- [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
+*Ethereal Podcast (March 2020)*
 
 #### 2019 | Broadcasts
 
