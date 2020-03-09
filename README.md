@@ -442,6 +442,7 @@ All Votes below have passed
 
 ### Governance Call Presentations
 
+- [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#risk)
 - [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
 - [Feb 13, 2020: The Dark Fix (solution for handling bugs with the GSM delay) with Wil Barnes](https://youtu.be/e4VTkFV3lyc?t=1876) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-73.md#the-dark-fix)
 - [Feb 06, 2020: Governance Analystics Dashboard Demo with LFW](https://youtu.be/nzMwDpIWTCU?t=157) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-72.md#longforwisdom)
