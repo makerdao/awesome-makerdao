@@ -438,11 +438,11 @@ All Votes below have passed
 - [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
 - [SCD Shutdown Parameters Discussion](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 - [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
-- [Ranked Choice Voting(**Ratified**)](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
+- [Ranked Choice Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
 
 ### Governance Call Presentations
 
-- [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#risk)
+- [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#cyrus-younessi)
 - [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
 - [Feb 13, 2020: The Dark Fix (solution for handling bugs with the GSM delay) with Wil Barnes](https://youtu.be/e4VTkFV3lyc?t=1876) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-73.md#the-dark-fix)
 - [Feb 06, 2020: Governance Analystics Dashboard Demo with LFW](https://youtu.be/nzMwDpIWTCU?t=157) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-72.md#longforwisdom)
