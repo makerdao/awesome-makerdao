@@ -665,6 +665,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Custodial Exchanges
 
+- [Ace.io](https://ace.io): Taiwan
 - [Bitfinex](https://www.bitfinex.com): Hong Kong
 - [Coinbase](https://pro.coinbase.com/trade/DAI-USDC): USA
 - [COSS.IO](https://coss.io/): Singapore
