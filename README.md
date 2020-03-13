@@ -398,6 +398,8 @@ Maker values the opinions of informed members who participate in on-going Govern
 *Article by Fitzner Blockchain Consulting (February 2019)*
 - [Introducing A New Governance On-Boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/)
 *Medium Post by MakerDAO (May 2019)*
+- [FakerDAO: An Exploration Of MakerDAO’s Governance Incentives](https://www.scopelift.co/blog/fakerdao)
+*Blog Post by Ben DiFrancesco (March 2020)*
 
 ### Key Votes
 
@@ -427,18 +429,19 @@ All Votes below have passed
 - [Vote delegation](https://forum.makerdao.com/t/vote-delegation-is-not-something-we-should-be-striving-for/336)
 - [Stablecoins as collateral](https://forum.makerdao.com/t/whats-the-point-of-adding-stablecoins-as-collateral/453/25)
 - [PurityDai](https://forum.makerdao.com/t/puritydai-a-potential-solution-to-the-real-world-collateral-controversy/526)
-- [DSR spread(**Ratified**)](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
+- [DSR spread](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
 - [Validation Teams Proposal](https://forum.makerdao.com/t/validation-teams-a-proposal-for-a-new-variety-of-team/570)
-- [Interim Governance Facilitators Mandate(**Ratified**)](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
-- [Oracle Team mandate(**Ratified**)](https://forum.makerdao.com/t/mandate-oracle-teams/443)
-- [Oracle Migration(**Ratified**)](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509)
-- [Risk Team mandate(**Ratified**)](https://forum.makerdao.com/t/mandate-risk-teams/282)
-- [Migration Risk Construct(**Ratified**)](https://forum.makerdao.com/t/proposal-migration-risk-construct/724)
-- [Executive bundling in relation to technical changes(**Ratified**)](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965/4)
+- [Interim Governance Facilitators Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
+- [Oracle Team mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443)
+- [Oracle Migration](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509)
+- [Risk Team mandate](https://forum.makerdao.com/t/mandate-risk-teams/282)
+- [Migration Risk Construct](https://forum.makerdao.com/t/proposal-migration-risk-construct/724)
+- [Executive bundling in relation to technical changes](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965/4)
 - [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
 - [SCD Shutdown Parameters Discussion](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 - [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
 - [Ranked Choice Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
+- [How to Audit Executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?u=davidutro)
 
 ### Governance Call Presentations
 
