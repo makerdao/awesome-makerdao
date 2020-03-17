@@ -442,6 +442,8 @@ All Votes below have passed
 - [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
 - [Ranked Choice Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
 - [How to Audit Executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?u=davidutro)
+- [Compensating vault holders that liquidated at 0 bid](https://forum.makerdao.com/t/compensating-vault-holders-that-liquidated-at-0-bid/1541)
+- [Black Thursday Response Thread](https://forum.makerdao.com/t/black-thursday-response-thread/1433)
 
 ### Governance Call Presentations
 
@@ -725,6 +727,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFi.ai](https://defi.ai/dai): Exposes profit opportunities to buy or sell Dai on Coinbase and Radar, when Dai is trading below or above its \$1 peg
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
+- [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
 - [MCD State](http://mcdstate.info/)
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
