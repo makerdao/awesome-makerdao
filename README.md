@@ -472,6 +472,7 @@ All Votes below have passed
 - [Governance Analytics Dashboard](https://mkrgov.science)
   - [Governance Poll History](https://mkrgov.science/polls)
   - [Executive Vote History](https://mkrgov.science/executive)
+- [MCD Parameter Changelog, based on passed Executive Votes](https://catflip.co/changelog)
 
 ### Meetings and Discussions
 
