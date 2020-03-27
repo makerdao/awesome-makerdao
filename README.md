@@ -87,7 +87,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Audits | Security
 
 - [Multi-Collateral Dai](#multi-collateral-dai) 
-- [Sinlge-Collateral Dai](#single-collateral-dai)
+- [Single-Collateral Dai](#single-collateral-dai)
 - [Dappsys](#dappsys)
 
 ### Developer
