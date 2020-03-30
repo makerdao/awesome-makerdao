@@ -170,7 +170,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Onboarding Guides
 
 - Dai Onboarding Guide: _coming soon_
-- Vault Onboarding Guide: _coming soon_
+- [Vault Onboarding Guide](https://community-development.makerdao.com/onboarding/vault-onboarding)
 - [Voter Onboarding Guide](https://community-development.makerdao.com/onboarding/voter-onboarding)
 
 ### Beginner Guides
@@ -508,7 +508,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
 - [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
-
 
 ## Dai
 
