@@ -810,18 +810,18 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Multi-Collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
 *Medium Post by MakerDAO (September 2018)* // TODO: 410 error
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
-*Medium Post by MakerDAO (August 2018)*
+*Medium Post by MakerDAO (August 2018)* // TODO: 410 error
 - [Debt Ceiling Raised to \$100MM USD](https://medium.com/makerdao/we-raised-the-roof-fbe8663442d1)
-*Medium Post by MakerDAO (July 2018)*
+*Medium Post by MakerDAO (July 2018)* // TODO: 410 error
 
 ### 2017
 
 - [Sai V1 Globally Settled](https://www.reddit.com/r/MakerDAO/comments/7lhbmx/psa_sai_now_globally_settled/)
 *Reddit Post by MakerDAO (December 2017)*
 - [Dai V1 Launched](https://medium.com/makerdao/dai-is-now-live-ad87e34fc826)
-*Medium Post by MakerDAO (December 2017)*
+*Medium Post by MakerDAO (December 2017)* // TODO: 410 error
 - [Dai V1 Audited](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
-*Medium Post by MakerDAO (December 2017)*
+*Medium Post by MakerDAO (December 2017)* // TODO: 410 error
 - [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 *MakerDAO Blog Post by Andy Milenius (June 2017)*
 - [Establishment of the Dai Foundation](https://web.archive.org/web/20170603093744/https://blog.makerdao.com/2017/02/19/establishment-of-the-dai-foundation/)
@@ -892,7 +892,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### Podcasts
 
-#### 2019 | Broadcasts
+#### 2019 | Broadcasts // TODO: CONTINUE FROM THIS POINT
 
 - [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
 *Ethereal Podcast (March 2020)*
