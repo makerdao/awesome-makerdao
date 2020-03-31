@@ -799,16 +799,16 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Medium Post by MakerDAO (December 2018)* // TODO: 410 error
 - [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 *Tweet Post by Mike McDonald (November 2018)*
-- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde) // TODO: 410 error
-*Medium Post by MakerDAO (October 2018)*
+- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
+*Medium Post by MakerDAO (October 2018)* // TODO: 410 error
 - [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
-*Medium Post by MakerDAO (October 2018)*
+*Medium Post by MakerDAO (October 2018)* // TODO: 410 error
 - [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
 *Ratified Governance Poll (September 2018)*
 - [Introducing the Governance Voting UI for the Maker Foundational Vote](https://medium.com/makerdao/introducing-the-governance-voting-ui-for-the-maker-foundational-vote-3fa669551ce1)
-*Medium Post by MakerDAO (September 2018)*
+*Medium Post by MakerDAO (September 2018)* // TODO: 410 error
 - [Multi-Collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
-*Medium Post by MakerDAO (September 2018)*
+*Medium Post by MakerDAO (September 2018)* // TODO: 410 error
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
 *Medium Post by MakerDAO (August 2018)*
 - [Debt Ceiling Raised to \$100MM USD](https://medium.com/makerdao/we-raised-the-roof-fbe8663442d1)
