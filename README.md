@@ -318,7 +318,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd)
 *Medium Post by David Hoffman (February 2019)*
 - [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a)
-*Medium Post by MakerDAO (February 2019)*
+*Medium Post by MakerDAO (February 2019)* // 410 error
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd)
 *Medium Post by Jack Purdy (January 2019)*
 - [The Auction Grinding Attack: A Case for a Liquidation Penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf)
