@@ -646,7 +646,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [KyberSwap](https://kyberswap.com/swap)
 - [Liquality](https://liquality.io/)
 - [SimpleSwap](https://simpleswap.io/)
-- [Swap.online](https://swap.online/)
+- [Swap.online](https://swap.online/) // TODO: site can't be reached
 - [Uniswap](https://uniswap.exchange/swap)
 - [Tokenlon](https://tokenlon.im/instant)
 - [Zerion](https://zerion.io)
@@ -654,7 +654,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Non-Custodial Exchanges
 
 - [Changelly](https://changelly.com/)
-- [CoinChangeX](https://www.coinchangex.com/token/#!/trade/DAI-ETH)
+- [CoinChangeX](https://www.coinchangex.com/token/#!/trade/DAI-ETH) // TODO: site can't be reached
 - [DDex](https://ddex.io/spot/ETH-DAI)
 - [DeversiFi](https://trustless.ethfinex.com/DAIETH)
 - [Dex.Blue](https://dex.blue/)
