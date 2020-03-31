@@ -725,7 +725,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
 - [DaiStats](https://daistats.com/): Dai Statistics
-- [DeFi.ai](https://defi.ai/dai): Exposes profit opportunities to buy or sell Dai on Coinbase and Radar, when Dai is trading below or above its \$1 peg
+- [DeFi.ai](https://defi.ai/dai): “Provides Coinbase and Radar pricing data, showing where Dai trades in comparison to its $1 soft peg.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
