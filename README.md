@@ -503,10 +503,10 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 *Notice: The Voting Portal is undergoing an update.* 
 
-- [Maker Governance Voting Setup for Ledger](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
-- [Maker Governance Voting Setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
-- [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
-- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
+- [Maker Governance Voting Setup for Ledger](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a) // 410 error
+- [Maker Governance Voting Setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f) // 410 error
+- [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602) // 410 error
+- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)  // 410 error
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Dai
