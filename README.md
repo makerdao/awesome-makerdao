@@ -705,8 +705,8 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Monitor Vaults
 
-- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator
-- [CDP.FYI](https://cdp.fyi/): Receive Push Notifications When CDPs Reach Dangerous Levels
+- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator // TODO: requested access to sheet
+- [CDP.FYI](https://cdp.fyi/): Receive Push Notifications When CDPs Reach Dangerous Levels // TODO: site can't be reached
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
 - [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
@@ -719,7 +719,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
 - [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
-- [Daiprice](https://www.daiprice.info/): Dai USD Price Tracker and Metrics
+- [Daiprice](https://www.daiprice.info/): Dai USD Price Tracker and Metrics // TODO: 404 error
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
@@ -728,7 +728,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
-- [MCD State](http://mcdstate.info/)
+- [MCD State](http://mcdstate.info/) // TODO: Internal Server Error
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
@@ -742,7 +742,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiPulse](https://defipulse.com/): DeFi Protocol Rankings and Analytics
 - [Loanscan](https://loanscan.io/): Analytics for Debt Issued on the Ethereum Blockchain
 - [TokenAnalyst: Stablecoins](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparisons
-- [TRMLabs Insights](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparisons
+- [TRMLabs Insights](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparisons // TODO: site can't be reached
 
 ## Milestones | Achievements
 
@@ -796,10 +796,10 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 ### 2018
 
 - [Happy BirthDAI: One Year Since Dai's Launch](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
-*Medium Post by MakerDAO (December 2018)*
+*Medium Post by MakerDAO (December 2018)* // TODO: 410 error
 - [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 *Tweet Post by Mike McDonald (November 2018)*
-- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
+- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde) // TODO: 410 error
 *Medium Post by MakerDAO (October 2018)*
 - [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
 *Medium Post by MakerDAO (October 2018)*
