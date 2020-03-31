@@ -478,7 +478,7 @@ All Votes below have passed
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
 - Scientific Governance and Risk Meetings
-  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) // "we can't find that playlist" | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
 
 ## Voting Basics
 
