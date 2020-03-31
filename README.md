@@ -190,7 +190,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [MakerDAO (MKR): Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/)
 *Article by Londonletter (June 2018)*
 - [Primer on Stablecoins: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f)
-*Medium Series by MakerDAO (June 2018)*
+*Medium Series by MakerDAO (June 2018)* // all links 410 error
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
 - [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
