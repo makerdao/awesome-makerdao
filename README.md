@@ -114,7 +114,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Whitepaper](https://makerdao.com/whitepaper/)
 - [CDP Portal](https://cdp.makerdao.com/) // change to oasis.app?
 - [Community Portal](https://community-development.makerdao.com/)
-- [Developer Portal](https://developer.makerdao.com/) // these docs say DAI 1.0
+- [Developer Portal](https://developer.makerdao.com/) // TODO: these docs say DAI 1.0
 - [Governance Portal](https://vote.makerdao.com/)
 - [Maker Documentation Portal](https://docs.makerdao.com/)
 - [Oasis](https://oasis.app)
@@ -123,8 +123,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [Blog](https://blog.makerdao.com/)
 - [Forum](https://forum.makerdao.com/)
-- [Kakaotalk](https://open.kakao.com/o/giWg6J2) // webapp might be broken
-- [Medium](https://medium.com/@MakerDAO) // 404 error
+- [Kakaotalk](https://open.kakao.com/o/giWg6J2) // TODO: webapp might be broken
+- [Medium](https://medium.com/@MakerDAO) // TODO: 404 error
 - [Reddit](https://www.reddit.com/r/MakerDAO)
 - [RocketChat](https://chat.makerdao.com/)
 - [Soundcloud](https://soundcloud.com/makerdao)
@@ -138,7 +138,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - Community Meetings
 [Join](https://meet.google.com/idg-znme-kvt) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
 - Scientific Governance and Risk Meetings
-[Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) // "we can't find that playlist" | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+[Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) // TODO: "we can't find that playlist" | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
 
 ### Upcoming Events
 
@@ -190,7 +190,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [MakerDAO (MKR): Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/)
 *Article by Londonletter (June 2018)*
 - [Primer on Stablecoins: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f)
-*Medium Series by MakerDAO (June 2018)* // all links 410 error
+*Medium Series by MakerDAO (June 2018)* // TODO: all links 410 error
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
 - [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
@@ -307,7 +307,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### MakerDAO 201
 
-- [Measuring Dai Supply and Demand Price Effects](https://app.santiment.net/insights/read/measuring-dai-supply-and-demand-price-effects-623) // misdirected
+- [Measuring Dai Supply and Demand Price Effects](https://app.santiment.net/insights/read/measuring-dai-supply-and-demand-price-effects-623) // TODO: misdirected
 *Post by Primoz Kordez on Santiment (August 2019)*
 - [A Ratings-Based Model for Credit Events in MakerDAO](https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5d25fc556a956b0001aa2c62/1562770517350/Maker-Ratings.pdf)
 *Paper by Alex Evans (July 2019)*
@@ -318,7 +318,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd)
 *Medium Post by David Hoffman (February 2019)*
 - [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a)
-*Medium Post by MakerDAO (February 2019)* // 410 error
+*Medium Post by MakerDAO (February 2019)* // TODO: 410 error
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd)
 *Medium Post by Jack Purdy (January 2019)*
 - [The Auction Grinding Attack: A Case for a Liquidation Penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf)
@@ -385,12 +385,12 @@ Maker values the opinions of informed members who participate in on-going Govern
 ### Governance Resources
 
 - [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
-*Medium Posts by MakerDAO (July 2018 | December 2018)* // all links 410 error
+*Medium Posts by MakerDAO (July 2018 | December 2018)* // TODO: all links 410 error
 - [Lessons From MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a)
 *Medium Post by Nick Tomaino (February 2018)*
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
 *Medium Post by Banteg (December 2018)*
-- [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1) // V1 link 410 error
+- [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1) // TODO: V1 link 410 error
 *Medium Post by MakerDAO (August 2018 | June 2018)*
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50)
 *Medium Post by David Utrobin (April 2018)*
@@ -478,7 +478,7 @@ All Votes below have passed
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
 - Scientific Governance and Risk Meetings
-  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) // "we can't find that playlist" | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) // TODO: "we can't find that playlist" | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
 
 ## Voting Basics
 
@@ -497,16 +497,16 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Voting Contract
 
-- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4) // 410 error
+- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4) // TODO: 410 error
 
 #### Setup Guides
 
 *Notice: The Voting Portal is undergoing an update.* 
 
-- [Maker Governance Voting Setup for Ledger](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a) // 410 error
-- [Maker Governance Voting Setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f) // 410 error
-- [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602) // 410 error
-- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)  // 410 error
+- [Maker Governance Voting Setup for Ledger](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a) // TODO: 410 error
+- [Maker Governance Voting Setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f) // TODO: 410 error
+- [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602) // TODO: 410 error
+- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)  // TODO: 410 error
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Dai
@@ -515,14 +515,14 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Generate Dai
 
-- Vault Onboarding Guide: _coming soon_
+- Vault Onboarding Guide: _coming soon_ // find link for this
 - [Oasis Vault Portal](https://oasis.app/borrow): Lock Collateral in Maker Vaults to Generate Dai
 
 #### Third Party Vault Portals
 
 - [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
 - [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
-- [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
+- [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality // TODO: defunct
 - [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Zerion](https://zerion.io): Interface to manage multiple Vaults and CDPs in a single place
 
@@ -586,7 +586,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [LNDR](https://blockmason.io/lndr/): Expense Sharing App
 - [Liquid Long](https://liquid-long.keydonix.com/): Leverage ETH
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
-- [Pool Dai](https://zeframlou.github.io/pool-dai/): Lossless Donation Protocol
+- [Pool Dai](https://zeframlou.github.io/pooldai/): Lossless Donation Protocol
 - [Request](https://app.request.network/): Request a Payment in Dai
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
@@ -602,7 +602,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Spend Dai
 
-- [Aave Pay](https://pay.aave.com/): Use crypto to send fiat payments to anyone
+- [Aave Pay](https://pay.aave.com/): Use crypto to send fiat payments to anyone // TODO: site can't be reached
 - [AdEx Network](https://www.adex.network): Platform for decentralized advertising using Dai as payment method
 - [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
@@ -611,7 +611,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Grid Plus Energy](https://gridplus.io/energy): Pay for electricity with Dai, ETH, or BTC (Texas)
 - [Living Room of Satoshi](https://www.livingroomofsatoshi.com/): Pay any bill with cryptocurrency (Australia)
 - [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features 
-- [NeedsList](https://needslist.co/donate): Purchase items that are critically needed and help with disaster preparedness
+- [NeedsList](https://needslist.co): Purchase items that are critically needed and help with disaster preparedness // TODO: test this
 - [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
 - [Swarm](https://www.swarm.fund/): Participate in security token offerings
 - [Unicef](https://lp.unicef.fr/donate-dai/): Donate Dai
@@ -624,7 +624,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Dharma](https://www.dharma.io/): Pretty Compound UI
 - [DyDx](https://dydx.exchange/): Decentralized Trading, Lending, and Borrowing
 - [Ethichub](https://ethichub.com/en): P2P Lending to Communities Around the Globe
-- [ETHLend](https://ethlend.io/): Loan Marketplace
+- [ETHLend](https://ethlend.io/): Loan Marketplace // TODO: depricated
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
