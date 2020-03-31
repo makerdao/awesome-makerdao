@@ -497,7 +497,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Voting Contract
 
-- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4)
+- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4) // 410 error
 
 #### Setup Guides
 
