@@ -41,7 +41,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Governance | Risk
 
-- [Overview](#governance-resources)
+- [Overview](#governance-and-risk)
 - [Governance Resources](#governance-resources)
 - [Key Votes](#key-votes)
 - [Important Forum Threads](#important-forum-threads)
