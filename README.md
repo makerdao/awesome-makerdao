@@ -941,7 +941,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [MakerDAO Founder and CEO Rune Christensen: Why Dai Will Displace Stablecoin Tethers (Episode 5)](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
 *51 Percent (October 2018)*
 - [Rune Christensen of MakerDAO on \$15 Million from Andreessen Horowitz - Ep. 039](https://soundcloud.com/unconfirmedpodcast/rune-christensen-of-makerdao)
-*Unconfirmed Podcast (September 2018)*
+*Unconfirmed Podcast (September 2018)* // TODO: this track was not found
 - [101 Series: Stablecoins](https://www.cryptobasicpodcast.com/home/stablecoins)
 *Crypto Basic Podcast (September 2018)*
 - [BlockZero #006 - MakerDAO & The Dai Stable Coin: Founder Rune Christensen](https://blockzero.simplecast.com/episodes/006-makerdao-the-dai-stable-coin-founder-08860ac9)
@@ -1090,27 +1090,27 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Decrypt Post by Ben Munster (February 2019)*
 - [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590)
 *Medium Post by Cyrus Younessi (January 2019)*
-- [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf)
+- [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf) // TODO: 410 error
 *Medium Post by MakerDAO Guest - Brian D. Colwell (January 2019)*
 - [Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 *Placeholder VC Post by Chris Burniske and Joel Monegro (January 2019)*
 - [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c)
-*Medium Post by MakerDAO Guest - ProgrammableTX (January 2019)*
+*Medium Post by MakerDAO Guest - ProgrammableTX (January 2019)* // TODO: 410 error
 - [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 *Medium Post by Andy Tudhope (January 2019)*
 
 #### 2018 | Mentions
 
 - [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
-*Medium Post by Max Bronstein (December 2018)*
+*Medium Post by Max Bronstein (December 2018)* // TODO: no posts found
 - [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369)
 *Medium Post by David Hoffman (December 2018)*
 - [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance)
 *Article by Trustnodes (December 2018)*
 - [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)*
+*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)* // TODO: 410 error
 - [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)*
+*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)* // TODO: 410 error
 - [DAI Moved Nearly \$200 Million Worth of Decentralized Tokenized Dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars)
 *Article by Trustnodes (November 2018)*
 - [Twelve Reasons I’m Bullish About Ethereum Today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2)
@@ -1128,7 +1128,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Is It Time For Crypto Exchanges to Replace the Dollar?](https://www.trustnodes.com/2018/04/11/time-crypto-exchanges-replace-dollar)
 *Article by Trustnodes (April 2018)*
 - [Dai CDP User Stories](https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda)
-*Medium Post by MakerDAO (February 2018)*
+*Medium Post by MakerDAO (February 2018)* // TODO: 410 error
 - [MakerDAO and More: The Quest for a Stable Stablecoin Continues](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/)
 *Coindesk Article by Rachel Rose O'Leary (January 2018)*
 
