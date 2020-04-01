@@ -928,7 +928,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Wyre Talks Ep. 19: MakerDAO, Novel Paradigms for Risk Management with Steven Becker](https://simplecast.com/s/e32e5290)
 *Wyre (January 2019)*
 
-#### 2018 | Broadcasts // TODO: CONTINUE FROM THIS POINT
+#### 2018 | Broadcasts
 
 - [a16z Podcast Ep. 420: All About Stablecoins with Andy Milenius, Jesse Walden, and Sonal Chokshi](https://a16z.com/2018/12/20/stablecoins-why-matter-what-how-daos-maker/)
 *a16z Podcast (December 2018)*
