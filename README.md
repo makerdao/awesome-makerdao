@@ -41,10 +41,13 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Governance | Risk
 
-- [Overview](#governance-and-risk)
+- [Overview](#governance-resources)
 - [Governance Resources](#governance-resources)
+- [Key Votes](#key-votes)
+- [Important Forum Threads](#important-forum-threads)
+- [Governance call presentations](#governance-call-presentations)
 - [Analytics](#analytics)
-- [Discussion](#meetings-and-discussions)
+- [Meetings and Discussions](#meetings-and-discussions)
 
 ### Voting
 
@@ -84,7 +87,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Audits | Security
 
 - [Multi-Collateral Dai](#multi-collateral-dai) 
-- [Sinlge-Collateral Dai](#single-collateral-dai)
+- [Single-Collateral Dai](#single-collateral-dai)
 - [Dappsys](#dappsys)
 
 ### Developer
@@ -167,7 +170,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 ### Onboarding Guides
 
 - Dai Onboarding Guide: _coming soon_
-- Vault Onboarding Guide: _coming soon_
+- [Vault Onboarding Guide](https://community-development.makerdao.com/onboarding/vault-onboarding)
 - [Voter Onboarding Guide](https://community-development.makerdao.com/onboarding/voter-onboarding)
 
 ### Beginner Guides
@@ -300,6 +303,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by David Hoffman (December 2018)*
 - [MakerDAO Token Economics: An Independent Research Report](https://www.economicsdesign.com/portfolio/makerdao/)
 *Research Report by Lisa JY Tan (September 2019)*
+- [Rise of the Cryptodollar, a look at DeFi Interest Rates](https://bankless.substack.com/p/rise-of-the-cryptodollar)
 
 #### MakerDAO 201
 
@@ -386,7 +390,6 @@ Maker values the opinions of informed members who participate in on-going Govern
 *Medium Post by Nick Tomaino (February 2018)*
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
 *Medium Post by Banteg (December 2018)*
-- [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
 - [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1)
 *Medium Post by MakerDAO (August 2018 | June 2018)*
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50)
@@ -395,12 +398,82 @@ Maker values the opinions of informed members who participate in on-going Govern
 *Article by Fitzner Blockchain Consulting (February 2019)*
 - [Introducing A New Governance On-Boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/)
 *Medium Post by MakerDAO (May 2019)*
+- [FakerDAO: An Exploration Of MakerDAO’s Governance Incentives](https://www.scopelift.co/blog/fakerdao)
+*Blog Post by Ben DiFrancesco (March 2020)*
+
+### Key Votes
+
+All Votes below have passed
+
+- [Multi-Collateral Dai activation](https://blog.makerdao.com/the-votes-are-in-mcd-is-approved/) | [Executive Vote](https://mkrgov.science/executive/0xf44113760c4f70afeeb412c63bc713b13e6e202e)
+- [Replace Debt Auction contract in MCD](https://forum.makerdao.com/t/proposal-upgrading-the-flopper/835) and [remove the MKR oracle delay in SCD?](https://forum.makerdao.com/t/proposal-remove-the-scd-mkr-oracle-security-module/837) | [Executive Vote](https://mkrgov.science/executive/0x902f009d4de4a7828284b04b364dd43f00e51a02)
+- [Set the Governance Security Module Delay to 24 hours?](https://forum.makerdao.com/t/signal-request-should-we-have-another-executive-vote-regarding-the-governance-security-module/1209) | [Executive Vote](https://mkrgov.science/executive/0xd24fbbb4497ad32308bda735683b55499ddc2cad)
+- [Poll: Should we suspend monetary policy votes when there are emergency technical changes to be made to the system? **Passed**](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965) | [Governance Poll](https://mkrgov.science/poll/94)
+- [Poll: Should we replace the weekly DSR Rate governance poll with a weekly DSR Spread governance poll?](https://forum.makerdao.com/t/signal-request-should-we-replace-the-weekly-dsr-governance-poll-with-a-dsr-spread-governance-poll/969) | [Governance Poll](https://mkrgov.science/poll/77)
+- [Poll: Migration Risk Construct Proposal](https://forum.makerdao.com/t/proposal-migration-risk-construct/724) | [Governance Poll](https://mkrgov.science/poll/47)
+- [Poll: DeFi Public Feed Proposal](https://forum.makerdao.com/t/proposal-defi-public-feed-appointments/475) | [Governance Poll](https://mkrgov.science/poll/40)
+- [Poll: Responsible Oracle Migration Proposal](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509) | [Governance Poll](https://mkrgov.science/poll/35)
+- [Poll: Oracles Incentives Restructuring](https://forum.makerdao.com/t/proposal-oracles-incentives-restructuring/476) | [Governance Poll](https://mkrgov.science/poll/39)
+- [Poll: Ratify the Interim Oracle Team Mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443) | [Governance Poll](https://mkrgov.science/poll/37)
+- [Poll: Exponential Rate Stepping for Stability Fee Polls](https://forum.makerdao.com/t/signal-request-should-we-move-to-exponential-rate-stepping-for-stability-fee-polls/40) | [Governance Poll](https://mkrgov.science/poll/34)
+- [Poll: Ratify the Interim Governance Facilitator Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) | [Governance Poll](https://mkrgov.science/poll/29)
+- [Poll: Ratify the Interim Risk Team Mandate](https://forum.makerdao.com/t/mandate-risk-teams/282) | [Governance Poll](https://mkrgov.science/poll/30)
+
+
+### Important Forum Threads
+
+- [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
+- [Governance Initiatives](https://forum.makerdao.com/t/governance-initiatives/1347)
+- [Signaling Guidelines](https://forum.makerdao.com/t/signaling-guidelines/223)
+- [Participation in Maker governance](https://forum.makerdao.com/t/participation-in-maker-governance/968)
+- [Vote delegation](https://forum.makerdao.com/t/vote-delegation-is-not-something-we-should-be-striving-for/336)
+- [Stablecoins as collateral](https://forum.makerdao.com/t/whats-the-point-of-adding-stablecoins-as-collateral/453/25)
+- [PurityDai](https://forum.makerdao.com/t/puritydai-a-potential-solution-to-the-real-world-collateral-controversy/526)
+- [DSR spread](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
+- [Validation Teams Proposal](https://forum.makerdao.com/t/validation-teams-a-proposal-for-a-new-variety-of-team/570)
+- [Interim Governance Facilitators Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
+- [Oracle Team mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443)
+- [Oracle Migration](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509)
+- [Risk Team mandate](https://forum.makerdao.com/t/mandate-risk-teams/282)
+- [Migration Risk Construct](https://forum.makerdao.com/t/proposal-migration-risk-construct/724)
+- [Executive bundling in relation to technical changes](https://forum.makerdao.com/t/signal-request-how-do-we-handle-executive-bundling-in-relation-to-technical-changes/965/4)
+- [Systemic Risk Directory](https://forum.makerdao.com/t/systemic-risk-directory/157)
+- [SCD Shutdown Parameters Discussion](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
+- [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
+- [Ranked Choice Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
+- [How to Audit Executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?u=davidutro)
+- [Compensating vault holders that liquidated at 0 bid](https://forum.makerdao.com/t/compensating-vault-holders-that-liquidated-at-0-bid/1541)
+- [Black Thursday Response Thread](https://forum.makerdao.com/t/black-thursday-response-thread/1433)
+
+### Governance Call Presentations
+
+- [Mar 24, 2020: Debt Auction Blocking in the Dai Credit System with Kurt Barry](https://www.youtube.com/watch?v=erh25lnaIo0&feature=youtu.be&t=475)
+- [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#cyrus-younessi)
+- [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
+- [Feb 13, 2020: The Dark Fix (solution for handling bugs with the GSM delay) with Wil Barnes](https://youtu.be/e4VTkFV3lyc?t=1876) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-73.md#the-dark-fix)
+- [Feb 06, 2020: Governance Analystics Dashboard Demo with LFW](https://youtu.be/nzMwDpIWTCU?t=157) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-72.md#longforwisdom)
+- [Jan 09, 2020: Intro and Current Governance Development Backlog with Derek Flossman and Charles St. Louis](https://www.youtube.com/watch?v=QFFmPWYLh3Y&feature=youtu.be&t=368) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-68.md#intro-and-current-governance-development-backlog)
+- [Jan 02, 2020: Argument for a DSR Spread Poll Presentation with Sam M](https://www.youtube.com/watch?v=dRG1TThjv5c&feature=youtu.be&t=1288) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-67.md#samm)
+- [Nov 28, 2019: Monetary Policy in MCD with Primoz Kordez](https://www.youtube.com/watch?v=hAlPwTMd4Yk&feature=youtu.be&t=1619) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-63.md#monetary-policy-in-mcd)
+- [Nov 21, 2020: MKR Authority Transfer with Wouter Kampmann](https://www.youtube.com/watch?v=W6AeAC7mmDk&feature=youtu.be&t=730) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-62.md#mcd-next-steps)
+- [Nov 14, 2020: System and Oracle Risk Parameters with Cyrus Younessi](https://www.youtube.com/watch?v=DD7g2t29D1E&feature=youtu.be&t=1172) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-61.md#risk)
+- [Nov 07, 2020: Migration Risk Construct Review - part 3 with Cyrus Younessi](https://www.youtube.com/watch?v=G8ga8vjMWkw&feature=youtu.be&t=872) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-60.md#risk)
+- [Oct 31, 2020: Migration Risk Construct Review - part 2 with Cyrus Younessi](https://www.youtube.com/watch?v=KrutexQ0Cs4&feature=youtu.be&t=1483) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-59.md#cyrus)
+- [Oct 24, 2020: Migration Risk Construct Review - part 1 with Cyrus Younessi](https://www.youtube.com/watch?v=rKq4J4bKndc&feature=youtu.be&t=159) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-58.md#cyrus)
+- [Sep 19, 2020: Tokenized Asset Portfolios - TAP with Fluidity Team](https://www.youtube.com/watch?v=aLoqcivNvV0&feature=youtu.be&t=681) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-53.md#collateral-discussion)
+- [Sep 12, 2019: Oracles v2 - part 2 with Nik Kunkel](https://www.youtube.com/watch?v=gqVnwOL42hQ&feature=youtu.be&t=1270) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-52.md#oracles)
+- [Sep 05, 2019: Oracles v2 - part 1 with Nik Kunkel](https://www.youtube.com/watch?v=7jKNv8DMxmQ&feature=youtu.be&t=904) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-51.md#oracles)
+- [Jul 18, 2020: Ratings-Based Model for Credit Events in MakerDAO with Alex Evans](https://www.youtube.com/watch?v=0wScyBRdLwE&feature=youtu.be&t=464) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-44.md#alex-evans-discussing-a-ratings-based-model-for-credit-events-in-makerdao-0743)
+- [July 11, 2020: Collateral Risk Quantitative Analysis - part 3 with Cyrus Younessi](https://www.youtube.com/watch?v=DlH0bMvqO9w&feature=youtu.be&t=798) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-43.md#cyrus-quantitative-modeling-1320)
+- [Jun 27, 2020: Collateral Risk Quantitative Analysis - part 2 with Cyrus Younessi](https://www.youtube.com/watch?v=pOA-TIOQBs8&feature=youtu.be&t=1417) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-41.md#cyrus-single-cdp-credit-risk-model-2337)
+- [Jun 20, 2020: Collateral Risk: Quantitative Analysis - part 1 with Cyrus Younessi](https://www.youtube.com/watch?v=lSfXtvCplwc&feature=youtu.be&t=1502) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-40.md#cyrus-quantitative-analysis-2502)
 
 ### Analytics
 
 - [Governance Analytics Dashboard](https://mkrgov.science)
   - [Governance Poll History](https://mkrgov.science/polls)
   - [Executive Vote History](https://mkrgov.science/executive)
+- [MCD Parameter Changelog, based on passed Executive Votes](https://catflip.co/changelog)
 
 ### Meetings and Discussions
 
@@ -436,7 +509,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
 - [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
-
 
 ## Dai
 
@@ -618,6 +690,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Crypto | Fiat - On/Off Ramps
 
 - [Buenbit](https://www.buenbit.com/): Argentina | Peru
+- [Easy Crypto](https://easycrypto.ai/): Australia | New Zealand | South Africa
 - [Elastum](https://elastum.io/): EU | Global
   - [Unsupported Countries and US States](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
 - [Orionx](https://www.orionx.com): Mexico | Chile
@@ -652,9 +725,10 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
 - [DaiStats](https://daistats.com/): Dai Statistics
-- [DeFi.ai](https://defi.ai/dai): Exposes profit opportunities to buy or sell Dai on Coinbase and Radar, when Dai is trading below or above its \$1 peg
+- [DeFi.ai](https://defi.ai/dai): Provides Coinbase and Radar pricing data, showing where Dai trades in comparison to its $1 soft peg.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
+- [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
 - [MCD State](http://mcdstate.info/)
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
@@ -818,6 +892,11 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Interview by Tyson O'Ham (July 2016)*
 
 ### Podcasts
+
+#### 2019 | Broadcasts
+
+- [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
+*Ethereal Podcast (March 2020)*
 
 #### 2019 | Broadcasts
 
