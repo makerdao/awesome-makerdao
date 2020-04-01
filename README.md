@@ -672,15 +672,20 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Custodial Exchanges
 
 - [Bitfinex](https://www.bitfinex.com): Hong Kong
+- [Bitkub](https://www.bitkub.com/market/DAI): Thailand
 - [Coinbase](https://pro.coinbase.com/trade/DAI-USDC): USA
+- [CoinJar](https://exchange.coinjar.com/trade): Australia
+- [Coinone](https://coinone.co.kr/exchange/trade/dai/krw): Korea
 - [COSS.IO](https://coss.io/): Singapore
 - [Exmo](https://exmo.com/en/trade#?pair=DAI_ETH): England
 - [Gate.io](https://www.gate.io/trade/DAI_USDT): USA
 - [Hanbitco](https://www.hanbitco.com/exchange/dai_btc): South Korea
 - [HitBTC](https://hitbtc.com/ETH-to-DAI): EU
+- [INDODAX](https://indodax.com/market/DAIIDR): Indonesia
 - [Korbit](https://www.korbit.co.kr/markets/?market=dai-krw): South Korea
 - [Kraken](https://trade.kraken.com/ko/markets/kraken/dai/usd): USA
 - [KuCoin](https://trade.kucoin.com/spot): Hong Kong
+- [OKEx](https://www.okex.com/en/spot/trade/btc-dai): Malta
 - [Panda](https://panda.exchange/en-IC/): Latin America
 - [Probit](https://www.probit.com/en-us): Republic of Seychelles
 - [Tokpie](https://tokpie.com/view_exchange/dai-usdc/): Hong Kong
