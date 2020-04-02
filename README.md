@@ -797,8 +797,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2018
 
-- [Happy BirthDAI: One Year Since Dai's Launch](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
-*Medium Post by MakerDAO (December 2018)* // TODO: 410 error
+- [Happy BirthDAI: One Year Since Dai's Launch](https://blog.makerdao.com/happy-birthdai/)
+*Blog Post by MakerDAO (December 2018)* // TODO: test link
 - [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 *Tweet Post by Mike McDonald (November 2018)*
 - [Introducing the New CDP Portal for Single Collateral Dai](https://blog.makerdao.com/introducing-the-new-cdp-portal-for-single-collateral-dai/)
