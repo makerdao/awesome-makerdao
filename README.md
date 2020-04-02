@@ -723,7 +723,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
 - [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
-- [Daiprice](https://www.daiprice.info/): Dai USD Price Tracker and Metrics // TODO: 404 error
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
