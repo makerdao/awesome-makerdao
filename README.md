@@ -601,7 +601,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Spend Dai
 
-- [Aave Pay](https://pay.aave.com/): Use crypto to send fiat payments to anyone // TODO: site can't be reached
+- [Aave](https://aave.com/): Use crypto to send fiat payments to anyone // TODO: test this link
 - [AdEx Network](https://www.adex.network): Platform for decentralized advertising using Dai as payment method
 - [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
