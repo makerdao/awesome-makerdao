@@ -390,7 +390,7 @@ Maker values the opinions of informed members who participate in on-going Govern
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
 *Medium Post by Banteg (December 2018)*
 - [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://blog.makerdao.com/foundation-proposal/)
-*Medium Post by MakerDAO (August 2018 | June 2018)*
+*Blog Post by MakerDAO (August 2018 | June 2018)*
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50)
 *Medium Post by David Utrobin (April 2018)*
 - [Maker Governance: Exploring the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
