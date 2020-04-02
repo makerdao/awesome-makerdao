@@ -124,7 +124,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Blog](https://blog.makerdao.com/)
 - [Forum](https://forum.makerdao.com/)
 - [Kakaotalk](https://open.kakao.com/o/giWg6J2) <!-- works on mobile app -->
-- [Medium](https://medium.com/@MakerDAO) // TODO: 404 error
+- [Medium](https://web.archive.org/web/20191123235822/https://medium.com/@MakerDAO) <!-- wayback machine -->
 - [Reddit](https://www.reddit.com/r/MakerDAO)
 - [RocketChat](https://chat.makerdao.com/)
 - [Soundcloud](https://soundcloud.com/makerdao)
