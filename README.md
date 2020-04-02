@@ -293,7 +293,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 #### MakerDAO 101
 
 - [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e)
-*Medium Post by MakerDAO (April 2018)* // 410 error
+*Medium Post by MakerDAO (April 2018)* // TODO: 410 error
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720)
 *Medium Post by Deepit AG (September 2018)*
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/)
@@ -307,7 +307,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 #### MakerDAO 201
 
 - [Measuring Dai Supply and Demand Price Effects](https://insights.santiment.net/read/measuring-dai-supply-and-demand-price-effects-623)
-*Post by Primoz Kordez on Santiment (August 2019)* // TODO: test this link
+*Post by Primoz Kordez on Santiment (August 2019)*
 - [A Ratings-Based Model for Credit Events in MakerDAO](https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5d25fc556a956b0001aa2c62/1562770517350/Maker-Ratings.pdf)
 *Paper by Alex Evans (July 2019)*
 - [Maker Network Overview: Placeholder VC](https://www.placeholder.vc/blog/2019/3/1/maker-network-report)
