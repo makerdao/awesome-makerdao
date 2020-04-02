@@ -811,8 +811,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Blog Post by MakerDAO (September 2018)*
 - [Multi-Collateral Dai Code Open for Review](https://blog.makerdao.com/part-1-why-stablecoins-matter/)
 *Blog Post by MakerDAO (September 2018)*
-- [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
-*Medium Post by MakerDAO (August 2018)* // TODO: 410 error
+- [Dai Savings Rate Announced](https://blog.makerdao.com/dai-savings-rate/)
+*Blog Post by MakerDAO (August 2018)* // TODO: test link
 - [Debt Ceiling Raised to $100MM USD](https://blog.makerdao.com/we-raised-the-roof/)
 *Blog Post by MakerDAO (July 2018)*
 
