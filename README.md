@@ -641,6 +641,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [1inch.exchange](https://1inch.exchange/)
 - [Airswap](https://instant.airswap.io/)
 - [Bancor](https://www.bancor.network/)
+- [Collateral Swap](https://collateralswap.com/) // TODO: test this
 - [DEX.AG](https://dex.ag/)
 - [KyberSwap](https://kyberswap.com/swap)
 - [Liquality](https://liquality.io/)
