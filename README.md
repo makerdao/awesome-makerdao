@@ -114,7 +114,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Whitepaper](https://makerdao.com/whitepaper/)
 - [Vault Portal](https://oasis.app/borrow/)
 - [Community Portal](https://community-development.makerdao.com/)
-- [Developer Portal](https://developer.makerdao.com/) // TODO: these docs say DAI 1.0
+- [Developer Portal](https://docs.makerdao.com/mcd-developer-guides/developer-guides-and-tutorials)
 - [Governance Portal](https://vote.makerdao.com/)
 - [Maker Documentation Portal](https://docs.makerdao.com/)
 - [Oasis](https://oasis.app)
