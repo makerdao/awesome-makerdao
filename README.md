@@ -801,8 +801,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Medium Post by MakerDAO (December 2018)* // TODO: 410 error
 - [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 *Tweet Post by Mike McDonald (November 2018)*
-- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
-*Medium Post by MakerDAO (October 2018)* // TODO: 410 error
+- [Introducing the New CDP Portal for Single Collateral Dai](https://blog.makerdao.com/introducing-the-new-cdp-portal-for-single-collateral-dai/)
+*Blog Post by MakerDAO (October 2018)* // TODO: test this
 - [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
 *Medium Post by MakerDAO (October 2018)* // TODO: 410 error
 - [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
