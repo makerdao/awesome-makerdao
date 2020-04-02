@@ -383,8 +383,8 @@ Maker values the opinions of informed members who participate in on-going Govern
 
 ### Governance Resources
 
-- [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
-*Medium Posts by MakerDAO (July 2018 | December 2018)* // TODO: all links 410 error
+- [MakerDAO Governance Risk Framework Part 1](https://blog.makerdao.com/makerdao-governance-risk-framework/) | [Part 2](https://blog.makerdao.com/makerdao-governance-risk-framework-part-2/) | [Part 3](https://blog.makerdao.com/makerdao-governance-risk-framework-part-3/)
+*Blog Posts by MakerDAO (July 2018 | December 2018)* // TODO: test all links
 - [Lessons From MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a)
 *Medium Post by Nick Tomaino (February 2018)*
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
