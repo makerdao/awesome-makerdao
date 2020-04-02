@@ -515,7 +515,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Generate Dai
 
-- Vault Onboarding Guide: _coming soon_ // find link for this
+- Vault Onboarding Guide: _coming soon_ // TODO: find link for this
 - [Oasis Vault Portal](https://oasis.app/borrow): Lock Collateral in Maker Vaults to Generate Dai
 
 #### Third Party Vault Portals
