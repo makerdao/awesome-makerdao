@@ -293,7 +293,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 #### MakerDAO 101
 
 - [How Dai Addresses Centralization and Counterparty Risk](https://blog.makerdao.com/how-dai-addresses-centralization-and-counterparty-risk/)
-*Blog Post by MakerDAO (April 2018)* // TODO: test link
+*Blog Post by MakerDAO (April 2018)*
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720)
 *Medium Post by Deepit AG (September 2018)*
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/)
