@@ -814,7 +814,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
 *Medium Post by MakerDAO (August 2018)* // TODO: 410 error
 - [Debt Ceiling Raised to $100MM USD](https://blog.makerdao.com/we-raised-the-roof/)
-*Blog Post by MakerDAO (July 2018)* // TODO: check dollar sign
+*Blog Post by MakerDAO (July 2018)*
 
 ### 2017
 
