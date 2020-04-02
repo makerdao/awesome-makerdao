@@ -645,7 +645,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [KyberSwap](https://kyberswap.com/swap)
 - [Liquality](https://liquality.io/)
 - [SimpleSwap](https://simpleswap.io/)
-- [Swap.online](https://swap.online/) // TODO: site can't be reached
+- [Swap.online](https://swaponline.io/) // TODO: test this
 - [Uniswap](https://uniswap.exchange/swap)
 - [Tokenlon](https://tokenlon.im/instant)
 - [Zerion](https://zerion.io)
