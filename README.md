@@ -807,8 +807,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Medium Post by MakerDAO (October 2018)* // TODO: 410 error
 - [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
 *Ratified Governance Poll (September 2018)*
-- [Introducing the Governance Voting UI for the Maker Foundational Vote](https://medium.com/makerdao/introducing-the-governance-voting-ui-for-the-maker-foundational-vote-3fa669551ce1)
-*Medium Post by MakerDAO (September 2018)* // TODO: 410 error
+- [Introducing the Governance Voting UI for the Maker Foundational Vote](https://blog.makerdao.com/introducing-the-governance-voting-ui-for-the-maker-foundational-vote/)
+*Medium Post by MakerDAO (September 2018)* // TODO: test this
 - [Multi-Collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
 *Medium Post by MakerDAO (September 2018)* // TODO: 410 error
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
