@@ -114,7 +114,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Whitepaper](https://makerdao.com/whitepaper/)
 - [Vault Portal](https://oasis.app/borrow/)
 - [Community Portal](https://community-development.makerdao.com/)
-- [Developer Portal](https://docs.makerdao.com/mcd-developer-guides/developer-guides-and-tutorials) <!-- Is there an Official Developer Portal? -->
+- [Developer Portal](https://docs.makerdao.com/mcd-developer-guides/developer-guides-and-tutorials)
 - [Governance Portal](https://vote.makerdao.com/)
 - [Maker Documentation Portal](https://docs.makerdao.com/)
 - [Oasis](https://oasis.app)
@@ -123,8 +123,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [Blog](https://blog.makerdao.com/)
 - [Forum](https://forum.makerdao.com/)
-- [Kakaotalk](https://open.kakao.com/o/giWg6J2) <!-- works on mobile app -->
-- [Medium](https://web.archive.org/web/20191123235822/https://medium.com/@MakerDAO) <!-- wayback machine -->
+- [Kakaotalk](https://open.kakao.com/o/giWg6J2)
 - [Reddit](https://www.reddit.com/r/MakerDAO)
 - [RocketChat](https://chat.makerdao.com/)
 - [Soundcloud](https://soundcloud.com/makerdao)
