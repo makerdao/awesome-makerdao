@@ -731,7 +731,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
-- [MCD State](http://mcdstate.info/) // TODO: Internal Server Error
+- [MCD State](http://mcdstate.info/) // TODO: Internal Server Error, asked tomasz if defunct
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
