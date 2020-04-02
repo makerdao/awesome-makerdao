@@ -618,12 +618,12 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Lend Dai
 
+- [Aave](https://aave.com/): Open Source and Non-Custodial Lending and Borrowing // TODO: test this
 - [Celcius](https://celsius.network/): Custodial Lending and Borrowing
 - [Compound.Finance](https://app.compound.finance/): Decentralized Lending and Borrowing
 - [Dharma](https://www.dharma.io/): Pretty Compound UI
 - [DyDx](https://dydx.exchange/): Decentralized Trading, Lending, and Borrowing
 - [Ethichub](https://ethichub.com/en): P2P Lending to Communities Around the Globe
-- [ETHLend](https://ethlend.io/): Loan Marketplace // TODO: depricated
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
