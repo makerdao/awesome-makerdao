@@ -610,7 +610,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Grid Plus Energy](https://gridplus.io/energy): Pay for electricity with Dai, ETH, or BTC (Texas)
 - [Living Room of Satoshi](https://www.livingroomofsatoshi.com/): Pay any bill with cryptocurrency (Australia)
 - [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features 
-- [NeedsList](https://needslist.co): Purchase items that are critically needed and help with disaster preparedness // TODO: test this
+- [NeedsList](https://needslist.co): Purchase items that are critically needed and help with disaster preparedness
 - [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
 - [Swarm](https://www.swarm.fund/): Participate in security token offerings
 - [Unicef](https://lp.unicef.fr/donate-dai/): Donate Dai
