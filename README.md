@@ -306,7 +306,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### MakerDAO 201
 
-- [Measuring Dai Supply and Demand Price Effects](https://app.santiment.net/insights/read/measuring-dai-supply-and-demand-price-effects-623) // TODO: misdirected
+- [Measuring Dai Supply and Demand Price Effects](https://insights.santiment.net/read/measuring-dai-supply-and-demand-price-effects-623) // TODO: misdirected
 *Post by Primoz Kordez on Santiment (August 2019)*
 - [A Ratings-Based Model for Credit Events in MakerDAO](https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5d25fc556a956b0001aa2c62/1562770517350/Maker-Ratings.pdf)
 *Paper by Alex Evans (July 2019)*
