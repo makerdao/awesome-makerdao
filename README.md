@@ -189,7 +189,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [MakerDAO (MKR): Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/)
 *Article by Londonletter (June 2018)*
 - [Primer on Stablecoins: Part 1](https://blog.makerdao.com/part-1-why-stablecoins-matter-2/) | [Part 2](https://blog.makerdao.com/part-2-a-primer-on-dai-2/) | [Part 3](https://blog.makerdao.com/part-3-the-strengths-weaknesses-of-stablecoins/)
-*Medium Series by MakerDAO (June 2018)*
+*Blog Series by MakerDAO (June 2018)*
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
 - [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
@@ -292,8 +292,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### MakerDAO 101
 
-- [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e)
-*Medium Post by MakerDAO (April 2018)* // TODO: 410 error
+- [How Dai Addresses Centralization and Counterparty Risk](https://blog.makerdao.com/how-dai-addresses-centralization-and-counterparty-risk/)
+*Blog Post by MakerDAO (April 2018)* // TODO: test link
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720)
 *Medium Post by Deepit AG (September 2018)*
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/)
