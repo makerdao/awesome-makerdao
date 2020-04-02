@@ -618,7 +618,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Lend Dai
 
-- [Aave](https://aave.com/): Open Source and Non-Custodial Lending and Borrowing // TODO: test this
+- [Aave](https://aave.com/): Open Source and Non-Custodial Lending and Borrowing
 - [Celcius](https://celsius.network/): Custodial Lending and Borrowing
 - [Compound.Finance](https://app.compound.finance/): Decentralized Lending and Borrowing
 - [Dharma](https://www.dharma.io/): Pretty Compound UI
