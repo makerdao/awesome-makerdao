@@ -809,8 +809,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Ratified Governance Poll (September 2018)*
 - [Introducing the Governance Voting UI for the Maker Foundational Vote](https://blog.makerdao.com/introducing-the-governance-voting-ui-for-the-maker-foundational-vote/)
 *Blog Post by MakerDAO (September 2018)*
-- [Multi-Collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
-*Medium Post by MakerDAO (September 2018)* // TODO: 410 error
+- [Multi-Collateral Dai Code Open for Review](https://blog.makerdao.com/part-1-why-stablecoins-matter/)
+*Medium Post by MakerDAO (September 2018)* // TODO: test this
 - [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
 *Medium Post by MakerDAO (August 2018)* // TODO: 410 error
 - [Debt Ceiling Raised to \$100MM USD](https://medium.com/makerdao/we-raised-the-roof-fbe8663442d1)
