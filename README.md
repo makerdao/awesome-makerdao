@@ -821,9 +821,9 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Sai V1 Globally Settled](https://www.reddit.com/r/MakerDAO/comments/7lhbmx/psa_sai_now_globally_settled/)
 *Reddit Post by MakerDAO (December 2017)*
 - [Dai V1 Launched](https://blog.makerdao.com/dai-is-now-live/)
-*Blog Post by MakerDAO (December 2017)* // TODO: test this
+*Blog Post by MakerDAO (December 2017)*
 - [Dai V1 Audited](https://blog.makerdao.com/single-collateral-dai-source-code-and-security-reviews/)
-*Blog Post by MakerDAO (December 2017)* // TODO: test this
+*Blog Post by MakerDAO (December 2017)*
 - [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 *MakerDAO Blog Post by Andy Milenius (June 2017)*
 - [Establishment of the Dai Foundation](https://web.archive.org/web/20170603093744/https://blog.makerdao.com/2017/02/19/establishment-of-the-dai-foundation/)
