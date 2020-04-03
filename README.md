@@ -1130,7 +1130,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Is It Time For Crypto Exchanges to Replace the Dollar?](https://www.trustnodes.com/2018/04/11/time-crypto-exchanges-replace-dollar)
 *Article by Trustnodes (April 2018)*
 - [Dai CDP User Stories](https://web.archive.org/web/20191019044531/https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda)
-*Medium Post by MakerDAO (February 2018)* // TODO: test link
+*Medium Post by MakerDAO (February 2018)*
 - [MakerDAO and More: The Quest for a Stable Stablecoin Continues](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/)
 *Coindesk Article by Rachel Rose O'Leary (January 2018)*
 
