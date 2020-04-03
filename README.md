@@ -1300,7 +1300,7 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 *Video by Maker 说 (August 2018)*
 
 - [Elementarz MakerDAO: Primer on MakerDAO in Polish](https://medium.com/@reuptake/elementarz-makerdao-ee20a6b8a9f8)
-*Medium Post by Marcin Jagodziński (March 2019)
+*Medium Post by Marcin Jagodziński (March 2019)*
 
 #### Translated FAQs
 
