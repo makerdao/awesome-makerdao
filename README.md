@@ -803,8 +803,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Tweet Post by Mike McDonald (November 2018)*
 - [Introducing the New CDP Portal for Single Collateral Dai](https://blog.makerdao.com/introducing-the-new-cdp-portal-for-single-collateral-dai/)
 *Blog Post by MakerDAO (October 2018)*
-- [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
-*Medium Post by MakerDAO (October 2018)* // TODO: 410 error
+- [Announcing the MakerDAO Core Community Development Initiative](https://web.archive.org/web/20190518020147/https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
+*Medium Post by MakerDAO (October 2018)* // TODO: test link
 - [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
 *Ratified Governance Poll (September 2018)*
 - [Introducing the Governance Voting UI for the Maker Foundational Vote](https://blog.makerdao.com/introducing-the-governance-voting-ui-for-the-maker-foundational-vote/)
