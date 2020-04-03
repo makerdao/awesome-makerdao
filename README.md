@@ -1103,16 +1103,16 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 #### 2018 | Mentions
 
-- [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
-*Medium Post by Max Bronstein (December 2018)* // TODO: no posts found
+- [Exploring the Emerging Crypto Debt Markets](https://maxbronstein.com/exploring-emerging-crypto-debt-markets/)
+*Blog Post by Max Bronstein (December 2018)* // TODO: test link
 - [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369)
 *Medium Post by David Hoffman (December 2018)*
 - [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance)
 *Article by Trustnodes (December 2018)*
-- [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)* // TODO: 410 error
-- [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)* // TODO: 410 error
+- [Stablecoins: Collateralization Types](https://blog.makerdao.com/stablecoins-collateralization-types/)
+*MakerDAO Blog Post by Brian D. Colwell (December 2018)* // TODO: test link
+- [Stablecoins: Use Cases](https://blog.makerdao.com/stablecoins-use-cases/)
+*MakerDAO Blog Post by Brian D. Colwell (December 2018)* // TODO: test link
 - [DAI Moved Nearly \$200 Million Worth of Decentralized Tokenized Dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars)
 *Article by Trustnodes (November 2018)*
 - [Twelve Reasons I’m Bullish About Ethereum Today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2)
