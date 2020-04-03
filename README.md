@@ -943,7 +943,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [MakerDAO Founder and CEO Rune Christensen: Why Dai Will Displace Stablecoin Tethers (Episode 5)](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
 *51 Percent (October 2018)*
 - [Rune Christensen of MakerDAO on \$15 Million from Andreessen Horowitz - Ep. 039](https://unconfirmed.libsyn.com/rune-christensen-of-makerdao-on-its-15-million-from-andreessen-horowitz-ep039)
-*Unconfirmed Podcast (September 2018)* // TODO: test this link
+*Unconfirmed Podcast (September 2018)*
 - [101 Series: Stablecoins](https://www.cryptobasicpodcast.com/home/stablecoins)
 *Crypto Basic Podcast (September 2018)*
 - [BlockZero #006 - MakerDAO & The Dai Stable Coin: Founder Rune Christensen](https://blockzero.simplecast.com/episodes/006-makerdao-the-dai-stable-coin-founder-08860ac9)
