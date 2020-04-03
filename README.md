@@ -710,7 +710,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Monitor Vaults
 
-- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator // TODO: requested access to sheet twice
+- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator <!-- requested access to sheet twice, has not been granted -->
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
 - [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
@@ -731,7 +731,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
-- [MCD State](http://mcdstate.info/) // TODO: Internal Server Error, asked tomasz if defunct
+- [MCD State](http://mcdstate.info/) <!-- Internal Server Error, asked tomasz if defunct. Site was crawled by google 4 days prior to testing -->
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
