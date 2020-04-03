@@ -721,7 +721,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Analytics and Metrics
 
 - [Daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
-- [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
@@ -729,8 +728,10 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DaiStats](https://daistats.com/): Dai Statistics
 - [DeFi.ai](https://defi.ai/dai): Provides Coinbase and Radar pricing data, showing where Dai trades in comparison to its $1 soft peg.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
+- [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
+- [MCD Collateral Auctions](https://daiauctions.com/): View the Collateral Auction process
 - [MCD State](http://mcdstate.info/): Data on individual Vaults <!-- Internal Server Error, asked tomasz if defunct. Site was crawled by google 4 days prior to testing -->
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
