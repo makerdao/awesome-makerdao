@@ -731,7 +731,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
-- [MCD State](http://mcdstate.info/) <!-- Internal Server Error, asked tomasz if defunct. Site was crawled by google 4 days prior to testing -->
+- [MCD State](http://mcdstate.info/): Data on individual Vaults <!-- Internal Server Error, asked tomasz if defunct. Site was crawled by google 4 days prior to testing -->
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
@@ -1097,7 +1097,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 - [Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 *Placeholder VC Post by Chris Burniske and Joel Monegro (January 2019)*
 - [Lender of First Resort](https://blog.makerdao.com/lender-of-first-resort/)
-*MakerDAO Post by ProgrammableTX (January 2019)*
+*MakerDAO Blog Post by ProgrammableTX (January 2019)*
 - [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 *Medium Post by Andy Tudhope (January 2019)*
 
