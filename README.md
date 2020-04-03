@@ -1092,12 +1092,12 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Decrypt Post by Ben Munster (February 2019)*
 - [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590)
 *Medium Post by Cyrus Younessi (January 2019)*
-- [Stablecoins: Strengths & Weaknesses](https://blog.makerdao.com/stablecoins-strengths-weaknesses/) // TODO: test link
+- [Stablecoins: Strengths & Weaknesses](https://blog.makerdao.com/stablecoins-strengths-weaknesses/)
 *MakerDAO Blog Post by Brian D. Colwell (January 2019)*
 - [Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 *Placeholder VC Post by Chris Burniske and Joel Monegro (January 2019)*
 - [Lender of First Resort](https://blog.makerdao.com/lender-of-first-resort/)
-*MakerDAO Post by ProgrammableTX (January 2019)* // TODO: test link
+*MakerDAO Post by ProgrammableTX (January 2019)*
 - [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 *Medium Post by Andy Tudhope (January 2019)*
 
