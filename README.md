@@ -710,7 +710,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Monitor Vaults
 
-- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator <!-- requested access to sheet twice, has not been granted -->
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
 - [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
