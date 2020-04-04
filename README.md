@@ -192,7 +192,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Blog Series by MakerDAO (June 2018)*
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
-- [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
+- [Messari: MakerDAO Analysis](https://bit.ly/2UGLLDS)
 *Analysis by Roy Learner (April 2018)*
 - [The Dai Stablecoin is a Game Changer](https://medium.com/@james_3093/the-dai-stablecoin-is-a-game-changer-for-ethereum-and-the-entire-cryptocurrency-ecosystem-13fb412d1e75)
 *Medium Post by James Seibel (April 2018)*
