@@ -41,7 +41,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Governance | Risk
 
-- [Overview](#governance-resources)
+- [Overview](#governance-and-risk)
 - [Governance Resources](#governance-resources)
 - [Key Votes](#key-votes)
 - [Important Forum Threads](#important-forum-threads)
@@ -112,9 +112,9 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 - [MakerDAO Website](https://makerdao.com/)
 - [Whitepaper](https://makerdao.com/whitepaper/)
-- [CDP Portal](https://cdp.makerdao.com/)
+- [Vault Portal](https://oasis.app/borrow/)
 - [Community Portal](https://community-development.makerdao.com/)
-- [Developer Portal](https://developer.makerdao.com/)
+- [Developer Portal](https://docs.makerdao.com/mcd-developer-guides/developer-guides-and-tutorials)
 - [Governance Portal](https://vote.makerdao.com/)
 - [Maker Documentation Portal](https://docs.makerdao.com/)
 - [Oasis](https://oasis.app)
@@ -124,7 +124,6 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Blog](https://blog.makerdao.com/)
 - [Forum](https://forum.makerdao.com/)
 - [Kakaotalk](https://open.kakao.com/o/giWg6J2)
-- [Medium](https://medium.com/@MakerDAO)
 - [Reddit](https://www.reddit.com/r/MakerDAO)
 - [RocketChat](https://chat.makerdao.com/)
 - [Soundcloud](https://soundcloud.com/makerdao)
@@ -138,7 +137,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - Community Meetings
 [Join](https://meet.google.com/idg-znme-kvt) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
 - Scientific Governance and Risk Meetings
-[Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+[Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
 
 ### Upcoming Events
 
@@ -189,8 +188,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by Chelo Cavazzoli (July 2018)*
 - [MakerDAO (MKR): Replacing Federal Reserve With Lines of Code](https://londonletter.org/makerdao/)
 *Article by Londonletter (June 2018)*
-- [Primer on Stablecoins: Part 1](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f)
-*Medium Series by MakerDAO (June 2018)*
+- [Primer on Stablecoins: Part 1](https://blog.makerdao.com/part-1-why-stablecoins-matter-2/) | [Part 2](https://blog.makerdao.com/part-2-a-primer-on-dai-2/) | [Part 3](https://blog.makerdao.com/part-3-the-strengths-weaknesses-of-stablecoins/)
+*Blog Series by MakerDAO (June 2018)*
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
 - [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
@@ -293,8 +292,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### MakerDAO 101
 
-- [How Dai Addresses Centralization and Counterparty Risk](https://medium.com/makerdao/how-dai-addresses-centralization-and-counterparty-risk-3abce5932b4e)
-*Medium Post by MakerDAO (April 2018)*
+- [How Dai Addresses Centralization and Counterparty Risk](https://blog.makerdao.com/how-dai-addresses-centralization-and-counterparty-risk/)
+*Blog Post by MakerDAO (April 2018)*
 - [Ether Deflation Caused by MakerDAO Part 1](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-1-723b89bb24f7) | [Part 2](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-2-8e5a12f1d34e) | [Part 3](https://medium.com/@deepitag/ether-deflation-as-caused-by-makerdao-part-3-a-spur-of-the-moment-analysis-39d0d0d51720)
 *Medium Post by Deepit AG (September 2018)*
 - [Maker DAO Network Analysis](https://santiment.net/blog/makerdao-network-analysis/)
@@ -303,11 +302,11 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by David Hoffman (December 2018)*
 - [MakerDAO Token Economics: An Independent Research Report](https://www.economicsdesign.com/portfolio/makerdao/)
 *Research Report by Lisa JY Tan (September 2019)*
-- [Rise of the Cryptodollar, a look at DeFi Interest Rates](https://bankless.substack.com/p/rise-of-the-cryptodollar)
+- [Rise of the Cryptodollar, a look at DeFi Interest Rates](https://bankless.substack.com/p/rise-of-the-cryptodollar) *Blog Post by Ryan Sean Adams (February 2020)*
 
 #### MakerDAO 201
 
-- [Measuring Dai Supply and Demand Price Effects](https://app.santiment.net/insights/read/measuring-dai-supply-and-demand-price-effects-623)
+- [Measuring Dai Supply and Demand Price Effects](https://insights.santiment.net/read/measuring-dai-supply-and-demand-price-effects-623)
 *Post by Primoz Kordez on Santiment (August 2019)*
 - [A Ratings-Based Model for Credit Events in MakerDAO](https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5d25fc556a956b0001aa2c62/1562770517350/Maker-Ratings.pdf)
 *Paper by Alex Evans (July 2019)*
@@ -317,8 +316,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Medium Post by Primoz Kordez (February 2019)*
 - [Evaluating MKR Buyback and Burn model](https://medium.com/@TrustlessState/evaluating-mkr-def6d36092bd)
 *Medium Post by David Hoffman (February 2019)*
-- [Dai in Numbers](https://medium.com/makerdao/dai-in-numbers-2710d8a5633a)
-*Medium Post by MakerDAO (February 2019)*
+- [Dai in Numbers](https://blog.makerdao.com/dai-in-numbers/)
+*Blog Post by MakerDAO (February 2019)*
 - [Examining the Supply of Maker Dai: An Analysis into CDP Demand](https://medium.com/coinmonks/examining-the-supply-of-maker-dai-b04fbab7b4cd)
 *Medium Post by Jack Purdy (January 2019)*
 - [The Auction Grinding Attack: A Case for a Liquidation Penalty in MCD](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf)
@@ -384,17 +383,17 @@ Maker values the opinions of informed members who participate in on-going Govern
 
 ### Governance Resources
 
-- [MakerDAO Governance Risk Framework Part 1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101) | [Part 2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9) | [Part 3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
-*Medium Posts by MakerDAO (July 2018 | December 2018)*
+- [MakerDAO Governance Risk Framework Part 1](https://blog.makerdao.com/makerdao-governance-risk-framework/) | [Part 2](https://blog.makerdao.com/makerdao-governance-risk-framework-part-2/) | [Part 3](https://blog.makerdao.com/makerdao-governance-risk-framework-part-3/)
+*Blog Posts by MakerDAO (July 2018 | December 2018)*
 - [Lessons From MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a)
 *Medium Post by Nick Tomaino (February 2018)*
 - [Deep Dive Into MakerDAO Governance: A Look at the Code for Governance in SCD](https://medium.com/@banteg/deep-dive-into-makerdao-governance-437c89493203)
 *Medium Post by Banteg (December 2018)*
-- [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://medium.com/makerdao/foundation-proposal-caeb382465c1)
-*Medium Post by MakerDAO (August 2018 | June 2018)*
+- [Foundation Proposal V2](https://blog.makerdao.com/foundation-proposal-v2/) | [V1](https://blog.makerdao.com/foundation-proposal/)
+*Blog Post by MakerDAO (August 2018 | June 2018)*
 - [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50)
 *Medium Post by David Utrobin (April 2018)*
-- [Maker Governance: Unwrapping the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
+- [Maker Governance: Exploring the Importance of Stability Fees](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
 *Article by Fitzner Blockchain Consulting (February 2019)*
 - [Introducing A New Governance On-Boarding Experience](https://blog.makerdao.com/makerdao-introducing-a-new-governance-on-boarding-experience/)
 *Medium Post by MakerDAO (May 2019)*
@@ -447,7 +446,7 @@ All Votes below have passed
 
 ### Governance Call Presentations
 
-- [Mar 24, 2020: Debt Auction Blocking in the Dai Credit System with Kurt Barry](https://www.youtube.com/watch?v=erh25lnaIo0&feature=youtu.be&t=475)
+- [Mar 24, 2020: Debt Auction Blocking in the Dai Credit System with Kurt Barry](https://www.youtube.com/watch?v=erh25lnaIo0&feature=youtu.be&t=475) | [Written Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries/episode-82)
 - [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#cyrus-younessi)
 - [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
 - [Feb 13, 2020: The Dark Fix (solution for handling bugs with the GSM delay) with Wil Barnes](https://youtu.be/e4VTkFV3lyc?t=1876) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-73.md#the-dark-fix)
@@ -479,7 +478,7 @@ All Votes below have passed
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
 - Scientific Governance and Risk Meetings
-  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/tracks) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
 
 ## Voting Basics
 
@@ -498,16 +497,16 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Voting Contract
 
-- [The MakerDAO Voting Proxy Contract](https://medium.com/makerdao/the-makerdao-voting-proxy-contract-5765dd5946b4)
+- [The MakerDAO Voting Proxy Contract](https://blog.makerdao.com/the-makerdao-voting-proxy-contract/)
 
 #### Setup Guides
 
 *Notice: The Voting Portal is undergoing an update.* 
 
-- [Maker Governance Voting Setup for Ledger](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
-- [Maker Governance Voting Setup for Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
-- [Maker Governance Voting Setup for MetaMask](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
-- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
+- [Maker Governance Voting Setup for Ledger](https://web.archive.org/web/20190112110248/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
+- [Maker Governance Voting Setup for Trezor](https://web.archive.org/web/20190112110249/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
+- [Maker Governance Voting Setup for MetaMask](https://web.archive.org/web/20190112110247/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
+- [Maker Governance Voting Setup for Paper Wallets Using SETH](https://web.archive.org/web/20180913234419/https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
 - [Video Voting Tutorial](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
 ## Dai
@@ -523,7 +522,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 - [DeFi Saver](https://defisaver.com/): Manage CDPs and Automate Liquidation Protection
 - [InstaDapp](https://instadapp.io/dapp/borrow/): Alternative CDP UI With Access to Lending and Borrowing
-- [Settle.finance](https://settle.finance/os): Alternative CDP UI Offering Additional Functionality
 - [Shadowlands](https://github.com/kayagoban/shadowlands): TextUI Dapp Platform built on Python3.5+, Web3 and Asciimatics
 - [Zerion](https://zerion.io): Interface to manage multiple Vaults and CDPs in a single place
 
@@ -587,7 +585,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [LNDR](https://blockmason.io/lndr/): Expense Sharing App
 - [Liquid Long](https://liquid-long.keydonix.com/): Leverage ETH
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
-- [Pool Dai](https://zeframlou.github.io/pool-dai/): Lossless Donation Protocol
+- [Pool Dai](https://zeframlou.github.io/pooldai/): Lossless Donation Protocol
 - [Request](https://app.request.network/): Request a Payment in Dai
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
@@ -603,7 +601,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Spend Dai
 
-- [Aave Pay](https://pay.aave.com/): Use crypto to send fiat payments to anyone
+- [Aave](https://aave.com/): Use crypto to send fiat payments to anyone
 - [AdEx Network](https://www.adex.network): Platform for decentralized advertising using Dai as payment method
 - [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
@@ -612,7 +610,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Grid Plus Energy](https://gridplus.io/energy): Pay for electricity with Dai, ETH, or BTC (Texas)
 - [Living Room of Satoshi](https://www.livingroomofsatoshi.com/): Pay any bill with cryptocurrency (Australia)
 - [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features 
-- [NeedsList](https://needslist.co/donate): Purchase items that are critically needed and help with disaster preparedness
+- [NeedsList](https://needslist.co): Purchase items that are critically needed and help with disaster preparedness
 - [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
 - [Swarm](https://www.swarm.fund/): Participate in security token offerings
 - [Unicef](https://lp.unicef.fr/donate-dai/): Donate Dai
@@ -620,12 +618,12 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 ### Lend Dai
 
+- [Aave](https://aave.com/): Open Source and Non-Custodial Lending and Borrowing
 - [Celcius](https://celsius.network/): Custodial Lending and Borrowing
 - [Compound.Finance](https://app.compound.finance/): Decentralized Lending and Borrowing
 - [Dharma](https://www.dharma.io/): Pretty Compound UI
 - [DyDx](https://dydx.exchange/): Decentralized Trading, Lending, and Borrowing
 - [Ethichub](https://ethichub.com/en): P2P Lending to Communities Around the Globe
-- [ETHLend](https://ethlend.io/): Loan Marketplace
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
@@ -643,11 +641,12 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [1inch.exchange](https://1inch.exchange/)
 - [Airswap](https://instant.airswap.io/)
 - [Bancor](https://www.bancor.network/)
+- [Collateral Swap](https://collateralswap.com/)
 - [DEX.AG](https://dex.ag/)
 - [KyberSwap](https://kyberswap.com/swap)
 - [Liquality](https://liquality.io/)
 - [SimpleSwap](https://simpleswap.io/)
-- [Swap.online](https://swap.online/)
+- [Swap.online](https://swaponline.io/)
 - [Uniswap](https://uniswap.exchange/swap)
 - [Tokenlon](https://tokenlon.im/instant)
 - [Zerion](https://zerion.io)
@@ -655,7 +654,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Non-Custodial Exchanges
 
 - [Changelly](https://changelly.com/)
-- [CoinChangeX](https://www.coinchangex.com/token/#!/trade/DAI-ETH)
 - [DDex](https://ddex.io/spot/ETH-DAI)
 - [DeversiFi](https://trustless.ethfinex.com/DAIETH)
 - [Dex.Blue](https://dex.blue/)
@@ -712,8 +710,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Monitor Vaults
 
-- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator
-- [CDP.FYI](https://cdp.fyi/): Receive Push Notifications When CDPs Reach Dangerous Levels
+- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator <!-- requested access to sheet twice, has not been granted -->
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
 - [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
@@ -724,18 +721,18 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Analytics and Metrics
 
 - [Daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
-- [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
-- [Daiprice](https://www.daiprice.info/): Dai USD Price Tracker and Metrics
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
 - [Defi Score](https://app.defiscore.io/assets/dai): Compare DeFi lending by asset
 - [Dai.stablecoin.science](https://dai.stablecoin.science/): Dai USD Price Tracker
 - [DaiStats](https://daistats.com/): Dai Statistics
 - [DeFi.ai](https://defi.ai/dai): Provides Coinbase and Radar pricing data, showing where Dai trades in comparison to its $1 soft peg.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
+- [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
-- [MCD State](http://mcdstate.info/)
+- [MCD Collateral Auctions](https://daiauctions.com/): View the Collateral Auction process
+- [MCD State](http://mcdstate.info/): Data on individual Vaults <!-- Internal Server Error, asked tomasz if defunct. Site was crawled by google 4 days prior to testing -->
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
@@ -749,7 +746,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFiPulse](https://defipulse.com/): DeFi Protocol Rankings and Analytics
 - [Loanscan](https://loanscan.io/): Analytics for Debt Issued on the Ethereum Blockchain
 - [TokenAnalyst: Stablecoins](https://www.tokenanalyst.io/stablecoins): Stablecoin Comparisons
-- [TRMLabs Insights](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD): Stablecoin Comparisons
 
 ## Milestones | Achievements
 
@@ -802,33 +798,33 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2018
 
-- [Happy BirthDAI: One Year Since Dai's Launch](https://medium.com/makerdao/happy-birthdai-4aee1166ef14)
-*Medium Post by MakerDAO (December 2018)*
+- [Happy BirthDAI: One Year Since Dai's Launch](https://blog.makerdao.com/happy-birthdai/)
+*Blog Post by MakerDAO (December 2018)*
 - [1,000,000 ETH Locked in the CDP Engine](https://twitter.com/mikeraymcdonald/status/1062384077280632833)
 *Tweet Post by Mike McDonald (November 2018)*
-- [Introducing the New CDP Portal for Single Collateral Dai](https://medium.com/makerdao/introducing-the-new-cdp-portal-for-single-collateral-dai-eeec1c766fde)
-*Medium Post by MakerDAO (October 2018)*
-- [Announcing the MakerDAO Core Community Development Initiative](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
-*Medium Post by MakerDAO (October 2018)*
+- [Introducing the New CDP Portal for Single Collateral Dai](https://blog.makerdao.com/introducing-the-new-cdp-portal-for-single-collateral-dai/)
+*Blog Post by MakerDAO (October 2018)*
+- [Announcing the MakerDAO Core Community Development Initiative](https://web.archive.org/web/20190518020147/https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
+*Medium Post by MakerDAO (October 2018)* <!-- This article exists in the wayback machine, but the link only works a few times -->
 - [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
 *Ratified Governance Poll (September 2018)*
-- [Introducing the Governance Voting UI for the Maker Foundational Vote](https://medium.com/makerdao/introducing-the-governance-voting-ui-for-the-maker-foundational-vote-3fa669551ce1)
-*Medium Post by MakerDAO (September 2018)*
-- [Multi-Collateral Dai Code Open for Review](https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73)
-*Medium Post by MakerDAO (September 2018)*
-- [Dai Savings Rate Announced](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
-*Medium Post by MakerDAO (August 2018)*
-- [Debt Ceiling Raised to \$100MM USD](https://medium.com/makerdao/we-raised-the-roof-fbe8663442d1)
-*Medium Post by MakerDAO (July 2018)*
+- [Introducing the Governance Voting UI for the Maker Foundational Vote](https://blog.makerdao.com/introducing-the-governance-voting-ui-for-the-maker-foundational-vote/)
+*Blog Post by MakerDAO (September 2018)*
+- [Multi-Collateral Dai Code Open for Review](https://blog.makerdao.com/part-1-why-stablecoins-matter/)
+*Blog Post by MakerDAO (September 2018)*
+- [Dai Savings Rate Announced](https://blog.makerdao.com/dai-savings-rate/)
+*Blog Post by MakerDAO (August 2018)*
+- [Debt Ceiling Raised to $100MM USD](https://blog.makerdao.com/we-raised-the-roof/)
+*Blog Post by MakerDAO (July 2018)*
 
 ### 2017
 
 - [Sai V1 Globally Settled](https://www.reddit.com/r/MakerDAO/comments/7lhbmx/psa_sai_now_globally_settled/)
 *Reddit Post by MakerDAO (December 2017)*
-- [Dai V1 Launched](https://medium.com/makerdao/dai-is-now-live-ad87e34fc826)
-*Medium Post by MakerDAO (December 2017)*
-- [Dai V1 Audited](https://medium.com/makerdao/single-collateral-dai-source-code-and-security-reviews-523e1a01a3c8)
-*Medium Post by MakerDAO (December 2017)*
+- [Dai V1 Launched](https://blog.makerdao.com/dai-is-now-live/)
+*Blog Post by MakerDAO (December 2017)*
+- [Dai V1 Audited](https://blog.makerdao.com/single-collateral-dai-source-code-and-security-reviews/)
+*Blog Post by MakerDAO (December 2017)*
 - [Introducing Sai](https://web.archive.org/web/20170606025602/https://blog.makerdao.com/2017/06/05/introducing-sai/)
 *MakerDAO Blog Post by Andy Milenius (June 2017)*
 - [Establishment of the Dai Foundation](https://web.archive.org/web/20170603093744/https://blog.makerdao.com/2017/02/19/establishment-of-the-dai-foundation/)
@@ -899,7 +895,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### Podcasts
 
-#### 2019 | Broadcasts
+#### 2020 | Broadcasts
 
 - [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
 *Ethereal Podcast (March 2020)*
@@ -947,7 +943,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *The Boost VC Podcast (October 2018)*
 - [MakerDAO Founder and CEO Rune Christensen: Why Dai Will Displace Stablecoin Tethers (Episode 5)](https://fiftyonepercent.podbean.com/e/episode-5-makerdao-founder-and-ceo-rune-christensen/)
 *51 Percent (October 2018)*
-- [Rune Christensen of MakerDAO on \$15 Million from Andreessen Horowitz - Ep. 039](https://soundcloud.com/unconfirmedpodcast/rune-christensen-of-makerdao)
+- [Rune Christensen of MakerDAO on \$15 Million from Andreessen Horowitz - Ep. 039](https://unconfirmed.libsyn.com/rune-christensen-of-makerdao-on-its-15-million-from-andreessen-horowitz-ep039)
 *Unconfirmed Podcast (September 2018)*
 - [101 Series: Stablecoins](https://www.cryptobasicpodcast.com/home/stablecoins)
 *Crypto Basic Podcast (September 2018)*
@@ -1097,27 +1093,27 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Decrypt Post by Ben Munster (February 2019)*
 - [An Elegant Relationship (DAI, ETH, MKR)](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590)
 *Medium Post by Cyrus Younessi (January 2019)*
-- [Stablecoins: Strengths & Weaknesses](https://medium.com/@MakerDAO/stablecoins-strengths-weaknesses-62cd47bb7fbf)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (January 2019)*
+- [Stablecoins: Strengths & Weaknesses](https://blog.makerdao.com/stablecoins-strengths-weaknesses/)
+*MakerDAO Blog Post by Brian D. Colwell (January 2019)*
 - [Maker Investment Thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 *Placeholder VC Post by Chris Burniske and Joel Monegro (January 2019)*
-- [Lender of First Resort](https://medium.com/makerdao/lender-of-first-resort-4f0fb52f0e0c)
-*Medium Post by MakerDAO Guest - ProgrammableTX (January 2019)*
+- [Lender of First Resort](https://blog.makerdao.com/lender-of-first-resort/)
+*MakerDAO Blog Post by ProgrammableTX (January 2019)*
 - [Daimonds in the Soles of Her Shoes](https://medium.com/@cryptowanderer/daimonds-in-the-soles-of-her-shoes-9c6a7c51c62d)
 *Medium Post by Andy Tudhope (January 2019)*
 
 #### 2018 | Mentions
 
-- [Exploring the Emerging Crypto Debt Markets](https://blog.dharma.io/exploring-the-emerging-crypto-debt-markets-36e3800fd7c5)
-*Medium Post by Max Bronstein (December 2018)*
+- [Exploring the Emerging Crypto Debt Markets](https://maxbronstein.com/exploring-emerging-crypto-debt-markets/)
+*Blog Post by Max Bronstein (December 2018)*
 - [MakerDAO: The Decentralized Global Reserve Bank](https://medium.com/pov-crypto/makerdao-the-decentralized-global-reserve-bank-98e174a53369)
 *Medium Post by David Hoffman (December 2018)*
 - [The Rise of Decentralized Finance](https://www.trustnodes.com/2018/12/10/the-rise-of-decentralized-finance)
 *Article by Trustnodes (December 2018)*
-- [Stablecoins: Collateralization Types](https://medium.com/makerdao/stablecoins-collateralization-types-2a860624dcd3)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)*
-- [Stablecoins: Use Cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633)
-*Medium Post by MakerDAO Guest - Brian D. Colwell (December 2018)*
+- [Stablecoins: Collateralization Types](https://blog.makerdao.com/stablecoins-collateralization-types/)
+*MakerDAO Blog Post by Brian D. Colwell (December 2018)*
+- [Stablecoins: Use Cases](https://blog.makerdao.com/stablecoins-use-cases/)
+*MakerDAO Blog Post by Brian D. Colwell (December 2018)*
 - [DAI Moved Nearly \$200 Million Worth of Decentralized Tokenized Dollars](https://www.trustnodes.com/2018/11/21/dai-moved-nearly-200-million-worth-of-decentralized-tokenized-dollars)
 *Article by Trustnodes (November 2018)*
 - [Twelve Reasons I’m Bullish About Ethereum Today](https://medium.com/crypto-nyc/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2)
@@ -1134,7 +1130,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 *Medium Post by David Utrobin (July 2018)*
 - [Is It Time For Crypto Exchanges to Replace the Dollar?](https://www.trustnodes.com/2018/04/11/time-crypto-exchanges-replace-dollar)
 *Article by Trustnodes (April 2018)*
-- [Dai CDP User Stories](https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda)
+- [Dai CDP User Stories](https://web.archive.org/web/20191019044531/https://medium.com/makerdao/dai-cdp-user-stories-36735f095fda)
 *Medium Post by MakerDAO (February 2018)*
 - [MakerDAO and More: The Quest for a Stable Stablecoin Continues](https://www.coindesk.com/makerdao-quest-stable-stablecoin-continues/)
 *Coindesk Article by Rachel Rose O'Leary (January 2018)*
@@ -1305,7 +1301,7 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 *Video by Maker 说 (August 2018)*
 
 - [Elementarz MakerDAO: Primer on MakerDAO in Polish](https://medium.com/@reuptake/elementarz-makerdao-ee20a6b8a9f8)
-*Medium Post by Marcin Jagodziński (March 2019)
+*Medium Post by Marcin Jagodziński (March 2019)*
 
 #### Translated FAQs
 
@@ -1323,7 +1319,7 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 - [MakerDAO 是什么？以太坊上的央行？| What is MakerDAO?](https://www.youtube.com/watch?v=-PJrpDO4JpY)
 *Video by Maker说 (August 2018)*
 - [MakerDAO ve DAI Nedir? | Kripto Para Yatırımı Yaptım (Oasis)](https://youtu.be/3b2-UrvNlPc)
-*Video by Bitcoin Kraliçesi(January 2020)
+*Video by Bitcoin Kraliçesi(January 2020)*
 
 ## Archived Resources
 
