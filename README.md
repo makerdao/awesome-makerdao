@@ -155,7 +155,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
 - [Dai Savings Rate](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr)
 - [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
-- [Governance(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance): new coming soon
+- [Governance](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance)
 - [Liquidation](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
 - [MakerDAO(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao): new coming soon
 - [MKR Token](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token)
