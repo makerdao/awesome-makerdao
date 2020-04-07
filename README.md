@@ -448,7 +448,6 @@ All Votes below have passed
 
 ### Governance Call Presentations
 
-- [Apr 07, 2020: Executive Vote Audit Tutorial with Chris Mooney](https://youtu.be/Gjx7PkHf_6o)
 - [Mar 24, 2020: Debt Auction Blocking in the Dai Credit System with Kurt Barry](https://www.youtube.com/watch?v=erh25lnaIo0&feature=youtu.be&t=475) | [Written Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries/episode-82)
 - [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#cyrus-younessi)
 - [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
