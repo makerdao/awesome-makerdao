@@ -224,6 +224,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### Video Tutorials
 
+- [Executive Vote Audit Tutorial with Chris Mooney](https://youtu.be/Gjx7PkHf_6o)
+*Video by MakerDAO (April 2020)*
 - [Governance Dashboard Video Walkthroughs: Voting with a Linked Wallet](https://www.youtube.com/watch?v=-zq6_ZJ0MpI)
 *Video by MakerDAO (May 2019)*
 - [Governance Dashboard Video Walkthroughs: Voting with a Single Wallet](https://www.youtube.com/watch?v=nWhLzyhZV-Q)
@@ -446,6 +448,7 @@ All Votes below have passed
 
 ### Governance Call Presentations
 
+- [Apr 07, 2020: Executive Vote Audit Tutorial with Chris Mooney](https://youtu.be/Gjx7PkHf_6o)
 - [Mar 24, 2020: Debt Auction Blocking in the Dai Credit System with Kurt Barry](https://www.youtube.com/watch?v=erh25lnaIo0&feature=youtu.be&t=475) | [Written Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries/episode-82)
 - [Mar 05, 2020: Collateral Risk Model Presentation with Cyrus Younessi](https://www.youtube.com/watch?v=ZT8flAjPKLU&feature=youtu.be&t=2693) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-76.md#cyrus-younessi)
 - [Feb 27, 2020: Oracles and Governance with Nik Kunkel](https://www.youtube.com/watch?v=6APWQZ_7y2g&feature=youtu.be&t=2006) | [Written Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-75.md#oracles)
@@ -752,6 +755,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2020
 
+- [MKR Token Authority transfer]()
+- [First Debt Auction]()
 - [First Surplus Auction](https://twitter.com/KentonPrescott/status/1223792492790706176?s=20) | [tx](https://etherscan.io/tx/%20%20%20%20%20%20%20%20%20%200x3e12197892310b9b50fc6ea89b66009e5d7e1a9c74afcd0c1821cb021a44d8f4)
 - [MKR Token Authority Transferred](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/) | [tx](https://etherscan.io/tx/0x6c3e56c4b99b280dddbff4f087c25d89c054421a202503fd49c36c6683e48fa1)
 *MakerDAO Blog Post (January 2020)*
