@@ -900,6 +900,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 #### 2020 | Broadcasts
 
+- [The Block Experience: Alex Van de Sande – The MakerDAO Situation & The Ethereum Foundation](https://thedailychain.com/the-block-experience-alex-van-de-sande-the-makerdao-situation-the-ethereum-foundation/)
+*The Block Experience Podcast (April 2020)*
 - [The Defiant: MakerDAO Founder Rune Christensen on DeFi’s Biggest Test Yet](https://anchor.fm/camila-russo/episodes/MakerDAO-Founder-Rune-Christensen-On-DeFis-Biggest-Test-Yet-ecgj0b)
 *The Defiant Podcast (April 2020)*
 - [OKCoin Let’s Chat: Dai’s Secret Sauce Is Decentralization with Greg Diprisco](https://blog.okcoin.com/2020/04/01/ok-lets-chat%e2%80%8a-%e2%80%8adais-secret-sauceis-decentralization/)
