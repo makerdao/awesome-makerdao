@@ -900,6 +900,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 #### 2020 | Broadcasts
 
+- [The Defiant: MakerDAO Founder Rune Christensen on DeFi’s Biggest Test Yet](https://anchor.fm/camila-russo/episodes/MakerDAO-Founder-Rune-Christensen-On-DeFis-Biggest-Test-Yet-ecgj0b)
 - [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
 *Ethereal Podcast (March 2020)*
 
