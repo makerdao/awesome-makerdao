@@ -901,6 +901,9 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 #### 2020 | Broadcasts
 
 - [The Defiant: MakerDAO Founder Rune Christensen on DeFi’s Biggest Test Yet](https://anchor.fm/camila-russo/episodes/MakerDAO-Founder-Rune-Christensen-On-DeFis-Biggest-Test-Yet-ecgj0b)
+*The Defiant Podcast (April 2020)*
+- [OKCoin Let’s Chat: Dai’s Secret Sauce Is Decentralization with Greg Diprisco](https://blog.okcoin.com/2020/04/01/ok-lets-chat%e2%80%8a-%e2%80%8adais-secret-sauceis-decentralization/)
+*OKCoin Let’s Chat Podcast (April 2020)*
 - [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
 *Ethereal Podcast (March 2020)*
 
