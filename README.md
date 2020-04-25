@@ -629,6 +629,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
+- [RAY](https://staked.us/v/robo-advisor-yield/): Earn the Highest Yield in DeFi 
 - [Zerion](https://zerion.io): Simple interface to the protocols of decentralized finance
 
 ### Trade Dai
