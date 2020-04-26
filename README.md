@@ -636,6 +636,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Dai and MKR Markets
 
 - [Messari](https://messari.io/): [DAI](https://messari.io/asset/Dai/exchanges) | [MKR](https://messari.io/asset/maker/exchanges)
+- [CoinGecko](https://www.coingecko.com/): [DAI](https://www.coingecko.com/en/coins/dai) | [MKR](https://www.coingecko.com/en/coins/maker)
 
 #### Token Swaps
 
