@@ -606,7 +606,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/): Buy gift cards with Dai
 - [CelerX](https://celerx.app/): Play eSports games, win crypto prizes
 - [Coinevents.io](https://coinevents.io): Event tickets, sell your event's tickets for crypto
-- [DAI Card](https://daicard.io/): Burner wallet to send and receive Dai
 - [Grid Plus Energy](https://gridplus.io/energy): Pay for electricity with Dai, ETH, or BTC (Texas)
 - [Living Room of Satoshi](https://www.livingroomofsatoshi.com/): Pay any bill with cryptocurrency (Australia)
 - [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features 
