@@ -155,7 +155,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 - [Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
 - [Dai Savings Rate](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr)
 - [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
-- [Governance(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance): new coming soon
+- [Governance](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance)
 - [Liquidation](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
 - [MakerDAO(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao): new coming soon
 - [MKR Token](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token)
@@ -192,7 +192,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 *Blog Series by MakerDAO (June 2018)*
 - [Intro to MakerDAO Part 1](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) | [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 *Articles by Blockgeeks (May 2018)*
-- [Messari: MakerDAO Analysis](https://messari.github.io/research/profiles/MakerDAO(MKR).pdf)
+- [Messari: MakerDAO Analysis](https://bit.ly/2UGLLDS)
 *Analysis by Roy Learner (April 2018)*
 - [The Dai Stablecoin is a Game Changer](https://medium.com/@james_3093/the-dai-stablecoin-is-a-game-changer-for-ethereum-and-the-entire-cryptocurrency-ecosystem-13fb412d1e75)
 *Medium Post by James Seibel (April 2018)*
@@ -224,6 +224,8 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 #### Video Tutorials
 
+- [Executive Vote Audit Tutorial with Chris Mooney](https://youtu.be/Gjx7PkHf_6o)
+*Video by MakerDAO (April 2020)*
 - [Governance Dashboard Video Walkthroughs: Voting with a Linked Wallet](https://www.youtube.com/watch?v=-zq6_ZJ0MpI)
 *Video by MakerDAO (May 2019)*
 - [Governance Dashboard Video Walkthroughs: Voting with a Single Wallet](https://www.youtube.com/watch?v=nWhLzyhZV-Q)
@@ -626,6 +628,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 - [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 - [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
+- [RAY](https://staked.us/v/robo-advisor-yield/): Earn the Highest Yield in DeFi 
 - [Zerion](https://zerion.io): Simple interface to the protocols of decentralized finance
 
 ### Trade Dai
@@ -633,6 +636,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 #### Dai and MKR Markets
 
 - [Messari](https://messari.io/): [DAI](https://messari.io/asset/Dai/exchanges) | [MKR](https://messari.io/asset/maker/exchanges)
+- [CoinGecko](https://www.coingecko.com/): [DAI](https://www.coingecko.com/en/coins/dai) | [MKR](https://www.coingecko.com/en/coins/maker)
 
 #### Token Swaps
 
@@ -709,7 +713,6 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Monitor Vaults
 
-- [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0/edit#gid=1576939815): Google Sheets CDP Simulator <!-- requested access to sheet twice, has not been granted -->
 - [CDP Simulator](https://cdp-simulator.surge.sh/): Metamask Required
 - [CDP Simulator](https://cdpsimulator.netlify.com/): Metamask Not Required
 - [DeFi Explore](https://defiexplore.com/): Find info on Maker Vaults
@@ -719,6 +722,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Analytics and Metrics
 
+- [Catflip](https://catflip.co/): Provides current and historical Maker's system parameters
 - [Daiembassy](https://www.daiembassy.online/): MakerDAO System Explorer
 - [Dai-in-Defi](https://dai-in-defi.com/): Supply and Demand Dashboard for Maker Dai
 - [DaiPeg](https://daipeg.com/): Dai USD Price Tracker
@@ -752,6 +756,8 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2020
 
+- [MKR Token Authority transfer]()
+- [First Debt Auction]()
 - [First Surplus Auction](https://twitter.com/KentonPrescott/status/1223792492790706176?s=20) | [tx](https://etherscan.io/tx/%20%20%20%20%20%20%20%20%20%200x3e12197892310b9b50fc6ea89b66009e5d7e1a9c74afcd0c1821cb021a44d8f4)
 - [MKR Token Authority Transferred](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/) | [tx](https://etherscan.io/tx/0x6c3e56c4b99b280dddbff4f087c25d89c054421a202503fd49c36c6683e48fa1)
 *MakerDAO Blog Post (January 2020)*
@@ -896,6 +902,12 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 #### 2020 | Broadcasts
 
+- [The Block Experience: Alex Van de Sande – The MakerDAO Situation & The Ethereum Foundation](https://thedailychain.com/the-block-experience-alex-van-de-sande-the-makerdao-situation-the-ethereum-foundation/)
+*The Block Experience Podcast (April 2020)*
+- [The Defiant: MakerDAO Founder Rune Christensen on DeFi’s Biggest Test Yet](https://anchor.fm/camila-russo/episodes/MakerDAO-Founder-Rune-Christensen-On-DeFis-Biggest-Test-Yet-ecgj0b)
+*The Defiant Podcast (April 2020)*
+- [OKCoin Let’s Chat: Dai’s Secret Sauce Is Decentralization with Greg Diprisco](https://blog.okcoin.com/2020/04/01/ok-lets-chat%e2%80%8a-%e2%80%8adais-secret-sauceis-decentralization/)
+*OKCoin Let’s Chat Podcast (April 2020)*
 - [Ethereal Podcast: Episode 1 - Why MakerDAO's Head of Smart Contracts Dogfoods DAI](https://www.etherealsummit.com/news/ethereal-podcast-episode-1-mariano-conti)
 *Ethereal Podcast (March 2020)*
 
