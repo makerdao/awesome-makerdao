@@ -25,4 +25,4 @@ DaiとCDPプラットフォームは、インドの農村部からウォール�
 - [複数担保型DAIのCDPライフサイクルを1周してみる](https://link.medium.com/xkQ9ejFKhY)
 
 ## よくある質問
--　[FAQ: 用語集](https://github.com/makerdao/community/blob/master/faqs/ja/glossary.md)
+-　[FAQ: 用語集](https://github.com/makerdao/community/blob/master/scd-faqs/ja/glossary.md)
