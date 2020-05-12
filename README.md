@@ -420,7 +420,6 @@ All Votes below have passed
 - [Poll: Ratify the Interim Governance Facilitator Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) | [Governance Poll](https://mkrgov.science/poll/29)
 - [Poll: Ratify the Interim Risk Team Mandate](https://forum.makerdao.com/t/mandate-risk-teams/282) | [Governance Poll](https://mkrgov.science/poll/30)
 
-
 ### Important Forum Threads
 
 - [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
@@ -756,9 +755,14 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 ### 2020
 
-- [MKR Token Authority transfer]()
+- [SCD Shutdown]() | [tx](https://etherscan.io/tx/0xe2f04da54fd0550abfd0da24f5e422c4fa820242ff7979aacb26bea596f0d1be)
+*(May 2020)*
+- [MKR Token Authority transfer](https://blog.makerdao.com/the-transfer-of-mkr-token-control-to-governance-the-final-step/)
+*MakerDAO Blog Post (March 2020)*
 - [First Debt Auction]()
+*needs link (March 2020)*
 - [First Surplus Auction](https://twitter.com/KentonPrescott/status/1223792492790706176?s=20) | [tx](https://etherscan.io/tx/%20%20%20%20%20%20%20%20%20%200x3e12197892310b9b50fc6ea89b66009e5d7e1a9c74afcd0c1821cb021a44d8f4)
+*Kenton Prescott Tweet (February 2020)*
 - [MKR Token Authority Transferred](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/) | [tx](https://etherscan.io/tx/0x6c3e56c4b99b280dddbff4f087c25d89c054421a202503fd49c36c6683e48fa1)
 *MakerDAO Blog Post (January 2020)*
 - [MKR in the burner address was BURNED for the first time](https://twitter.com/nanexcool/status/1216824200914243584?s=20) | [tx](https://etherscan.io/tx/0xda5f9a9dfc33c73dd1582c894736cb97248255fffa59b39bda0acb65e5374f95)
