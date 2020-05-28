@@ -134,10 +134,12 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Meetings
 
-- Community Meetings
-[Join](https://meet.google.com/idg-znme-kvt) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
-- Scientific Governance and Risk Meetings
-[Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+- Community Meetings  
+[Join \*](https://meet.google.com/idg-znme-kvt) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
+- Scientific Governance and Risk Meetings  
+[Join \*](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+
+**\* Note:** Public meetings are now password protected. Reach out to an admin on the [#general](https://chat.makerdao.com/channel/general) channel on Maker's Rocket.Chat to request access.
 
 ### Upcoming Events
 
@@ -480,8 +482,10 @@ All Votes below have passed
 ### Meetings and Discussions
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
-- Scientific Governance and Risk Meetings
-  - [Join](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/tracks) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+- Scientific Governance and Risk Meetings  
+[Join \*](https://zoom.us/j/697074715) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao) | [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) | [Minutes (Archive)](https://github.com/scottrepreneur/maker-minutes)
+
+**\* Note:** Public meetings are now password protected. Reach out to an admin on the [#general](https://chat.makerdao.com/channel/general) channel on Maker's Rocket.Chat to request access.
 
 ## Voting Basics
 
@@ -1329,7 +1333,6 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 - [SCD FAQs: Korean](https://community-development.makerdao.com/makerdao-scd-faqs/ko)
 - [SCD FAQs: Polish](https://community-development.makerdao.com/makerdao-scd-faqs/pl)
 - [SCD FAQs: Zhōngwén](https://community-development.makerdao.com/makerdao-scd-faqs/zh)
-
 
 #### Translated Videos
 
