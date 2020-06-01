@@ -426,11 +426,10 @@ All Votes below have passed
 
 - [An Explanation of Continuous Voting and the Peculiarities of the 7/26 Executive Stability Fee Vote](https://forum.makerdao.com/t/an-explanation-of-continuous-voting-and-the-peculiarities-of-the-7-26-executive-stability-fee-vote/193/1)
 - [Governance Initiatives](https://forum.makerdao.com/t/governance-initiatives/1347)
-- [Signaling Guidelines](https://forum.makerdao.com/t/signaling-guidelines/223)
+- [Signaling Guidelines](https://forum.makerdao.com/t/practical-guide-to-the-signaling-process/2623)
 - [Participation in Maker governance](https://forum.makerdao.com/t/participation-in-maker-governance/968)
 - [Vote delegation](https://forum.makerdao.com/t/vote-delegation-is-not-something-we-should-be-striving-for/336)
 - [Stablecoins as collateral](https://forum.makerdao.com/t/whats-the-point-of-adding-stablecoins-as-collateral/453/25)
-- [PurityDai](https://forum.makerdao.com/t/puritydai-a-potential-solution-to-the-real-world-collateral-controversy/526)
 - [DSR spread](https://forum.makerdao.com/t/a-governance-model-for-maker/1056)
 - [Validation Teams Proposal](https://forum.makerdao.com/t/validation-teams-a-proposal-for-a-new-variety-of-team/570)
 - [Interim Governance Facilitators Mandate](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
@@ -443,7 +442,7 @@ All Votes below have passed
 - [SCD Shutdown Parameters Discussion](https://forum.makerdao.com/t/summary-discussion-of-parameters-for-scd-shutdown/1130/2)
 - [Dark Fix Mechanism: A Proposal for Handling Critical Vulnerabilities](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
 - [Ranked Choice Voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274)
-- [How to Audit Executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?u=davidutro)
+- [How to Audit Executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7)
 - [Compensating vault holders that liquidated at 0 bid](https://forum.makerdao.com/t/compensating-vault-holders-that-liquidated-at-0-bid/1541)
 - [Black Thursday Response Thread](https://forum.makerdao.com/t/black-thursday-response-thread/1433)
 
