@@ -593,6 +593,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
 - [Pool Dai](https://zeframlou.github.io/pooldai/): Lossless Donation Protocol
 - [Request](https://app.request.network/): Request a Payment in Dai
+- [Sablier](https://pay.sablier.finance): Stream Money with Dai
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
 #### Merchant Solutions | Payment Processors
