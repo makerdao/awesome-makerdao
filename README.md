@@ -592,7 +592,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Liquid Long](https://liquid-long.keydonix.com/): Leverage ETH
 - [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
 - [Pool Dai](https://zeframlou.github.io/pooldai/): Lossless Donation Protocol
-- [Request](https://app.request.network/): Request a Payment in Dai
+- [Request](https://create.request.network/): Request a Payment in Dai
 - [Sablier](https://pay.sablier.finance): Stream Money with Dai
 - [Whisp.Money](https://whisp.money): Dai Payroll Solution
 
