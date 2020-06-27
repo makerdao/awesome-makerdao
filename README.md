@@ -737,6 +737,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [DeFi.ai](https://defi.ai/dai): Provides Coinbase and Radar pricing data, showing where Dai trades in comparison to its $1 soft peg.
 - [DeFiTracker](https://defitracker.io/): Track Dai Across DeFi Protocols
 - [Dsr.fyi](https://dsr.fyi/): Check your DSR Dai balance
+- [Maker Auctions](https://maker-auctions.io/): Track Maker auctions
 - [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 - [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
 - [MCD Collateral Auctions](https://daiauctions.com/): View the Collateral Auction process
