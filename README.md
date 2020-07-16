@@ -583,6 +583,7 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 
 #### Apps | Integrations | Tools
 
+- [Atstake](https://atstake.net/): Marketplace and Platform for Contract Enforcement
 - [Bounty0x](https://bounty0x.io/): Bounty Hunting Platform
 - [Bounties Network](https://bounties.network/): Platform to Create Projects, Collaborate, and Freelance
 - [Chai](https://chai.money/): ERC-20 wrapper for Dai in DSR
