@@ -151,19 +151,19 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ## FAQs
 
-[_Glossary of Terms_](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
+[_Glossary of Terms_](https://community-development.makerdao.com/en/faqs/glossary)
 
-- [All](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs)
-- [Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
-- [Dai Savings Rate](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr)
-- [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
-- [Governance](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance)
-- [Liquidation](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
+- [All](https://community-development.makerdao.com/en/faqs)
+- [Dai](https://community-development.makerdao.com/en/faqs/dai)
+- [Dai Savings Rate](https://community-development.makerdao.com/en/faqs/dsr)
+- [Emergency Shutdown](https://community-development.makerdao.com/en/faqs/emergency-shutdown)
+- [Governance](https://community-development.makerdao.com/en/faqs/governance)
+- [Liquidation](https://community-development.makerdao.com/en/faqs/liquidation)
 - [MakerDAO(old)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao): new coming soon
-- [MKR Token](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token)
-- [Oracles](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/oracles)
-- [Stability Fees](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee)
-- [Vaults](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault)
+- [MKR Token](https://community-development.makerdao.com/en/faqs/mkr-token)
+- [Oracles](https://community-development.makerdao.com/en/faqs/oracles)
+- [Stability Fees](https://community-development.makerdao.com/en/faqs/stability-fee)
+- [Vaults](https://community-development.makerdao.com/en/faqs/vault)
 - [Special FAQ: Where does the name "Dai" come from?](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)
 
 ## Basics
