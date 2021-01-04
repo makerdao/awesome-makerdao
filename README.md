@@ -752,7 +752,8 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 - [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 - [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
-- [Vishesh's Graphs](https://makerdao.descipher.io/): Data Representations
+- [Vishesh's Graphs for Vaults](http://makervaults.descipher.io/): Data Representations
+- [Vishesh's Graphs for Dai](http://dai.descipher.io/): Data Representations
 - [VWAP Breakdown](http://dai.descipher.io/): Dai Price Tracker
 
 #### Stablecoin Comparisons
@@ -1227,6 +1228,32 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
   - [Introduction to Seth](https://github.com/makerdao/developerguides/blob/master/devtools/seth/seth-guide-01/seth-guide-01.md)
   - [Working with DSProxy](https://github.com/makerdao/developerguides/blob/master/devtools/working-with-dsproxy/working-with-dsproxy.md)
 
+### Multi-Collateral Dai
+
+#### Contracts
+
+- [Changelog](https://changelog.makerdao.com): Multi-Collateral DAI Public Releases
+
+#### Tools
+
+- [Testchain](https://github.com/makerdao/testchain): Run MCD Contracts Locally
+
+#### Documentation
+
+- [MCD Core CDP Engine Architecture](https://github.com/makerdao/dss/wiki)
+- [MCD System Variables](https://www.notion.so/MCD-System-c4df43ded9aa47f7b3770cb7ea6a79e7)
+- [K-DSS Formal Specification and Verification of Multi-Collateral Dai](https://github.com/dapphub/k-dss)
+
+#### Guides and Tutorials
+
+- [MCD 101](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
+- [Auction Keeper Bot Setup Guide](https://github.com/makerdao/developerguides/blob/master/keepers/auction-keeper-bot-setup-guide.md)
+- [Auctions and Keepers in Multi-Collateral Dai Explained](https://github.com/makerdao/developerguides/blob/master/keepers/auctions/auctions-101.md)
+- [Introduction on How to Use Maker's Custom Test Chain](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
+- [Intro to the Rate mechanism](https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.md)
+- [WIP: Multi Collateral Dai Developer Guide](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
+- [Upgrading to Multi-Collateral Dai](https://github.com/makerdao/developerguides/tree/master/mcd)
+
 ### Single-Collateral Dai
 
 #### Contracts
@@ -1286,6 +1313,8 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 
 - [GraphQL API](https://developer.makerdao.com/dai/1/graphql/)
 - [Price Feed Documentation](https://developer.makerdao.com/feeds/)
+- [MakerDAO SubGraph 1](https://thegraph.com/explorer/subgraph/protofire/makerdao
+- [MakerDAO SubGraph 2](https://thegraph.com/explorer/subgraph/protofire/maker-protocol)
 
 #### Examples
 
@@ -1295,32 +1324,6 @@ _Notice: Some Single-Collateral and Multi-Collateral Dai resources may overlap._
 - [Dai Integration Examples](https://github.com/makerdao/integration-examples)
 - [Liquid Long CDP Management](https://help.keydonix.com/articles/37031-where-can-i-find-the-source-code)
 - [Shadowlands CDP Manager: 100% Python, TextUI Dapp platform for ethereum, built on Python3.5+, web3.py and asciimatics](https://github.com/kayagoban/shadowlands_cdp_manager)
-
-### Multi-Collateral Dai
-
-#### Contracts
-
-- [Changelog](https://changelog.makerdao.com): Multi-Collateral DAI Public Releases
-
-#### Tools
-
-- [Testchain](https://github.com/makerdao/testchain): Run MCD Contracts Locally
-
-#### Documentation
-
-- [MCD Core CDP Engine Architecture](https://github.com/makerdao/dss/wiki)
-- [MCD System Variables](https://www.notion.so/MCD-System-c4df43ded9aa47f7b3770cb7ea6a79e7)
-- [K-DSS Formal Specification and Verification of Multi-Collateral Dai](https://github.com/dapphub/k-dss)
-
-#### Guides and Tutorials
-
-- [MCD 101](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-101/mcd-101.md)
-- [Auction Keeper Bot Setup Guide](https://github.com/makerdao/developerguides/blob/master/keepers/auction-keeper-bot-setup-guide.md)
-- [Auctions and Keepers in Multi-Collateral Dai Explained](https://github.com/makerdao/developerguides/blob/master/keepers/auctions/auctions-101.md)
-- [Introduction on How to Use Maker's Custom Test Chain](https://github.com/makerdao/developerguides/blob/master/devtools/test-chain-guide/test-chain-guide.md)
-- [Intro to the Rate mechanism](https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.md)
-- [WIP: Multi Collateral Dai Developer Guide](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
-- [Upgrading to Multi-Collateral Dai](https://github.com/makerdao/developerguides/tree/master/mcd)
 
 ## Translated Resources
 
