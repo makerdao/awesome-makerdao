@@ -625,6 +625,8 @@ Participate in MakerDAO Governance by staying informed and voting regularly.
 - [Swarm](https://www.swarm.fund/): Participate in security token offerings
 - [Unicef](https://lp.unicef.fr/donate-dai/): Donate Dai
 - [Wirex](https://wirexapp.com/card/): Visa debit card that can be top-up with Dai
+- [Mask Network](https://mask.io/): red packet of DAI on Twitter
+- [China Green Development Foundation](http://www.cbcgdf.org/English/NewsShow/5014/14193.html): Donate Dai for environmental NGO
 
 ### Lend Dai
 
