@@ -160,7 +160,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 * [Emergency Shutdown](https://community-development.makerdao.com/en/faqs/emergency-shutdown)
 * [Governance](https://community-development.makerdao.com/en/faqs/governance)
 * [Liquidation](https://community-development.makerdao.com/en/faqs/liquidation)
-* [MakerDAO\(old\)](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/makerdao): new coming soon
+* [MakerDAO](https://community-development.makerdao.com/en/learn/MakerDAO)
 * [MKR Token](https://community-development.makerdao.com/en/faqs/mkr-token)
 * [Oracles](https://community-development.makerdao.com/en/faqs/oracles)
 * [Stability Fees](https://community-development.makerdao.com/en/faqs/stability-fee)
