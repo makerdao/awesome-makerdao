@@ -22,87 +22,87 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Official
 
-* [Properties](./#properties)
-* [Channels](./#channels)
-* [Meetings](./#meetings)
-* [Events](./#upcoming-events)
-* [Partnerships](./#partnerships)
+* [Properties](#properties)
+* [Channels](#channels)
+* [Meetings](#meetings)
+* [Events](#upcoming-events)
+* [Partnerships](#partnerships)
 
 ### Frequently Asked Questions
 
-* [FAQs](./#faqs)
+* [FAQs](#faqs)
 
 ### Basics
 
-* [Onboarding Guides](./#onboarding-guides)
-* [Beginner Guides](./#beginner-guides)
-* [Tutorials](./#tutorials)
-* [Stablecoins in General](./#stablecoins-in-general)
-* [In-Depth Analysis:](./#in-depth-analysis) [101](./#makerdao-101) \| [201](./#makerdao-201)
-* [Maker Protocol](./#maker-protocol)
+* [Onboarding Guides](#onboarding-guides)
+* [Beginner Guides](#beginner-guides)
+* [Tutorials](#tutorials)
+* [Stablecoins in General](#stablecoins-in-general)
+* [In-Depth Analysis:](#in-depth-analysis) [101](#makerdao-101) \| [201](#makerdao-201)
+* [Maker Protocol](#maker-protocol)
 
 ### Governance \| Risk
 
-* [Overview](./#governance-and-risk)
-* [Governance Resources](./#governance-resources)
-* [Key Votes](./#key-votes)
-* [Important Forum Threads](./#important-forum-threads)
-* [Governance call presentations](./#governance-call-presentations)
-* [Analytics](./#analytics)
-* [Meetings and Discussions](./#meetings-and-discussions)
+* [Overview](#governance-and-risk)
+* [Governance Resources](#governance-resources)
+* [Key Votes](#key-votes)
+* [Important Forum Threads](#important-forum-threads)
+* [Governance call presentations](#governance-call-presentations)
+* [Analytics](#analytics)
+* [Meetings and Discussions](#meetings-and-discussions)
 
 ### Voting
 
-* [Overview](./#voting-basics)
-* [Onboarding](./#voter-onboarding)
-* [Dashboard](./#voting-dashboard)
-* [Voting Contract](./#voting-contract)
+* [Overview](#voting-basics)
+* [Onboarding](#voter-onboarding)
+* [Dashboard](#voting-dashboard)
+* [Voting Contract](#voting-contract)
 
 ### Dai
 
-* [Generate Dai](./#generate-dai)
-* [Earn Dai](./#earn-dai)
-* [Hold Dai](./#hold-dai)
-* [Use Dai](./#use-dai)
-* [Spend Dai](./#spend-dai)
-* [Lend Dai](./#lend-dai)
-* [Trade Dai](./#trade-dai)
-* [Watch Dai](./#watch-dai)
+* [Generate Dai](#generate-dai)
+* [Earn Dai](#earn-dai)
+* [Hold Dai](#hold-dai)
+* [Use Dai](#use-dai)
+* [Spend Dai](#spend-dai)
+* [Lend Dai](#lend-dai)
+* [Trade Dai](#trade-dai)
+* [Watch Dai](#watch-dai)
 
 ### Milestones
 
-* [2020](./#2020)
-* [2019](./#2019)
-* [2018](./#2018)
-* [2017](./#2017)
-* [2016](./#2016)
+* [2020](#2020)
+* [2019](#2019)
+* [2018](#2018)
+* [2017](#2017)
+* [2016](#2016)
 
 ### Media Coverage
 
-* [Interviews](./#interviews)
-* [Podcasts](./#podcasts)
-* [Videos](./#videos)
-* [Mentions](./#dai-and-makerdao-mentions)
-* [Speculation](./#speculation)
-* [Criticism](./#criticism)
+* [Interviews](#interviews)
+* [Podcasts](#podcasts)
+* [Videos](#videos)
+* [Mentions](#dai-and-makerdao-mentions)
+* [Speculation](#speculation)
+* [Criticism](#criticism)
 
 ### Audits \| Security
 
-* [Multi-Collateral Dai](./#multi-collateral-dai) 
-* [Single-Collateral Dai](./#single-collateral-dai)
-* [Dappsys](./#dappsys)
+* [Multi-Collateral Dai](#multi-collateral-dai) 
+* [Single-Collateral Dai](#single-collateral-dai)
+* [Dappsys](#dappsys)
 
 ### Developer
 
-* [Developer Resources](./#developer-resources)
+* [Developer Resources](#developer-resources)
 
 ### Translations
 
-* [Translated Resources](./#translated-resources)
+* [Translated Resources](#translated-resources)
 
 ### Archive
 
-* [Archived Resources](./#archived-resources)
+* [Archived Resources](#archived-resources)
 
 ## Official
 
