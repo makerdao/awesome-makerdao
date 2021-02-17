@@ -739,10 +739,9 @@ _Notice: The Voting Portal is undergoing an update._
 * [Liquid Long](https://liquid-long.keydonix.com/): Leverage ETH
 * [PoolTogether](https://www.pooltogether.us/): Lossless Lottery
 * [Pool Dai](https://zeframlou.github.io/pooldai/): Lossless Donation Protocol
-* [Request](https://create.request.network/): Request a Payment in Dai
+* [Request Invoicing](https://invoicing.request.network/): Pay and get paid in cryptocurrency by sending compliant invoices as a freelancer or business.
 * [Sablier](https://pay.sablier.finance): Stream Money with Dai
 * [Whisp.Money](https://whisp.money): Dai Payroll Solution
-* [Request Invoicing](https://invoicing.request.network/): Pay and get paid in cryptocurrency by sending compliant invoices as a freelancer or business.
 
 #### Merchant Solutions \| Payment Processors
 
