@@ -742,6 +742,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [Request](https://create.request.network/): Request a Payment in Dai
 * [Sablier](https://pay.sablier.finance): Stream Money with Dai
 * [Whisp.Money](https://whisp.money): Dai Payroll Solution
+* [Request Invoicing](https://invoicing.request.network/): Pay and get paid in cryptocurrency by sending compliant invoices as a freelancer or business.
 
 #### Merchant Solutions \| Payment Processors
 
