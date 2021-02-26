@@ -806,6 +806,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [Liquality](https://liquality.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [Swap.online](https://swaponline.io/)
+* [SwapSwop](https://swapswop.io/)
 * [Uniswap](https://uniswap.exchange/swap)
 * [Tokenlon](https://tokenlon.im/instant)
 * [Zerion](https://zerion.io)
