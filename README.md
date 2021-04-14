@@ -1,7 +1,6 @@
 ---
-description: >-
-  Awesome MakerDAO is a community-driven resource project designed to help
-  people understand and use the Dai stablecoin and the Maker Protocol.
+Disclaimer: >-
+  Awesome MakerDAO is no longer actively updated. Some Information may be outdated.
 ---
 
 # Awesome MakerDAO
