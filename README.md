@@ -87,7 +87,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Audits \| Security
 
-* [Multi-Collateral Dai](#multi-collateral-dai) 
+* [Multi-Collateral Dai](#multi-collateral-dai)
 * [Single-Collateral Dai](#single-collateral-dai)
 * [Dappsys](#dappsys)
 
@@ -131,11 +131,11 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 ### Meetings
 
-* Community Meetings  
+* Community Meetings
 
   [Join \*](https://meet.google.com/idg-znme-kvt) \| [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) \| [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
 
-* Scientific Governance and Risk Meetings  
+* Scientific Governance and Risk Meetings
 
   [Join \*](https://zoom.us/j/697074715) \| [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) \| [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) \| [Audio Playlist](https://soundcloud.com/makerdao) \| [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) \| [Minutes \(Archive\)](https://github.com/scottrepreneur/maker-minutes)
 
@@ -278,7 +278,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
   _Video by MakerDAO \(May 2019\)_
 
-* [Spanish Tutorial on Using the CDP Portal: MakerDAO Step by Step](https://www.youtube.com/watch?v=LGJ4h-pdvlw&t=1s) 
+* [Spanish Tutorial on Using the CDP Portal: MakerDAO Step by Step](https://www.youtube.com/watch?v=LGJ4h-pdvlw&t=1s)
 
   _Video by Marcin Jagodziński. Narrated by Luis Lozada \(April 2019\)_
 
@@ -306,7 +306,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
   _Medium Post by ConsenSys \(March 2019\)_
 
-* [Stablecoin Overview: A Condensed Version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/) 
+* [Stablecoin Overview: A Condensed Version](https://blog.coinmarketcap.com/2018/11/16/stablecoin-overview-a-condensed-version/)
 
   _Post by the CoinMarketCap Blog \(November 2018\)_
 
@@ -623,7 +623,7 @@ All Votes below have passed
 ### Meetings and Discussions
 
 * [Governance Forum](https://forum.makerdao.com/c/governance)
-* Scientific Governance and Risk Meetings  
+* Scientific Governance and Risk Meetings
 
   [Join \*](https://zoom.us/j/697074715) \| [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) \| [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) \| [Audio Playlist](https://soundcloud.com/makerdao) \| [Transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) \| [Minutes \(Archive\)](https://github.com/scottrepreneur/maker-minutes)
 
@@ -705,6 +705,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [DexWallet](https://www.dexwallet.io/)
 * [Edge](https://edge.app/)
 * [Ethos Universal Wallet](https://www.ethos.io/universal-wallet/)
+* [Guarda Wallet](https://guarda.com/)
 * [Freewallet](https://freewallet.org/eth-wallet)
 * [MEW wallet](https://www.mewwallet.com/)
 * [WiniWallet](https://www.winiwallet.io)
@@ -713,6 +714,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 * [AlphaWallet](https://alphawallet.com/)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
+* [Guarda Wallet](https://guarda.com/)
 * [imToken](https://token.im/)
 * [Trust Wallet](https://trustwallet.com/)
 * [Lumi](https://lumiwallet.com/)
@@ -721,6 +723,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 * [Atomic Wallet](https://atomicwallet.io/)
 * [Exodus](https://www.exodus.io/)
+* [Guarda Wallet](https://guarda.com/)
 * [Status.im](https://status.im/)
 * [Zelcore](https://zel.network/project/zelcore/)
 
@@ -763,7 +766,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [Coinevents.io](https://coinevents.io): Event tickets, sell your event's tickets for crypto
 * [Grid Plus Energy](https://gridplus.io/energy): Pay for electricity with Dai, ETH, or BTC \(Texas\)
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/): Pay any bill with cryptocurrency \(Australia\)
-* [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features 
+* [Monolith](https://monolith.xyz/): Ethereum wallet with debit card options and various security features
 * [NeedsList](https://needslist.co): Purchase items that are critically needed and help with disaster preparedness
 * [OpenSea](https://opensea.io): Buy and sell digital goods and assets, make offers in Dai
 * [Swarm](https://www.swarm.fund/): Participate in security token offerings
@@ -783,7 +786,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [Fulcrum](https://fulcrum.trade/#/lend): Decentralized Dai Lending and Margin Trading
 * [Nexo](https://nexo.io/): Custodial Lending and Borrowing
 * [Nuo](https://www.nuo.network/): Non-Custodial Lending, Borrowing, and Trading
-* [RAY](https://staked.us/v/robo-advisor-yield/): Earn the Highest Yield in DeFi 
+* [RAY](https://staked.us/v/robo-advisor-yield/): Earn the Highest Yield in DeFi
 * [Zerion](https://zerion.io): Simple interface to the protocols of decentralized finance
 
 ### Trade Dai
@@ -892,7 +895,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [MakerDaiBot](https://twitter.com/MakerDaiBot): Twitterbot
 * [MakerVaults.descipher.io](http://makervaults.descipher.io/): Analytics Dashboard
 * [MCD Collateral Auctions](https://daiauctions.com/): View the Collateral Auction process
-* [MCD State](http://mcdstate.info/): Data on individual Vaults 
+* [MCD State](http://mcdstate.info/): Data on individual Vaults
 * [Mkr.tools](https://mkr.tools): MakerDAO System Explorer and Informational Statistics
 * [Nomics: Dai](https://nomics.com/assets/dai-dai#statistics): Dai Statistics with an API Aggregator
 * [Santiment](https://graphs.santiment.net/makerdao): Maker Analytics
@@ -1024,7 +1027,7 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 
 * [Announcing the MakerDAO Core Community Development Initiative](https://web.archive.org/web/20190518020147/https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)
 
-  _Medium Post by MakerDAO \(October 2018\)_ 
+  _Medium Post by MakerDAO \(October 2018\)_
 
 * [The Maker Foundation Proposal](https://vote.makerdao.com/polling-proposal/pollfoundationproposal)
 
