@@ -701,6 +701,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 * [Argent](https://www.argent.xyz/)
 * [BRD](https://brd.com/)
+* [Bridge Wallet](https://www.mtpelerin.com/bridge-wallet)
 * [Celsius](https://celsius.network/)
 * [DexWallet](https://www.dexwallet.io/)
 * [Edge](https://edge.app/)
@@ -713,6 +714,7 @@ _Notice: The Voting Portal is undergoing an update._
 #### Mobile \| Browser Wallets
 
 * [AlphaWallet](https://alphawallet.com/)
+* [Bridge Wallet](https://www.mtpelerin.com/bridge-wallet)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Guarda Wallet](https://guarda.com/)
 * [imToken](https://token.im/)
@@ -859,6 +861,9 @@ _Notice: The Voting Portal is undergoing an update._
 * [Easy Crypto](https://easycrypto.ai/): Australia \| New Zealand \| South Africa
 * [Elastum](https://elastum.io/): EU \| Global
   * [Unsupported Countries and US States](https://elastum.zendesk.com/hc/en-us/articles/360021383471-Supported-countries)
+* [MtPelerin](https://www.mtpelerin.com/crypto-fiat-exchange): UK \| EU \| Global
+  * [Supported currencies](https://www.mtpelerin.com/currency-converter/currencies)
+  * [Country restriction list](https://www.mtpelerin.com/sell-crypto#countries)
 * [Orionx](https://www.orionx.com): Mexico \| Chile
 * [PayTrie](https://paytrie.com): Canada
 * [Ramp](https://instant.ramp.network/): UK \| EU
