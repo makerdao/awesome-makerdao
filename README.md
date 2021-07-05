@@ -701,7 +701,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 * [Argent](https://www.argent.xyz/)
 * [BRD](https://brd.com/)
-* [Celcius](https://celsius.network/)
+* [Celsius](https://celsius.network/)
 * [DexWallet](https://www.dexwallet.io/)
 * [Edge](https://edge.app/)
 * [Ethos Universal Wallet](https://www.ethos.io/universal-wallet/)
@@ -778,7 +778,7 @@ _Notice: The Voting Portal is undergoing an update._
 ### Lend Dai
 
 * [Aave](https://aave.com/): Open Source and Non-Custodial Lending and Borrowing
-* [Celcius](https://celsius.network/): Custodial Lending and Borrowing
+* [Celsius](https://celsius.network/): Custodial Lending and Borrowing
 * [Compound.Finance](https://app.compound.finance/): Decentralized Lending and Borrowing
 * [Dharma](https://www.dharma.io/): Pretty Compound UI
 * [DyDx](https://dydx.exchange/): Decentralized Trading, Lending, and Borrowing
