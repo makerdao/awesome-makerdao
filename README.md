@@ -366,6 +366,7 @@ The Maker Foundation grants program offers bounties to community members who bri
 
 * [AMPL: Ampleforth](https://www.ampleforth.org): Algorithmic Stability
 * [CUSD: Carbon](https://www.carbon.money/): Algorithmic Stability
+* [CUSD: Celo](https://celo.org/): Algorithmic Stability & Collateral Backed
 * [USDC: Coinbase](https://www.centre.io/usdc/): USD Backed
 * [GUSD: Gemini](https://gemini.com/dollar/): USD Backed
 * [NUSD: Neutral](https://dapp.neutralproject.com/): Metastable Stablecoin Basket
