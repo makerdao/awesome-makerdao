@@ -696,6 +696,7 @@ _Notice: The Voting Portal is undergoing an update._
 #### Browser Extension Wallets
 
 * [MetaMask](https://metamask.io/)
+* [SimpleHold Wallet](https://simplehold.io/coins/ethereum/dai)
 
 #### Mobile Wallets
 
@@ -709,6 +710,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [Freewallet](https://freewallet.org/eth-wallet)
 * [MEW wallet](https://www.mewwallet.com/)
 * [WiniWallet](https://www.winiwallet.io)
+* [SimpleHold Wallet](https://simplehold.io/coins/ethereum/dai)
 
 #### Mobile \| Browser Wallets
 
@@ -718,6 +720,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [imToken](https://token.im/)
 * [Trust Wallet](https://trustwallet.com/)
 * [Lumi](https://lumiwallet.com/)
+* [SimpleHold Wallet](https://simplehold.io/coins/ethereum/dai)
 
 #### Mobile \| Desktop Wallets
 
