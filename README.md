@@ -718,6 +718,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [imToken](https://token.im/)
 * [Trust Wallet](https://trustwallet.com/)
 * [Lumi](https://lumiwallet.com/)
+* [NOW Wallet](https://walletnow.app/)
 
 #### Mobile \| Desktop Wallets
 
